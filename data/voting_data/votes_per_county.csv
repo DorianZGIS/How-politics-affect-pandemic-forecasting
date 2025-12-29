@@ -1,0 +1,3143 @@
+,name,countyfips,state,population,state_full,Clusters
+0,Franklin,1059,AL,31362,Alabama,Republicans
+1,Adair,19001,IA,7152,Iowa,Republicans
+2,Hancock,19081,IA,10630,Iowa,Republicans
+3,Franklin,19069,IA,10070,Iowa,Swing_County
+4,McDonough,17109,IL,29682,Illinois,Swing_County
+5,Pulaski,18131,IN,12353,Indiana,Republicans
+6,Boone,19015,IA,26234,Iowa,Swing_County
+7,Union,19175,IA,12241,Iowa,Swing_County
+8,O'Brien,19141,IA,13753,Iowa,Republicans
+9,Buena Vista,19021,IA,19620,Iowa,Republicans
+10,Montgomery,19137,IA,9917,Iowa,Republicans
+11,Humboldt,19091,IA,9558,Iowa,Republicans
+12,Davis,19051,IA,9000,Iowa,Republicans
+13,Lamar,1075,AL,13805,Alabama,Republicans
+14,Marion,1093,AL,29709,Alabama,Republicans
+15,Bleckley,13023,GA,12873,Georgia,Republicans
+16,Talladega,1121,AL,79978,Alabama,Republicans
+17,Tallapoosa,1123,AL,40367,Alabama,Republicans
+18,Winston,1133,AL,23629,Alabama,Republicans
+19,Colbert,1033,AL,55241,Alabama,Republicans
+20,Dale,1045,AL,49172,Alabama,Republicans
+21,Limestone,1083,AL,98915,Alabama,Republicans
+22,Bullock,1011,AL,10101,Alabama,Democrats
+23,Coffee,1031,AL,52342,Alabama,Republicans
+24,Butler,1013,AL,19448,Alabama,Republicans
+25,Calhoun,1015,AL,113605,Alabama,Republicans
+26,Chambers,1017,AL,33254,Alabama,Republicans
+27,Conejos,8021,CO,8205,Colorado,Swing_County
+28,Cherokee,1019,AL,26196,Alabama,Republicans
+29,Chilton,1021,AL,44428,Alabama,Republicans
+30,Choctaw,1023,AL,12589,Alabama,Republicans
+31,Adams,18001,IN,35777,Indiana,Republicans
+32,Clarke,1025,AL,23622,Alabama,Republicans
+33,Clay,1027,AL,13235,Alabama,Republicans
+34,Cleburne,1029,AL,14910,Alabama,Republicans
+35,Conecuh,1035,AL,12067,Alabama,Swing_County
+36,Coosa,1037,AL,10663,Alabama,Republicans
+37,Covington,1039,AL,37049,Alabama,Republicans
+38,Crenshaw,1041,AL,13772,Alabama,Republicans
+39,Cullman,1043,AL,83768,Alabama,Republicans
+40,Dallas,1047,AL,37196,Alabama,Democrats
+41,DeKalb,1049,AL,71513,Alabama,Republicans
+42,Elmore,1051,AL,81209,Alabama,Republicans
+43,Escambia,1053,AL,36633,Alabama,Republicans
+44,Etowah,1055,AL,102268,Alabama,Republicans
+45,Fayette,1057,AL,16302,Alabama,Republicans
+46,Geneva,1061,AL,26271,Alabama,Republicans
+47,Monroe,1099,AL,20733,Alabama,Republicans
+48,Greene,1063,AL,8111,Alabama,Democrats
+49,Hale,1065,AL,14651,Alabama,Democrats
+50,Henry,1067,AL,17205,Alabama,Republicans
+51,Houston,1069,AL,105882,Alabama,Republicans
+52,Floyd,19067,IA,15642,Iowa,Swing_County
+53,Morgan,1103,AL,119679,Alabama,Republicans
+54,Perry,1105,AL,8923,Alabama,Democrats
+55,Jackson,1071,AL,51626,Alabama,Republicans
+56,Jefferson,1073,AL,658573,Alabama,Swing_County
+57,Lauderdale,1077,AL,92729,Alabama,Republicans
+58,Lawrence,1079,AL,32924,Alabama,Republicans
+59,Cleveland,5025,AR,7956,Arkansas,Republicans
+60,Lee,1081,AL,164542,Alabama,Republicans
+61,Lowndes,1085,AL,9726,Alabama,Democrats
+62,Macon,1087,AL,18068,Alabama,Democrats
+63,Putnam,17155,IL,5739,Illinois,Swing_County
+64,Madison,1089,AL,372909,Alabama,Republicans
+65,Marengo,1091,AL,18863,Alabama,Swing_County
+66,Marshall,1095,AL,96774,Alabama,Republicans
+67,Mobile,1097,AL,413210,Alabama,Republicans
+68,Montgomery,1101,AL,226486,Alabama,Democrats
+69,Pickens,1107,AL,19930,Alabama,Republicans
+70,Pike,1109,AL,33114,Alabama,Republicans
+71,Randolph,1111,AL,22722,Alabama,Republicans
+72,Russell,1113,AL,57961,Alabama,Swing_County
+73,Bibb,1007,AL,22394,Alabama,Republicans
+74,St. Clair,1115,AL,89512,Alabama,Republicans
+75,Shelby,1117,AL,217702,Alabama,Republicans
+76,Sumter,1119,AL,12427,Alabama,Democrats
+77,Tuscaloosa,1125,AL,209355,Alabama,Republicans
+78,Iowa,19095,IA,16184,Iowa,Swing_County
+79,Walker,1127,AL,63521,Alabama,Republicans
+80,Washington,1129,AL,16326,Alabama,Republicans
+81,Wilcox,1131,AL,10373,Alabama,Democrats
+82,Blount,1009,AL,57826,Alabama,Republicans
+83,Autauga,1001,AL,55869,Alabama,Republicans
+84,Baldwin,1003,AL,223234,Alabama,Republicans
+85,San Juan,8111,CO,728,Colorado,Democrats
+86,Barbour,1005,AL,24686,Alabama,Swing_County
+87,Anchorage,2020,AK,288000,Alaska,Swing_County
+88,Skagway,2230,AK,1183,Alaska,
+89,Juneau,2110,AK,31974,Alaska,
+90,Fairbanks North Star,2090,AK,96849,Alaska,
+91,Navajo,4017,AZ,110924,Arizona,Republicans
+92,Pima,4019,AZ,1047279,Arizona,Democrats
+93,Poinsett,5111,AR,23528,Arkansas,Swing_County
+94,Chickasaw,19037,IA,11933,Iowa,Swing_County
+95,Ketchikan Gateway,2130,AK,13901,Alaska,
+96,Haines,2100,AK,2530,Alaska,
+97,Hempstead,5057,AR,21532,Arkansas,Swing_County
+98,Little River,5081,AR,12259,Arkansas,Swing_County
+99,Cross,5037,AR,16419,Arkansas,Republicans
+100,Delta,8029,CO,31162,Colorado,Republicans
+101,Kusilvak,2158,AK,8314,Alaska,
+102,Sitka,2220,AK,8493,Alaska,
+103,Wrangell,2275,AK,2502,Alaska,
+104,Montgomery,5097,AR,8986,Arkansas,Republicans
+105,Craighead,5031,AR,110332,Arkansas,Republicans
+106,Van Buren,5141,AR,16545,Arkansas,Republicans
+107,Valdez-Cordova,2261,AK,9202,Alaska,
+108,Saline,5125,AR,122437,Arkansas,Republicans
+109,Hinsdale,8053,CO,820,Colorado,Republicans
+110,Aleutians East,2013,AK,3337,Alaska,Republicans
+111,Denali,2068,AK,2097,Alaska,
+112,Sebastian,5131,AR,127827,Arkansas,Republicans
+113,Hoonah-Angoon,2105,AK,2148,Alaska,
+114,Ashley,5003,AR,19657,Arkansas,Republicans
+115,Fulton,5049,AR,12477,Arkansas,Republicans
+116,Hot Spring,5059,AR,33771,Arkansas,Swing_County
+117,Gilpin,8047,CO,6243,Colorado,Swing_County
+118,Cochise,4003,AZ,125922,Arizona,Republicans
+119,Bethel,2050,AK,18386,Alaska,
+120,Bristol Bay,2060,AK,836,Alaska,
+121,Dillingham,2070,AK,4916,Alaska,
+122,Coconino,4005,AZ,143476,Arizona,Democrats
+123,Garland,5051,AR,99386,Arkansas,Republicans
+124,Anderson,20003,KS,7858,Kansas,Republicans
+125,Stone,5137,AR,12506,Arkansas,Republicans
+126,Aleutians West,2016,AK,5634,Alaska,Swing_County
+127,Apache,4001,AZ,71887,Arizona,Democrats
+128,Kenai Peninsula,2122,AK,58708,Alaska,
+129,Independence,5063,AR,37825,Arkansas,Republicans
+130,Pulaski,13235,GA,11137,Georgia,Republicans
+131,Prince of Wales-Hyder,2198,AK,6203,Alaska,
+132,Johnson,5071,AR,26578,Arkansas,Republicans
+133,Drew,5043,AR,18219,Arkansas,Republicans
+134,Sevier,5133,AR,17007,Arkansas,Republicans
+135,Logan,5083,AR,21466,Arkansas,Republicans
+136,Kodiak Island,2150,AK,12998,Alaska,
+137,Yakutat,2282,AK,579,Alaska,
+138,Maricopa,4013,AZ,4485414,Arizona,Swing_County
+139,Santa Cruz,4023,AZ,46498,Arizona,Democrats
+140,Yavapai,4025,AZ,235099,Arizona,Republicans
+141,Lafayette,5073,AR,6624,Arkansas,Republicans
+142,Perry,5105,AR,10455,Arkansas,Republicans
+143,Faulkner,5045,AR,126007,Arkansas,Republicans
+144,Crawford,5033,AR,63257,Arkansas,Republicans
+145,Lake and Peninsula,2164,AK,1592,Alaska,
+146,La Paz,4012,AZ,21108,Arizona,Republicans
+147,Southeast Fairbanks,2240,AK,6893,Alaska,
+148,Northwest Arctic,2188,AK,7621,Alaska,
+149,Pinal,4021,AZ,462789,Arizona,Republicans
+150,Nome,2180,AK,10004,Alaska,
+151,Martin,12085,FL,161000,Florida,Republicans
+152,Graham,4009,AZ,38837,Arizona,Republicans
+153,North Slope,2185,AK,9832,Alaska,
+154,Greenlee,4011,AZ,9498,Arizona,Republicans
+155,Yuma,4027,AZ,213787,Arizona,Swing_County
+156,Petersburg,2195,AK,3266,Alaska,
+157,Mohave,4015,AZ,212181,Arizona,Republicans
+158,Gila,4007,AZ,54018,Arizona,Republicans
+159,Scott,5127,AR,10281,Arkansas,Republicans
+160,Monroe,19135,IA,7707,Iowa,Republicans
+161,Yukon-Koyukuk,2290,AK,5230,Alaska,
+162,Matanuska-Susitna,2170,AK,108317,Alaska,
+163,Marion,5089,AR,16694,Arkansas,Republicans
+164,Desha,5041,AR,11361,Arkansas,Democrats
+165,Franklin,5047,AR,17715,Arkansas,Republicans
+166,Grant,5053,AR,18265,Arkansas,Republicans
+167,Howard,5061,AR,13202,Arkansas,Republicans
+168,Izard,5065,AR,13629,Arkansas,Republicans
+169,Jackson,5067,AR,16719,Arkansas,Swing_County
+170,Dickinson,19059,IA,17258,Iowa,Republicans
+171,Jefferson,5069,AR,66824,Arkansas,Democrats
+172,Crittenden,5035,AR,47955,Arkansas,Democrats
+173,St. Francis,5123,AR,24994,Arkansas,Democrats
+174,Decatur,13087,GA,26404,Georgia,Republicans
+175,Pope,5115,AR,64072,Arkansas,Republicans
+176,Prairie,5117,AR,8062,Arkansas,Republicans
+177,Nevada,5099,AR,8252,Arkansas,Republicans
+178,Newton,5101,AR,7753,Arkansas,Republicans
+179,Ouachita,5103,AR,23382,Arkansas,Republicans
+180,Phillips,5107,AR,17782,Arkansas,Democrats
+181,Pike,5109,AR,10718,Arkansas,Republicans
+182,Polk,5113,AR,19964,Arkansas,Republicans
+183,Pulaski,5119,AR,391911,Arkansas,Democrats
+184,Randolph,5121,AR,17958,Arkansas,Swing_County
+185,Conway,5029,AR,20846,Arkansas,Swing_County
+186,Searcy,5129,AR,7881,Arkansas,Republicans
+187,Sharp,5135,AR,17442,Arkansas,Republicans
+188,Madison,5087,AR,16576,Arkansas,Republicans
+189,Clay,5021,AR,14551,Arkansas,Swing_County
+190,Cleburne,5023,AR,24919,Arkansas,Republicans
+191,Lonoke,5085,AR,73309,Arkansas,Republicans
+192,Arkansas,5001,AR,17486,Arkansas,Republicans
+193,Columbia,5027,AR,23457,Arkansas,Republicans
+194,Lincoln,5079,AR,13024,Arkansas,Swing_County
+195,Dallas,5039,AR,7009,Arkansas,Republicans
+196,Boone,5009,AR,37432,Arkansas,Republicans
+197,Lawrence,5075,AR,16406,Arkansas,Swing_County
+198,Greene,5055,AR,45325,Arkansas,Republicans
+199,Jefferson,19101,IA,18295,Iowa,Swing_County
+200,Calhoun,5013,AR,5189,Arkansas,Republicans
+201,Miller,5091,AR,43257,Arkansas,Republicans
+202,Baxter,5005,AR,41932,Arkansas,Republicans
+203,Benton,5007,AR,279141,Arkansas,Republicans
+204,Mississippi,5093,AR,40651,Arkansas,Swing_County
+205,Monroe,5095,AR,6701,Arkansas,Swing_County
+206,Bradley,5011,AR,10763,Arkansas,Swing_County
+207,Carroll,5015,AR,28380,Arkansas,Republicans
+208,Bremer,19017,IA,25062,Iowa,Swing_County
+209,Lee,5077,AR,8857,Arkansas,Democrats
+210,Chicot,5017,AR,10118,Arkansas,Democrats
+211,Clark,5019,AR,22320,Arkansas,Swing_County
+212,Union,5139,AR,38682,Arkansas,Republicans
+213,Washington,5143,AR,239187,Arkansas,Republicans
+214,White,5145,AR,78753,Arkansas,Republicans
+215,Woodruff,5147,AR,6320,Arkansas,Swing_County
+216,Yell,5149,AR,21341,Arkansas,Republicans
+217,Napa,6055,CA,137744,California,Democrats
+218,La Plata,8067,CO,56221,Colorado,Swing_County
+219,Johnson,17087,IL,12417,Illinois,Republicans
+220,Marin,6041,CA,258826,California,Democrats
+221,San Benito,6069,CA,62808,California,Democrats
+222,Alpine,6003,CA,1129,California,Democrats
+223,Alameda,6001,CA,1671329,California,Democrats
+224,Lassen,6035,CA,30573,California,Republicans
+225,Nevada,6057,CA,99755,California,Swing_County
+226,Amador,6005,CA,39752,California,Republicans
+227,Butte,6007,CA,219186,California,Swing_County
+228,Calaveras,6009,CA,45905,California,Republicans
+229,Colusa,6011,CA,21547,California,Republicans
+230,Contra Costa,6013,CA,1153526,California,Democrats
+231,Del Norte,6015,CA,27812,California,Republicans
+232,El Dorado,6017,CA,192843,California,Republicans
+233,Placer,6061,CA,398329,California,Republicans
+234,Delaware,19055,IA,17011,Iowa,Swing_County
+235,Plumas,6063,CA,18807,California,Republicans
+236,Riverside,6065,CA,2470546,California,Swing_County
+237,Fresno,6019,CA,999101,California,Swing_County
+238,Glenn,6021,CA,28393,California,Republicans
+239,Humboldt,6023,CA,135558,California,Democrats
+240,Modoc,6049,CA,8841,California,Republicans
+241,Imperial,6025,CA,181215,California,Democrats
+242,Inyo,6027,CA,18039,California,Republicans
+243,Kern,6029,CA,900202,California,Republicans
+244,Kings,6031,CA,152940,California,Republicans
+245,Lake,6033,CA,64386,California,Swing_County
+246,Shasta,6089,CA,180080,California,Republicans
+247,Mono,6051,CA,14444,California,Swing_County
+248,San Joaquin,6077,CA,762148,California,Swing_County
+249,Los Angeles,6037,CA,10039107,California,Democrats
+250,Madera,6039,CA,157327,California,Republicans
+251,Mariposa,6043,CA,17203,California,Republicans
+252,Mendocino,6045,CA,86749,California,Democrats
+253,Merced,6047,CA,277680,California,Swing_County
+254,Montezuma,8083,CO,26183,Colorado,Republicans
+255,Marshall,19127,IA,39369,Iowa,Swing_County
+256,San Mateo,6081,CA,766573,California,Democrats
+257,Monterey,6053,CA,434061,California,Democrats
+258,Orange,6059,CA,3175692,California,Swing_County
+259,Sacramento,6067,CA,1552058,California,Swing_County
+260,Bent,8011,CO,5577,Colorado,Republicans
+261,San Luis Obispo,6079,CA,283111,California,Swing_County
+262,Clay,19041,IA,16016,Iowa,Republicans
+263,San Bernardino,6071,CA,2180085,California,Swing_County
+264,San Diego,6073,CA,3338330,California,Swing_County
+265,San Francisco,6075,CA,881549,California,Democrats
+266,Sonoma,6097,CA,494336,California,Democrats
+267,Stanislaus,6099,CA,550660,California,Swing_County
+268,Yuba,6115,CA,78668,California,Republicans
+269,Schley,13249,GA,5257,Georgia,Republicans
+270,Barrow,13013,GA,83240,Georgia,Republicans
+271,Santa Barbara,6083,CA,446499,California,Democrats
+272,Santa Clara,6085,CA,1927852,California,Democrats
+273,Santa Cruz,6087,CA,273213,California,Democrats
+274,Sierra,6091,CA,3005,California,Republicans
+275,Lawrence,18093,IN,45370,Indiana,Republicans
+276,Siskiyou,6093,CA,43539,California,Republicans
+277,Moffat,8081,CO,13283,Colorado,Republicans
+278,Solano,6095,CA,447643,California,Democrats
+279,Sutter,6101,CA,96971,California,Republicans
+280,Tehama,6103,CA,65084,California,Republicans
+281,Trinity,6105,CA,12285,California,Swing_County
+282,Tulare,6107,CA,466195,California,Republicans
+283,Tuolumne,6109,CA,54478,California,Republicans
+284,Park,8093,CO,18845,Colorado,Republicans
+285,Ventura,6111,CA,846006,California,Swing_County
+286,Yolo,6113,CA,220500,California,Democrats
+287,Cheyenne,8017,CO,1831,Colorado,Republicans
+288,Phillips,8095,CO,4265,Colorado,Republicans
+289,Morgan,8087,CO,29068,Colorado,Republicans
+290,Alamosa,8003,CO,16233,Colorado,Swing_County
+291,Prowers,8099,CO,12172,Colorado,Republicans
+292,Otero,8089,CO,18278,Colorado,Republicans
+293,Lake,8065,CO,8127,Colorado,Democrats
+294,Mineral,8079,CO,769,Colorado,Republicans
+295,Larimer,8069,CO,356899,Colorado,Swing_County
+296,St. Lucie,12111,FL,328297,Florida,Swing_County
+297,Ouray,8091,CO,4952,Colorado,Swing_County
+298,Elbert,8039,CO,26729,Colorado,Republicans
+299,Grand,8049,CO,15734,Colorado,Swing_County
+300,Broomfield,8014,CO,70465,Colorado,
+301,El Paso,8041,CO,720403,Colorado,Republicans
+302,Douglas,8035,CO,351154,Colorado,Republicans
+303,Jefferson,8059,CO,582881,Colorado,Swing_County
+304,Pueblo,8101,CO,168424,Colorado,Swing_County
+305,Rio Grande,8105,CO,11267,Colorado,Republicans
+306,Dolores,8033,CO,2055,Colorado,Republicans
+307,Fremont,8043,CO,47839,Colorado,Republicans
+308,Rio Blanco,8103,CO,6324,Colorado,Republicans
+309,Yuma,8125,CO,10019,Colorado,Republicans
+310,Kiowa,8061,CO,1406,Colorado,Republicans
+311,Denver,8031,CO,727211,Colorado,Democrats
+312,Banks,13011,GA,19234,Georgia,Republicans
+313,Costilla,8023,CO,3887,Colorado,Democrats
+314,Routt,8107,CO,25638,Colorado,Democrats
+315,Crowley,8025,CO,6061,Colorado,Republicans
+316,Eagle,8037,CO,55127,Colorado,Democrats
+317,Teller,8119,CO,25388,Colorado,Republicans
+318,Saguache,8109,CO,6824,Colorado,Swing_County
+319,Archuleta,8007,CO,14029,Colorado,Republicans
+320,Brown,17009,IL,6578,Illinois,Republicans
+321,Garfield,8045,CO,60061,Colorado,Swing_County
+322,Weld,8123,CO,324492,Colorado,Republicans
+323,Washington,8121,CO,4908,Colorado,Republicans
+324,Montrose,8085,CO,42758,Colorado,Republicans
+325,San Miguel,8113,CO,8179,Colorado,Democrats
+326,Adams,8001,CO,517421,Colorado,Swing_County
+327,Jackson,8057,CO,1392,Colorado,Republicans
+328,Kit Carson,8063,CO,7097,Colorado,Republicans
+329,Mesa,8077,CO,154210,Colorado,Republicans
+330,Arapahoe,8005,CO,656590,Colorado,Swing_County
+331,Baca,8009,CO,3581,Colorado,Republicans
+332,Boulder,8013,CO,326196,Colorado,Democrats
+333,Lucas,19117,IA,8600,Iowa,Republicans
+334,Chaffee,8015,CO,20356,Colorado,Swing_County
+335,Clear Creek,8019,CO,9700,Colorado,Swing_County
+336,Custer,8027,CO,5068,Colorado,Republicans
+337,Gunnison,8051,CO,17462,Colorado,Democrats
+338,Huerfano,8055,CO,6897,Colorado,Swing_County
+339,Las Animas,8071,CO,14506,Colorado,Swing_County
+340,Lincoln,8073,CO,5701,Colorado,Republicans
+341,Logan,8075,CO,22409,Colorado,Republicans
+342,Pitkin,8097,CO,17767,Colorado,Democrats
+343,Sedgwick,8115,CO,2248,Colorado,Republicans
+344,Summit,8117,CO,31011,Colorado,Democrats
+345,Windham,9015,CT,116782,Connecticut,Swing_County
+346,Fairfield,9001,CT,943332,Connecticut,Democrats
+347,Hartford,9003,CT,891720,Connecticut,Democrats
+348,Litchfield,9005,CT,180333,Connecticut,Swing_County
+349,Middlesex,9007,CT,162436,Connecticut,Democrats
+350,New Haven,9009,CT,854757,Connecticut,Democrats
+351,New London,9011,CT,265206,Connecticut,Democrats
+352,Tolland,9013,CT,150721,Connecticut,Swing_County
+353,New Castle,10003,DE,558753,Delaware,Democrats
+354,Hamilton,12047,FL,14428,Florida,Republicans
+355,Kent,10001,DE,180786,Delaware,Swing_County
+356,Sussex,10005,DE,234225,Delaware,Republicans
+357,Hardee,12049,FL,26937,Florida,Republicans
+358,Palo Alto,19147,IA,8886,Iowa,Swing_County
+359,Hendry,12051,FL,42022,Florida,Republicans
+360,Hernando,12053,FL,193920,Florida,Republicans
+361,DeSoto,12027,FL,38001,Florida,Republicans
+362,Union,12125,FL,15237,Florida,Republicans
+363,Manatee,12081,FL,403253,Florida,Republicans
+364,Bradford,12007,FL,28201,Florida,Republicans
+365,Leon,12073,FL,293582,Florida,Democrats
+366,Calhoun,12013,FL,14105,Florida,Republicans
+367,Okaloosa,12091,FL,210738,Florida,Republicans
+368,Gilchrist,12041,FL,18582,Florida,Republicans
+369,Lafayette,12067,FL,8422,Florida,Republicans
+370,Jefferson,12065,FL,14246,Florida,Swing_County
+371,Jackson,12063,FL,46414,Florida,Republicans
+372,Okeechobee,12093,FL,42168,Florida,Republicans
+373,Bay,12005,FL,174705,Florida,Republicans
+374,Charlotte,12015,FL,188910,Florida,Republicans
+375,Glades,12043,FL,13811,Florida,Republicans
+376,Hillsborough,12057,FL,1471968,Florida,Swing_County
+377,Clay,12019,FL,219252,Florida,Republicans
+378,Seminole,12117,FL,471826,Florida,Swing_County
+379,Alachua,12001,FL,269043,Florida,Democrats
+380,Baker,12003,FL,29210,Florida,Republicans
+381,Brevard,12009,FL,601942,Florida,Republicans
+382,Flagler,12035,FL,115081,Florida,Swing_County
+383,Lumpkin,13187,GA,33610,Georgia,Republicans
+384,Broward,12011,FL,1952778,Florida,Democrats
+385,Highlands,12055,FL,106221,Florida,Republicans
+386,Holmes,12059,FL,19617,Florida,Republicans
+387,Indian River,12061,FL,159923,Florida,Republicans
+388,Lake,12069,FL,367118,Florida,Republicans
+389,Lee,12071,FL,770577,Florida,Republicans
+390,Bibb,13021,GA,153159,Georgia,Democrats
+391,Citrus,12017,FL,149657,Florida,Republicans
+392,Suwannee,12121,FL,44417,Florida,Republicans
+393,Collier,12021,FL,384902,Florida,Republicans
+394,Columbia,12023,FL,71686,Florida,Republicans
+395,Sarasota,12115,FL,433742,Florida,Swing_County
+396,Dixie,12029,FL,16826,Florida,Republicans
+397,Liberty,12077,FL,8354,Florida,Republicans
+398,Duval,12031,FL,957755,Florida,Swing_County
+399,Escambia,12033,FL,318316,Florida,Republicans
+400,Franklin,12037,FL,12125,Florida,Republicans
+401,Gadsden,12039,FL,45660,Florida,Democrats
+402,Gulf,12045,FL,13639,Florida,Republicans
+403,Levy,12075,FL,41503,Florida,Republicans
+404,Madison,12079,FL,18493,Florida,Republicans
+405,Pasco,12101,FL,553947,Florida,Republicans
+406,Pinellas,12103,FL,974996,Florida,Swing_County
+407,Polk,12105,FL,724777,Florida,Republicans
+408,Walton,12131,FL,74071,Florida,Republicans
+409,Wakulla,12129,FL,33739,Florida,Republicans
+410,Chattahoochee,13053,GA,10907,Georgia,Swing_County
+411,Marion,12083,FL,365579,Florida,Republicans
+412,Santa Rosa,12113,FL,184313,Florida,Republicans
+413,Sumter,12119,FL,132420,Florida,Republicans
+414,Volusia,12127,FL,553284,Florida,Swing_County
+415,Miami-Dade,12086,FL,2716940,Florida,Democrats
+416,Taylor,12123,FL,21569,Florida,Republicans
+417,Monroe,12087,FL,74228,Florida,Swing_County
+418,Nassau,12089,FL,88625,Florida,Republicans
+419,Orange,12095,FL,1393452,Florida,Swing_County
+420,Osceola,12097,FL,375751,Florida,Swing_County
+421,Palm Beach,12099,FL,1496770,Florida,Democrats
+422,Putnam,12107,FL,74521,Florida,Republicans
+423,St. Johns,12109,FL,264672,Florida,Republicans
+424,Washington,12133,FL,25473,Florida,Republicans
+425,Stephens,13257,GA,25925,Georgia,Republicans
+426,Ben Hill,13017,GA,16700,Georgia,Republicans
+427,Haralson,13143,GA,29792,Georgia,Republicans
+428,Miller,13201,GA,5718,Georgia,Republicans
+429,Toombs,13279,GA,26830,Georgia,Republicans
+430,Atkinson,13003,GA,8165,Georgia,Republicans
+431,Cook,13075,GA,17270,Georgia,Republicans
+432,Jasper,13159,GA,14219,Georgia,Republicans
+433,Marion,13197,GA,8359,Georgia,Republicans
+434,Troup,13285,GA,69922,Georgia,Republicans
+435,Turner,13287,GA,7985,Georgia,Republicans
+436,Webster,13307,GA,2607,Georgia,Swing_County
+437,Heard,13149,GA,11923,Georgia,Republicans
+438,Williamson,17199,IL,66597,Illinois,Republicans
+439,Dougherty,13095,GA,87956,Georgia,Democrats
+440,Lamar,13171,GA,19077,Georgia,Republicans
+441,Lanier,13173,GA,10423,Georgia,Republicans
+442,Columbia,13073,GA,156714,Georgia,Republicans
+443,Bulloch,13031,GA,79608,Georgia,Republicans
+444,Candler,13043,GA,10803,Georgia,Republicans
+445,Baldwin,13009,GA,44890,Georgia,Swing_County
+446,Quitman,13239,GA,2299,Georgia,Swing_County
+447,Bartow,13015,GA,107738,Georgia,Republicans
+448,Peach,13225,GA,27546,Georgia,Swing_County
+449,Dade,13083,GA,16116,Georgia,Republicans
+450,Franklin,13119,GA,23349,Georgia,Republicans
+451,Twiggs,13289,GA,8120,Georgia,Swing_County
+452,Douglas,13097,GA,146343,Georgia,Swing_County
+453,Butler,19023,IA,14439,Iowa,Republicans
+454,Brooks,13027,GA,15457,Georgia,Republicans
+455,Fayette,13113,GA,114421,Georgia,Republicans
+456,Bryan,13029,GA,39627,Georgia,Republicans
+457,Berrien,13019,GA,19397,Georgia,Republicans
+458,Montgomery,13209,GA,9172,Georgia,Republicans
+459,Forsyth,13117,GA,244252,Georgia,Republicans
+460,Butts,13035,GA,24936,Georgia,Republicans
+461,Crisp,13081,GA,22372,Georgia,Republicans
+462,Catoosa,13047,GA,67580,Georgia,Republicans
+463,Brantley,13025,GA,19109,Georgia,Republicans
+464,Burke,13033,GA,22383,Georgia,Swing_County
+465,Calhoun,13037,GA,6189,Georgia,Democrats
+466,Lawrence,17101,IL,15678,Illinois,Republicans
+467,Camden,13039,GA,54666,Georgia,Republicans
+468,Appling,13001,GA,18386,Georgia,Republicans
+469,Bacon,13005,GA,11164,Georgia,Republicans
+470,Baker,13007,GA,3038,Georgia,Swing_County
+471,Carroll,13045,GA,119992,Georgia,Republicans
+472,Charlton,13049,GA,13392,Georgia,Republicans
+473,Polk,13233,GA,42613,Georgia,Republicans
+474,Putnam,13237,GA,22119,Georgia,Republicans
+475,Chatham,13051,GA,289430,Georgia,Swing_County
+476,Towns,13281,GA,12037,Georgia,Republicans
+477,Chattooga,13055,GA,24789,Georgia,Republicans
+478,Cherokee,13057,GA,258773,Georgia,Republicans
+479,Clarke,13059,GA,128331,Georgia,Democrats
+480,Clay,13061,GA,2834,Georgia,Democrats
+481,Clayton,13063,GA,292256,Georgia,Democrats
+482,Clinch,13065,GA,6618,Georgia,Republicans
+483,Fannin,13111,GA,26188,Georgia,Republicans
+484,Cobb,13067,GA,760141,Georgia,Swing_County
+485,Coffee,13069,GA,43273,Georgia,Republicans
+486,Colquitt,13071,GA,45600,Georgia,Republicans
+487,Coweta,13077,GA,148509,Georgia,Republicans
+488,Crawford,13079,GA,12404,Georgia,Republicans
+489,Dawson,13085,GA,26108,Georgia,Republicans
+490,DeKalb,13089,GA,759297,Georgia,Democrats
+491,Dodge,13091,GA,20605,Georgia,Republicans
+492,Dooly,13093,GA,13390,Georgia,Swing_County
+493,Pike,13231,GA,18962,Georgia,Republicans
+494,Gordon,13129,GA,57963,Georgia,Republicans
+495,Grady,13131,GA,24633,Georgia,Republicans
+496,Early,13099,GA,10190,Georgia,Swing_County
+497,Echols,13101,GA,4006,Georgia,Republicans
+498,McDuffie,13189,GA,21312,Georgia,Republicans
+499,Effingham,13103,GA,64296,Georgia,Republicans
+500,Elbert,13105,GA,19194,Georgia,Republicans
+501,Hart,13147,GA,26205,Georgia,Republicans
+502,Jefferson,31095,NE,7046,Nebraska,Republicans
+503,Emanuel,13107,GA,22646,Georgia,Republicans
+504,Evans,13109,GA,10654,Georgia,Republicans
+505,Floyd,13115,GA,98498,Georgia,Republicans
+506,Johnson,13167,GA,9643,Georgia,Republicans
+507,Taliaferro,13265,GA,1537,Georgia,Democrats
+508,Jefferson,13163,GA,15362,Georgia,Democrats
+509,Jones,13169,GA,28735,Georgia,Republicans
+510,Fulton,13121,GA,1063937,Georgia,Democrats
+511,Gilmer,13123,GA,31369,Georgia,Republicans
+512,Glascock,13125,GA,2971,Georgia,Republicans
+513,Rockdale,13247,GA,90896,Georgia,Swing_County
+514,Jones,19105,IA,20681,Iowa,Swing_County
+515,Glynn,13127,GA,85292,Georgia,Republicans
+516,Greene,13133,GA,18324,Georgia,Republicans
+517,Gwinnett,13135,GA,936250,Georgia,Swing_County
+518,Habersham,13137,GA,45328,Georgia,Republicans
+519,Hall,13139,GA,204441,Georgia,Republicans
+520,Spalding,13255,GA,66703,Georgia,Republicans
+521,Hancock,13141,GA,8457,Georgia,Democrats
+522,Harris,13145,GA,35236,Georgia,Republicans
+523,Warren,13301,GA,5254,Georgia,Democrats
+524,Henry,13151,GA,234561,Georgia,Swing_County
+525,Houston,13153,GA,157863,Georgia,Republicans
+526,Irwin,13155,GA,9416,Georgia,Republicans
+527,Jackson,13157,GA,72977,Georgia,Republicans
+528,Oconee,13219,GA,40280,Georgia,Republicans
+529,Treutlen,13283,GA,6901,Georgia,Republicans
+530,Jeff Davis,13161,GA,15115,Georgia,Republicans
+531,Jenkins,13165,GA,8676,Georgia,Republicans
+532,Laurens,13175,GA,47546,Georgia,Republicans
+533,Lee,13177,GA,29992,Georgia,Republicans
+534,Liberty,13179,GA,61435,Georgia,Democrats
+535,Lincoln,13181,GA,7921,Georgia,Republicans
+536,Long,13183,GA,19559,Georgia,Republicans
+537,Lowndes,13185,GA,117406,Georgia,Republicans
+538,Keokuk,19107,IA,10246,Iowa,Republicans
+539,McIntosh,13191,GA,14378,Georgia,Republicans
+540,Macon,13193,GA,12947,Georgia,Democrats
+541,Madison,13195,GA,29880,Georgia,Republicans
+542,Meriwether,13199,GA,21167,Georgia,Republicans
+543,Mitchell,13205,GA,21863,Georgia,Republicans
+544,Monroe,13207,GA,27578,Georgia,Republicans
+545,Morgan,13211,GA,19276,Georgia,Republicans
+546,Murray,13213,GA,40096,Georgia,Republicans
+547,Muscogee,13215,GA,195769,Georgia,Democrats
+548,Newton,13217,GA,111744,Georgia,Swing_County
+549,Oglethorpe,13221,GA,15259,Georgia,Republicans
+550,Paulding,13223,GA,168667,Georgia,Republicans
+551,Pickens,13227,GA,32591,Georgia,Republicans
+552,Pierce,13229,GA,19465,Georgia,Republicans
+553,Rabun,13241,GA,17137,Georgia,Republicans
+554,Randolph,13243,GA,6778,Georgia,Democrats
+555,Richmond,13245,GA,202518,Georgia,Democrats
+556,Screven,13251,GA,13966,Georgia,Republicans
+557,Seminole,13253,GA,8090,Georgia,Republicans
+558,Stewart,13259,GA,6621,Georgia,Democrats
+559,Sumter,13261,GA,29524,Georgia,Swing_County
+560,Talbot,13263,GA,6195,Georgia,Democrats
+561,Tattnall,13267,GA,25286,Georgia,Republicans
+562,Franklin,17055,IL,38469,Illinois,Republicans
+563,Taylor,13269,GA,8020,Georgia,Republicans
+564,Telfair,13271,GA,15860,Georgia,Republicans
+565,Terrell,13273,GA,8531,Georgia,Democrats
+566,Thomas,13275,GA,44451,Georgia,Republicans
+567,Tift,13277,GA,40644,Georgia,Republicans
+568,Union,13291,GA,24511,Georgia,Republicans
+569,Upson,13293,GA,26320,Georgia,Republicans
+570,Walker,13295,GA,69761,Georgia,Republicans
+571,Walton,13297,GA,94593,Georgia,Republicans
+572,Ware,13299,GA,35734,Georgia,Republicans
+573,Washington,13303,GA,20374,Georgia,Swing_County
+574,Wayne,13305,GA,29927,Georgia,Republicans
+575,Wheeler,13309,GA,7855,Georgia,Republicans
+576,White,13311,GA,30798,Georgia,Republicans
+577,Whitfield,13313,GA,104628,Georgia,Republicans
+578,Wilcox,13315,GA,8635,Georgia,Republicans
+579,Wilkes,13317,GA,9777,Georgia,Republicans
+580,Wilkinson,13319,GA,8954,Georgia,Republicans
+581,Worth,13321,GA,20247,Georgia,Republicans
+582,Kalawao,15005,HI,86,Hawaii,
+583,Butte,16023,ID,2597,Idaho,Republicans
+584,Clark,16033,ID,845,Idaho,Republicans
+585,Hawaii,15001,HI,201513,Hawaii,Democrats
+586,Honolulu,15003,HI,974563,Hawaii,Democrats
+587,Kauai,15007,HI,72293,Hawaii,Democrats
+588,Franklin,16041,ID,13876,Idaho,Republicans
+589,Kootenai,16055,ID,165697,Idaho,Republicans
+590,Boise,16015,ID,7831,Idaho,Republicans
+591,Maui,15009,HI,167417,Hawaii,Democrats
+592,Boundary,16021,ID,12245,Idaho,Republicans
+593,Bingham,16011,ID,46811,Idaho,Republicans
+594,Benewah,16009,ID,9298,Idaho,Republicans
+595,Madison,16065,ID,39907,Idaho,Republicans
+596,Payette,16075,ID,23951,Idaho,Republicans
+597,Lewis,16061,ID,3838,Idaho,Republicans
+598,Cassia,16031,ID,24030,Idaho,Republicans
+599,Wallace,20199,KS,1518,Kansas,Republicans
+600,Lincoln,16063,ID,5366,Idaho,Republicans
+601,Minidoka,16067,ID,21039,Idaho,Republicans
+602,Power,16077,ID,7681,Idaho,Republicans
+603,Canyon,16027,ID,229849,Idaho,Republicans
+604,Oneida,16071,ID,4531,Idaho,Republicans
+605,Caribou,16029,ID,7155,Idaho,Republicans
+606,Teton,16081,ID,12142,Idaho,Swing_County
+607,Cumberland,17035,IL,10766,Illinois,Republicans
+608,Camas,16025,ID,1106,Idaho,Republicans
+609,Ada,16001,ID,481587,Idaho,Swing_County
+610,Adams,16003,ID,4294,Idaho,Republicans
+611,Bannock,16005,ID,87808,Idaho,Republicans
+612,Bear Lake,16007,ID,6125,Idaho,Republicans
+613,Blaine,16013,ID,23021,Idaho,Democrats
+614,Bonner,16017,ID,45739,Idaho,Republicans
+615,Bonneville,16019,ID,119062,Idaho,Republicans
+616,Clearwater,16035,ID,8756,Idaho,Republicans
+617,Twin Falls,16083,ID,86878,Idaho,Republicans
+618,Douglas,17041,IL,19465,Illinois,Republicans
+619,Union,18161,IN,7054,Indiana,Republicans
+620,Custer,16037,ID,4315,Idaho,Republicans
+621,Elmore,16039,ID,27511,Idaho,Republicans
+622,Fremont,16043,ID,13099,Idaho,Republicans
+623,Gem,16045,ID,18112,Idaho,Republicans
+624,Gooding,16047,ID,15179,Idaho,Republicans
+625,Shoshone,16079,ID,12882,Idaho,Republicans
+626,Saline,17165,IL,23491,Illinois,Republicans
+627,Valley,16085,ID,11392,Idaho,Republicans
+628,Idaho,16049,ID,16667,Idaho,Republicans
+629,Jefferson,16051,ID,29871,Idaho,Republicans
+630,Jerome,16053,ID,24412,Idaho,Republicans
+631,Latah,16057,ID,40108,Idaho,Swing_County
+632,Lemhi,16059,ID,8027,Idaho,Republicans
+633,Nez Perce,16069,ID,40408,Idaho,Republicans
+634,Owyhee,16073,ID,11823,Idaho,Republicans
+635,Washington,16087,ID,10194,Idaho,Republicans
+636,Grundy,17063,IL,51054,Illinois,Swing_County
+637,Warren,17187,IL,16844,Illinois,Swing_County
+638,Boone,17007,IL,53544,Illinois,Swing_County
+639,Ford,17053,IL,12961,Illinois,Republicans
+640,Gallatin,17059,IL,4828,Illinois,Swing_County
+641,Pope,17151,IL,4177,Illinois,Republicans
+642,Perry,17145,IL,20916,Illinois,Republicans
+643,Edwards,17047,IL,6395,Illinois,Republicans
+644,Bond,17005,IL,16426,Illinois,Swing_County
+645,Clinton,17027,IL,37562,Illinois,Republicans
+646,Lee,17103,IL,34096,Illinois,Republicans
+647,Cass,17017,IL,12147,Illinois,Swing_County
+648,Massac,17127,IL,13772,Illinois,Republicans
+649,Champaign,17019,IL,209689,Illinois,Democrats
+650,Logan,17107,IL,28618,Illinois,Republicans
+651,Clay,17025,IL,13184,Illinois,Republicans
+652,Coles,17029,IL,50621,Illinois,Swing_County
+653,Effingham,17049,IL,34008,Illinois,Republicans
+654,Ogle,17141,IL,50643,Illinois,Republicans
+655,Jersey,17083,IL,21773,Illinois,Republicans
+656,DeKalb,17037,IL,104897,Illinois,Swing_County
+657,Peoria,17143,IL,179179,Illinois,Swing_County
+658,Lake,17097,IL,696535,Illinois,Swing_County
+659,Kankakee,17091,IL,109862,Illinois,Swing_County
+660,Macon,17115,IL,104009,Illinois,Swing_County
+661,Marion,17121,IL,37205,Illinois,Republicans
+662,Carroll,17015,IL,14305,Illinois,Swing_County
+663,Moultrie,17139,IL,14501,Illinois,Republicans
+664,LaSalle,17099,IL,108669,Illinois,Swing_County
+665,Bureau,17011,IL,32628,Illinois,Swing_County
+666,Madison,17119,IL,262966,Illinois,Swing_County
+667,De Witt,17039,IL,15638,Illinois,Republicans
+668,Washington,17189,IL,13887,Illinois,Republicans
+669,Adams,17001,IL,65435,Illinois,Republicans
+670,DuPage,17043,IL,922921,Illinois,Swing_County
+671,Iroquois,17075,IL,27114,Illinois,Republicans
+672,Livingston,17105,IL,35648,Illinois,Republicans
+673,Knox,17095,IL,49699,Illinois,Swing_County
+674,Edgar,17045,IL,17161,Illinois,Republicans
+675,Hardin,17069,IL,3821,Illinois,Republicans
+676,Hancock,17067,IL,17708,Illinois,Republicans
+677,Christian,17021,IL,32304,Illinois,Republicans
+678,Clark,17023,IL,15441,Illinois,Republicans
+679,Marshall,17123,IL,11438,Illinois,Swing_County
+680,Alexander,17003,IL,5761,Illinois,Swing_County
+681,Menard,17129,IL,12196,Illinois,Republicans
+682,Fayette,17051,IL,21336,Illinois,Republicans
+683,Fulton,17057,IL,34340,Illinois,Swing_County
+684,Kendall,17093,IL,128990,Illinois,Swing_County
+685,Calhoun,17013,IL,4739,Illinois,Swing_County
+686,Cook,17031,IL,5150233,Illinois,Democrats
+687,Crawford,17033,IL,18667,Illinois,Republicans
+688,Greene,17061,IL,12969,Illinois,Republicans
+689,Hamilton,17065,IL,8116,Illinois,Republicans
+690,Henderson,17071,IL,6646,Illinois,Swing_County
+691,Henry,17073,IL,48913,Illinois,Swing_County
+692,Jackson,17077,IL,56750,Illinois,Swing_County
+693,Jasper,17079,IL,9610,Illinois,Republicans
+694,Jefferson,17081,IL,37684,Illinois,Republicans
+695,Jo Daviess,17085,IL,21235,Illinois,Swing_County
+696,Vermilion,17183,IL,75758,Illinois,Swing_County
+697,Kane,17089,IL,532403,Illinois,Swing_County
+698,McHenry,17111,IL,307774,Illinois,Swing_County
+699,McLean,17113,IL,171517,Illinois,Swing_County
+700,Macoupin,17117,IL,44926,Illinois,Swing_County
+701,Mason,17125,IL,13359,Illinois,Swing_County
+702,Mercer,17131,IL,15437,Illinois,Swing_County
+703,Monroe,17133,IL,34637,Illinois,Republicans
+704,Montgomery,17135,IL,28414,Illinois,Swing_County
+705,Morgan,17137,IL,33658,Illinois,Swing_County
+706,Piatt,17147,IL,16344,Illinois,Republicans
+707,Wayne,17191,IL,16215,Illinois,Republicans
+708,Johnson,18081,IN,158167,Indiana,Republicans
+709,Pike,17149,IL,15561,Illinois,Republicans
+710,Pulaski,17153,IL,5335,Illinois,Swing_County
+711,Woodford,17203,IL,38459,Illinois,Republicans
+712,Randolph,17157,IL,31782,Illinois,Swing_County
+713,Richland,17159,IL,15513,Illinois,Republicans
+714,Rock Island,17161,IL,141879,Illinois,Democrats
+715,St. Clair,17163,IL,259686,Illinois,Democrats
+716,Sangamon,17167,IL,194672,Illinois,Swing_County
+717,Schuyler,17169,IL,6768,Illinois,Swing_County
+718,Scott,17171,IL,4951,Illinois,Republicans
+719,Shelby,17173,IL,21634,Illinois,Republicans
+720,Stark,17175,IL,5342,Illinois,Republicans
+721,Stephenson,17177,IL,44498,Illinois,Swing_County
+722,Tazewell,17179,IL,131803,Illinois,Republicans
+723,Union,17181,IL,16653,Illinois,Republicans
+724,Marshall,18099,IN,46258,Indiana,Republicans
+725,Wabash,17185,IL,11520,Illinois,Republicans
+726,White,17193,IL,13537,Illinois,Republicans
+727,Whiteside,17195,IL,55175,Illinois,Swing_County
+728,Will,17197,IL,690743,Illinois,Swing_County
+729,Winnebago,17201,IL,282572,Illinois,Swing_County
+730,LaGrange,18087,IN,39614,Indiana,Republicans
+731,Fayette,18041,IN,23102,Indiana,Republicans
+732,DeKalb,18033,IN,43475,Indiana,Republicans
+733,Tipton,18159,IN,15148,Indiana,Republicans
+734,Miami,18103,IN,35516,Indiana,Republicans
+735,Tippecanoe,18157,IN,195732,Indiana,Swing_County
+736,Allen,18003,IN,379299,Indiana,Republicans
+737,Delaware,18035,IN,114135,Indiana,Swing_County
+738,Hamilton,18057,IN,338011,Indiana,Republicans
+739,Rush,18139,IN,16581,Indiana,Republicans
+740,Boone,18011,IN,67843,Indiana,Republicans
+741,Vigo,18167,IN,107038,Indiana,Swing_County
+742,Brown,18013,IN,15092,Indiana,Republicans
+743,White,18181,IN,24102,Indiana,Republicans
+744,Steuben,18151,IN,34594,Indiana,Republicans
+745,Bartholomew,18005,IN,83779,Indiana,Republicans
+746,Wabash,18169,IN,30996,Indiana,Republicans
+747,Howard,19089,IA,9158,Iowa,Swing_County
+748,Howard,18067,IN,82544,Indiana,Republicans
+749,Madison,18095,IN,129569,Indiana,Swing_County
+750,Fulton,18049,IN,19974,Indiana,Republicans
+751,Dubois,18037,IN,42736,Indiana,Republicans
+752,Martin,18101,IN,10255,Indiana,Republicans
+753,Porter,18127,IN,170389,Indiana,Swing_County
+754,Hancock,18059,IN,78168,Indiana,Republicans
+755,Wells,18179,IN,28296,Indiana,Republicans
+756,Elkhart,18039,IN,206341,Indiana,Republicans
+757,Monroe,18105,IN,148431,Indiana,Democrats
+758,Newton,18111,IN,13984,Indiana,Republicans
+759,Owen,18119,IN,20799,Indiana,Republicans
+760,Clinton,18023,IN,32399,Indiana,Republicans
+761,Shelby,18145,IN,44729,Indiana,Republicans
+762,Decatur,18031,IN,26559,Indiana,Republicans
+763,Noble,18113,IN,47744,Indiana,Republicans
+764,Jay,18075,IN,20436,Indiana,Republicans
+765,Jefferson,18077,IN,32308,Indiana,Republicans
+766,Ripley,18137,IN,28324,Indiana,Republicans
+767,Greene,18055,IN,31922,Indiana,Republicans
+768,Benton,18007,IN,8748,Indiana,Republicans
+769,Blackford,18009,IN,11758,Indiana,Swing_County
+770,Carroll,18015,IN,20257,Indiana,Republicans
+771,Cass,18017,IN,37689,Indiana,Republicans
+772,Kosciusko,18085,IN,79456,Indiana,Republicans
+773,Clark,18019,IN,118302,Indiana,Republicans
+774,Clay,18021,IN,26225,Indiana,Republicans
+775,Crawford,18025,IN,10577,Indiana,Republicans
+776,Daviess,18027,IN,33351,Indiana,Republicans
+777,Dearborn,18029,IN,49458,Indiana,Republicans
+778,Floyd,18043,IN,78522,Indiana,Republicans
+779,Fountain,18045,IN,16346,Indiana,Republicans
+780,Franklin,18047,IN,22758,Indiana,Republicans
+781,Gibson,18051,IN,33659,Indiana,Republicans
+782,Grant,18053,IN,65769,Indiana,Republicans
+783,Montgomery,18107,IN,38338,Indiana,Republicans
+784,Harrison,18061,IN,40515,Indiana,Republicans
+785,Hendricks,18063,IN,170311,Indiana,Republicans
+786,Henry,18065,IN,47972,Indiana,Republicans
+787,Huntington,18069,IN,36520,Indiana,Republicans
+788,Jackson,18071,IN,44231,Indiana,Republicans
+789,Jasper,18073,IN,33562,Indiana,Republicans
+790,Randolph,18135,IN,24665,Indiana,Republicans
+791,Jennings,18079,IN,27735,Indiana,Republicans
+792,St. Joseph,18141,IN,271826,Indiana,Swing_County
+793,Johnson,19103,IA,151140,Iowa,Democrats
+794,Spencer,18147,IN,20277,Indiana,Swing_County
+795,Knox,18083,IN,36594,Indiana,Republicans
+796,Lake,18089,IN,485493,Indiana,Democrats
+797,Vermillion,18165,IN,15498,Indiana,Swing_County
+798,LaPorte,18091,IN,109888,Indiana,Swing_County
+799,Marion,18097,IN,964582,Indiana,Democrats
+800,Morgan,18109,IN,70489,Indiana,Republicans
+801,Ohio,18115,IN,5875,Indiana,Republicans
+802,Orange,18117,IN,19646,Indiana,Republicans
+803,Parke,18121,IN,16937,Indiana,Republicans
+804,Perry,18123,IN,19169,Indiana,Swing_County
+805,Pike,18125,IN,12389,Indiana,Republicans
+806,Posey,18129,IN,25427,Indiana,Republicans
+807,Putnam,18133,IN,37576,Indiana,Republicans
+808,Scott,18143,IN,23873,Indiana,Republicans
+809,Starke,18149,IN,22995,Indiana,Swing_County
+810,Sullivan,18153,IN,20669,Indiana,Swing_County
+811,Switzerland,18155,IN,10751,Indiana,Republicans
+812,Vanderburgh,18163,IN,181451,Indiana,Swing_County
+813,Warren,18171,IN,8265,Indiana,Republicans
+814,Warrick,18173,IN,62998,Indiana,Republicans
+815,Washington,18175,IN,28036,Indiana,Republicans
+816,Wayne,18177,IN,65884,Indiana,Republicans
+817,Whitley,18183,IN,33964,Indiana,Republicans
+818,Pocahontas,19151,IA,6619,Iowa,Republicans
+819,Kossuth,19109,IA,14813,Iowa,Swing_County
+820,Story,19169,IA,97117,Iowa,Democrats
+821,Tama,19171,IA,16854,Iowa,Swing_County
+822,Taylor,19173,IA,6121,Iowa,Republicans
+823,Van Buren,19177,IA,7044,Iowa,Republicans
+824,Wapello,19179,IA,34969,Iowa,Swing_County
+825,Buchanan,19019,IA,21175,Iowa,Swing_County
+826,Carroll,19027,IA,20165,Iowa,Swing_County
+827,Winnebago,19189,IA,10354,Iowa,Swing_County
+828,Winneshiek,19191,IA,19991,Iowa,Swing_County
+829,Wayne,19185,IA,6441,Iowa,Republicans
+830,Osceola,19143,IA,5958,Iowa,Republicans
+831,Page,19145,IA,15107,Iowa,Republicans
+832,Worth,19195,IA,7381,Iowa,Swing_County
+833,Warren,19181,IA,51466,Iowa,Swing_County
+834,Linn,19113,IA,226706,Iowa,Democrats
+835,Washington,19183,IA,21965,Iowa,Swing_County
+836,Hamilton,19079,IA,14773,Iowa,Swing_County
+837,Rush,20165,KS,3036,Kansas,Republicans
+838,Black Hawk,19013,IA,131228,Iowa,Democrats
+839,Dallas,19049,IA,93453,Iowa,Republicans
+840,Fayette,19065,IA,19650,Iowa,Swing_County
+841,Cass,19029,IA,12836,Iowa,Republicans
+842,Ida,19093,IA,6860,Iowa,Republicans
+843,Wright,19197,IA,12562,Iowa,Republicans
+844,Calhoun,19025,IA,9668,Iowa,Republicans
+845,Clarke,19039,IA,9395,Iowa,Swing_County
+846,Cedar,19031,IA,18627,Iowa,Swing_County
+847,Cerro Gordo,19033,IA,42450,Iowa,Swing_County
+848,Cherokee,19035,IA,11235,Iowa,Republicans
+849,Decatur,19053,IA,7870,Iowa,Swing_County
+850,Adams,19003,IA,3602,Iowa,Swing_County
+851,Allamakee,19005,IA,13687,Iowa,Swing_County
+852,Audubon,19009,IA,5496,Iowa,Swing_County
+853,Benton,19011,IA,25645,Iowa,Swing_County
+854,Clayton,19043,IA,17549,Iowa,Swing_County
+855,Jasper,19099,IA,37185,Iowa,Swing_County
+856,Clinton,19045,IA,46429,Iowa,Swing_County
+857,Crawford,19047,IA,16820,Iowa,Swing_County
+858,Monona,19133,IA,8615,Iowa,Republicans
+859,Des Moines,19057,IA,38967,Iowa,Swing_County
+860,Dubuque,19061,IA,97311,Iowa,Swing_County
+861,Emmet,19063,IA,9208,Iowa,Swing_County
+862,Fremont,19071,IA,6960,Iowa,Republicans
+863,Greene,19073,IA,8888,Iowa,Swing_County
+864,Grundy,19075,IA,12232,Iowa,Republicans
+865,Guthrie,19077,IA,10689,Iowa,Republicans
+866,Hardin,19083,IA,16846,Iowa,Swing_County
+867,Harrison,19085,IA,14049,Iowa,Republicans
+868,Henry,19087,IA,19954,Iowa,Republicans
+869,Jackson,19097,IA,19439,Iowa,Swing_County
+870,Lee,19111,IA,33657,Iowa,Swing_County
+871,Louisa,19115,IA,11035,Iowa,Swing_County
+872,Lyon,19119,IA,11755,Iowa,Republicans
+873,Madison,19121,IA,16338,Iowa,Republicans
+874,Mahaska,19123,IA,22095,Iowa,Republicans
+875,Marion,19125,IA,33253,Iowa,Republicans
+876,Mills,19129,IA,15109,Iowa,Republicans
+877,Mitchell,19131,IA,10586,Iowa,Swing_County
+878,Muscatine,19139,IA,42664,Iowa,Swing_County
+879,Plymouth,19149,IA,25177,Iowa,Republicans
+880,Polk,19153,IA,490161,Iowa,Democrats
+881,Pottawattamie,19155,IA,93206,Iowa,Republicans
+882,Poweshiek,19157,IA,18504,Iowa,Swing_County
+883,Ringgold,19159,IA,4894,Iowa,Republicans
+884,Bennett,46007,SD,3365,South Dakota,Republicans
+885,Sac,19161,IA,9721,Iowa,Republicans
+886,Scott,19163,IA,172943,Iowa,Swing_County
+887,Shelby,19165,IA,11454,Iowa,Republicans
+888,Sioux,19167,IA,34855,Iowa,Republicans
+889,Webster,19187,IA,35904,Iowa,Swing_County
+890,Woodbury,19193,IA,103107,Iowa,Swing_County
+891,Appanoose,19007,IA,12426,Iowa,Swing_County
+892,Woodson,20207,KS,3138,Kansas,Republicans
+893,Trego,20195,KS,2803,Kansas,Republicans
+894,Saline,20169,KS,54224,Kansas,Republicans
+895,Lane,20101,KS,1535,Kansas,Republicans
+896,McPherson,20113,KS,28542,Kansas,Republicans
+897,Sheridan,20179,KS,2521,Kansas,Republicans
+898,Grant,20067,KS,7150,Kansas,Republicans
+899,Cloud,20029,KS,8786,Kansas,Republicans
+900,Graham,20065,KS,2482,Kansas,Republicans
+901,Rooks,20163,KS,4920,Kansas,Republicans
+902,Sedgwick,20173,KS,516042,Kansas,Republicans
+903,Clay,20027,KS,8002,Kansas,Republicans
+904,Kingman,20095,KS,7152,Kansas,Republicans
+905,Haskell,20081,KS,3968,Kansas,Republicans
+906,Chautauqua,20019,KS,3250,Kansas,Republicans
+907,Russell,20167,KS,6856,Kansas,Republicans
+908,Ellis,20051,KS,28553,Kansas,Republicans
+909,Linn,20107,KS,9703,Kansas,Republicans
+910,Butler,20015,KS,66911,Kansas,Republicans
+911,Hodgeman,20083,KS,1794,Kansas,Republicans
+912,Logan,20109,KS,2794,Kansas,Republicans
+913,Comanche,20033,KS,1700,Kansas,Republicans
+914,Scott,20171,KS,4823,Kansas,Republicans
+915,Kiowa,20097,KS,2475,Kansas,Republicans
+916,Elk,20049,KS,2530,Kansas,Republicans
+917,Allen,20001,KS,12369,Kansas,Republicans
+918,Crawford,20037,KS,38818,Kansas,Swing_County
+919,Harper,20077,KS,5436,Kansas,Republicans
+920,Wilson,20205,KS,8525,Kansas,Republicans
+921,Harvey,20079,KS,34429,Kansas,Republicans
+922,Thomas,20193,KS,7777,Kansas,Republicans
+923,Cowley,20035,KS,34908,Kansas,Republicans
+924,Greeley,20071,KS,1232,Kansas,Republicans
+925,Labette,20099,KS,19618,Kansas,Republicans
+926,Decatur,20039,KS,2827,Kansas,Republicans
+927,Dickinson,20041,KS,18466,Kansas,Republicans
+928,Miami,20121,KS,34237,Kansas,Republicans
+929,Mitchell,20123,KS,5979,Kansas,Republicans
+930,Douglas,20045,KS,122259,Kansas,Democrats
+931,Atchison,20005,KS,16073,Kansas,Republicans
+932,Stanton,20187,KS,2006,Kansas,Republicans
+933,Barber,20007,KS,4427,Kansas,Republicans
+934,Barton,20009,KS,25779,Kansas,Republicans
+935,Bourbon,20011,KS,14534,Kansas,Republicans
+936,Brown,20013,KS,9564,Kansas,Republicans
+937,Chase,20017,KS,2648,Kansas,Republicans
+938,Cherokee,20021,KS,19939,Kansas,Republicans
+939,Cheyenne,20023,KS,2657,Kansas,Republicans
+940,Clark,20025,KS,1994,Kansas,Republicans
+941,Coffey,20031,KS,8179,Kansas,Republicans
+942,Morton,20129,KS,2587,Kansas,Republicans
+943,Nemaha,20131,KS,10231,Kansas,Republicans
+944,Leavenworth,20103,KS,81758,Kansas,Republicans
+945,Ness,20135,KS,2750,Kansas,Republicans
+946,Marion,20115,KS,11884,Kansas,Republicans
+947,Doniphan,20043,KS,7600,Kansas,Republicans
+948,Edwards,20047,KS,2798,Kansas,Republicans
+949,Ellsworth,20053,KS,6102,Kansas,Republicans
+950,Finney,20055,KS,36467,Kansas,Republicans
+951,Ford,20057,KS,33619,Kansas,Republicans
+952,Franklin,20059,KS,25544,Kansas,Republicans
+953,Geary,20061,KS,31670,Kansas,Republicans
+954,Gove,20063,KS,2636,Kansas,Republicans
+955,Gray,20069,KS,5988,Kansas,Republicans
+956,Greenwood,20073,KS,5982,Kansas,Republicans
+957,Hamilton,20075,KS,2539,Kansas,Republicans
+958,Jackson,20085,KS,13171,Kansas,Republicans
+959,Jefferson,20087,KS,19043,Kansas,Republicans
+960,Jewell,20089,KS,2879,Kansas,Republicans
+961,Johnson,20091,KS,602401,Kansas,Swing_County
+962,Kearny,20093,KS,3838,Kansas,Republicans
+963,Lincoln,20105,KS,2962,Kansas,Republicans
+964,Lyon,20111,KS,33195,Kansas,Republicans
+965,Marshall,20117,KS,9707,Kansas,Republicans
+966,Meade,20119,KS,4033,Kansas,Republicans
+967,Montgomery,20125,KS,31829,Kansas,Republicans
+968,Morris,20127,KS,5620,Kansas,Republicans
+969,Neosho,20133,KS,16007,Kansas,Republicans
+970,Norton,20137,KS,5361,Kansas,Republicans
+971,Osage,20139,KS,15949,Kansas,Republicans
+972,Osborne,20141,KS,3421,Kansas,Republicans
+973,Ottawa,20143,KS,5704,Kansas,Republicans
+974,Pawnee,20145,KS,6414,Kansas,Republicans
+975,Phillips,20147,KS,5234,Kansas,Republicans
+976,Pottawatomie,20149,KS,24383,Kansas,Republicans
+977,Pratt,20151,KS,9164,Kansas,Republicans
+978,Rawlins,20153,KS,2530,Kansas,Republicans
+979,Reno,20155,KS,61998,Kansas,Republicans
+980,Republic,20157,KS,4636,Kansas,Republicans
+981,Rice,20159,KS,9537,Kansas,Republicans
+982,Riley,20161,KS,74232,Kansas,Swing_County
+983,Seward,20175,KS,21428,Kansas,Republicans
+984,Shawnee,20177,KS,176875,Kansas,Swing_County
+985,Sherman,20181,KS,5917,Kansas,Republicans
+986,Smith,20183,KS,3583,Kansas,Republicans
+987,Stafford,20185,KS,4156,Kansas,Republicans
+988,Stevens,20189,KS,5485,Kansas,Republicans
+989,Sumner,20191,KS,22836,Kansas,Republicans
+990,Wabaunsee,20197,KS,6931,Kansas,Republicans
+991,Washington,20201,KS,5406,Kansas,Republicans
+992,Wichita,20203,KS,2119,Kansas,Republicans
+993,Wyandotte,20209,KS,165429,Kansas,Democrats
+994,Todd,21219,KY,12294,Kentucky,Republicans
+995,Shelby,21211,KY,49024,Kentucky,Republicans
+996,Graves,21083,KY,37266,Kentucky,Republicans
+997,Lee,21129,KY,7403,Kentucky,Republicans
+998,Montgomery,21173,KY,28157,Kentucky,Republicans
+999,Ballard,21007,KY,7888,Kentucky,Republicans
+1000,Lincoln,21137,KY,24549,Kentucky,Republicans
+1001,Adair,21001,KY,19202,Kentucky,Republicans
+1002,Allen,21003,KY,21315,Kentucky,Republicans
+1003,Anderson,21005,KY,22747,Kentucky,Republicans
+1004,Lyon,21143,KY,8210,Kentucky,Republicans
+1005,Barren,21009,KY,44249,Kentucky,Republicans
+1006,Bath,21011,KY,12500,Kentucky,Swing_County
+1007,Nicholas,21181,KY,7269,Kentucky,Republicans
+1008,Bell,21013,KY,26032,Kentucky,Republicans
+1009,Boone,21015,KY,133581,Kentucky,Republicans
+1010,Clinton,21053,KY,10218,Kentucky,Republicans
+1011,Bourbon,21017,KY,19788,Kentucky,Republicans
+1012,Miner,46097,SD,2216,South Dakota,Swing_County
+1013,Boyd,21019,KY,46718,Kentucky,Republicans
+1014,Boyle,21021,KY,30060,Kentucky,Republicans
+1015,Bracken,21023,KY,8303,Kentucky,Republicans
+1016,Breathitt,21025,KY,12630,Kentucky,Swing_County
+1017,Breckinridge,21027,KY,20477,Kentucky,Republicans
+1018,Bullitt,21029,KY,81676,Kentucky,Republicans
+1019,Butler,21031,KY,12879,Kentucky,Republicans
+1020,Caldwell,21033,KY,12747,Kentucky,Republicans
+1021,Calloway,21035,KY,39001,Kentucky,Republicans
+1022,Campbell,21037,KY,93584,Kentucky,Republicans
+1023,Carlisle,21039,KY,4760,Kentucky,Republicans
+1024,Carroll,21041,KY,10631,Kentucky,Republicans
+1025,Carter,21043,KY,26797,Kentucky,Swing_County
+1026,Grant,21081,KY,25069,Kentucky,Republicans
+1027,Casey,21045,KY,16159,Kentucky,Republicans
+1028,Christian,21047,KY,70461,Kentucky,Republicans
+1029,Clark,21049,KY,36263,Kentucky,Republicans
+1030,Clay,21051,KY,19901,Kentucky,Republicans
+1031,Warren,21227,KY,132896,Kentucky,Republicans
+1032,Crittenden,21055,KY,8806,Kentucky,Republicans
+1033,Cumberland,21057,KY,6614,Kentucky,Republicans
+1034,Hart,21099,KY,19035,Kentucky,Republicans
+1035,Morgan,21175,KY,13309,Kentucky,Republicans
+1036,Daviess,21059,KY,101511,Kentucky,Republicans
+1037,Edmonson,21061,KY,12150,Kentucky,Republicans
+1038,Elliott,21063,KY,7517,Kentucky,Swing_County
+1039,Estill,21065,KY,14106,Kentucky,Republicans
+1040,Fayette,21067,KY,323152,Kentucky,Swing_County
+1041,Fleming,21069,KY,14581,Kentucky,Republicans
+1042,Floyd,21071,KY,35589,Kentucky,Swing_County
+1043,Franklin,21073,KY,50991,Kentucky,Swing_County
+1044,Johnson,21115,KY,22188,Kentucky,Republicans
+1045,Kenton,21117,KY,166998,Kentucky,Republicans
+1046,Fulton,21075,KY,5969,Kentucky,Republicans
+1047,Gallatin,21077,KY,8869,Kentucky,Republicans
+1048,Garrard,21079,KY,17666,Kentucky,Republicans
+1049,Caldwell,29025,MO,9020,Missouri,Republicans
+1050,Grayson,21085,KY,26427,Kentucky,Republicans
+1051,Green,21087,KY,10941,Kentucky,Republicans
+1052,Spencer,21215,KY,19351,Kentucky,Republicans
+1053,Metcalfe,21169,KY,10071,Kentucky,Republicans
+1054,Greenup,21089,KY,35098,Kentucky,Republicans
+1055,Hancock,21091,KY,8722,Kentucky,Swing_County
+1056,Hardin,21093,KY,110958,Kentucky,Republicans
+1057,Harlan,21095,KY,26010,Kentucky,Republicans
+1058,Harrison,21097,KY,18886,Kentucky,Republicans
+1059,Henderson,21101,KY,45210,Kentucky,Swing_County
+1060,Henry,21103,KY,16126,Kentucky,Republicans
+1061,Hickman,21105,KY,4380,Kentucky,Republicans
+1062,Hopkins,21107,KY,44686,Kentucky,Republicans
+1063,Jackson,21109,KY,13329,Kentucky,Republicans
+1064,McLean,21149,KY,9207,Kentucky,Republicans
+1065,Jefferson,21111,KY,766757,Kentucky,Democrats
+1066,Marshall,21157,KY,31100,Kentucky,Republicans
+1067,Jessamine,21113,KY,54115,Kentucky,Republicans
+1068,Knott,21119,KY,14806,Kentucky,Swing_County
+1069,Knox,21121,KY,31145,Kentucky,Republicans
+1070,Larue,21123,KY,14398,Kentucky,Republicans
+1071,Laurel,21125,KY,60813,Kentucky,Republicans
+1072,Lawrence,21127,KY,15317,Kentucky,Republicans
+1073,Leslie,21131,KY,9877,Kentucky,Republicans
+1074,Letcher,21133,KY,21553,Kentucky,Republicans
+1075,Lewis,21135,KY,13275,Kentucky,Republicans
+1076,Livingston,21139,KY,9194,Kentucky,Republicans
+1077,Logan,21141,KY,27102,Kentucky,Republicans
+1078,McCracken,21145,KY,65418,Kentucky,Republicans
+1079,Webster,21233,KY,12942,Kentucky,Republicans
+1080,McCreary,21147,KY,17231,Kentucky,Republicans
+1081,Madison,21151,KY,92987,Kentucky,Republicans
+1082,Magoffin,21153,KY,12161,Kentucky,Swing_County
+1083,Marion,21155,KY,19273,Kentucky,Republicans
+1084,Martin,21159,KY,11195,Kentucky,Republicans
+1085,Robertson,21201,KY,2108,Kentucky,Republicans
+1086,Mason,21161,KY,17070,Kentucky,Republicans
+1087,Meade,21163,KY,28572,Kentucky,Republicans
+1088,Menifee,21165,KY,6489,Kentucky,Swing_County
+1089,Mercer,21167,KY,21933,Kentucky,Republicans
+1090,Monroe,21171,KY,10650,Kentucky,Republicans
+1091,Scott,21209,KY,57004,Kentucky,Republicans
+1092,Muhlenberg,21177,KY,30622,Kentucky,Republicans
+1093,Nelson,21179,KY,46233,Kentucky,Republicans
+1094,Ohio,21183,KY,23994,Kentucky,Republicans
+1095,Montgomery,28097,MS,9775,Mississippi,Republicans
+1096,Oldham,21185,KY,66799,Kentucky,Republicans
+1097,Owen,21187,KY,10901,Kentucky,Republicans
+1098,Owsley,21189,KY,4415,Kentucky,Republicans
+1099,Pendleton,21191,KY,14590,Kentucky,Republicans
+1100,Perry,21193,KY,25758,Kentucky,Republicans
+1101,Pike,21195,KY,57876,Kentucky,Swing_County
+1102,Powell,21197,KY,12359,Kentucky,Republicans
+1103,Pulaski,21199,KY,64979,Kentucky,Republicans
+1104,Rockcastle,21203,KY,16695,Kentucky,Republicans
+1105,Rowan,21205,KY,24460,Kentucky,Swing_County
+1106,Russell,21207,KY,17923,Kentucky,Republicans
+1107,Simpson,21213,KY,18572,Kentucky,Republicans
+1108,Taylor,21217,KY,25769,Kentucky,Republicans
+1109,Trigg,21221,KY,14651,Kentucky,Republicans
+1110,Trimble,21223,KY,8471,Kentucky,Republicans
+1111,Union,21225,KY,14381,Kentucky,Republicans
+1112,Washington,21229,KY,12095,Kentucky,Republicans
+1113,Wayne,21231,KY,20333,Kentucky,Republicans
+1114,Whitley,21235,KY,36264,Kentucky,Republicans
+1115,Wolfe,21237,KY,7157,Kentucky,Swing_County
+1116,Woodford,21239,KY,26734,Kentucky,Republicans
+1117,Lafayette,22055,LA,244390,Louisiana,Republicans
+1118,Washington,22117,LA,46194,Louisiana,Republicans
+1119,Nicollet,27103,MN,34274,Minnesota,Swing_County
+1120,Caldwell,22021,LA,9918,Louisiana,Republicans
+1121,Tangipahoa,22105,LA,134758,Louisiana,Republicans
+1122,Claiborne,22027,LA,15670,Louisiana,Republicans
+1123,Winn,22127,LA,13904,Louisiana,Republicans
+1124,Jackson,22049,LA,15744,Louisiana,Republicans
+1125,Allen,22003,LA,25627,Louisiana,Republicans
+1126,Lincoln,22061,LA,46742,Louisiana,Republicans
+1127,Acadia,22001,LA,62045,Louisiana,Republicans
+1128,Branch,26023,MI,43517,Michigan,Republicans
+1129,Ascension,22005,LA,126604,Louisiana,Republicans
+1130,Assumption,22007,LA,21891,Louisiana,Swing_County
+1131,Avoyelles,22009,LA,40144,Louisiana,Republicans
+1132,Beauregard,22011,LA,37497,Louisiana,Republicans
+1133,Bienville,22013,LA,13241,Louisiana,Republicans
+1134,Bossier,22015,LA,127039,Louisiana,Republicans
+1135,Livingston,22063,LA,140789,Louisiana,Republicans
+1136,Franklin,22041,LA,20015,Louisiana,Republicans
+1137,Caddo,22017,LA,240204,Louisiana,Swing_County
+1138,Red River,22081,LA,8442,Louisiana,Republicans
+1139,Calcasieu,22019,LA,203436,Louisiana,Republicans
+1140,Jefferson Davis,22053,LA,31368,Louisiana,Republicans
+1141,Newton,28101,MS,21018,Mississippi,Republicans
+1142,Cameron,22023,LA,6973,Louisiana,Republicans
+1143,Webster,22119,LA,38340,Louisiana,Republicans
+1144,Sabine,22085,LA,23884,Louisiana,Republicans
+1145,Howard,24027,MD,325690,Maryland,Democrats
+1146,Catahoula,22025,LA,9494,Louisiana,Republicans
+1147,St. James,22093,LA,21096,Louisiana,Democrats
+1148,LaSalle,22059,LA,14892,Louisiana,Republicans
+1149,Union,22111,LA,22108,Louisiana,Republicans
+1150,Iberville,22047,LA,32511,Louisiana,Democrats
+1151,Jasper,28061,MS,16383,Mississippi,Swing_County
+1152,Concordia,22029,LA,19259,Louisiana,Republicans
+1153,De Soto,22031,LA,27463,Louisiana,Republicans
+1154,East Baton Rouge,22033,LA,440059,Louisiana,Swing_County
+1155,East Carroll,22035,LA,6861,Louisiana,Democrats
+1156,East Feliciana,22037,LA,19135,Louisiana,Republicans
+1157,Ouachita,22073,LA,153279,Louisiana,Republicans
+1158,Evangeline,22039,LA,33395,Louisiana,Republicans
+1159,Grant,22043,LA,22389,Louisiana,Republicans
+1160,Iberia,22045,LA,69830,Louisiana,Republicans
+1161,Jefferson,22051,LA,432493,Louisiana,Republicans
+1162,Vernon,22115,LA,47429,Louisiana,Republicans
+1163,Grant,27051,MN,5972,Minnesota,Swing_County
+1164,Lafourche,22057,LA,97614,Louisiana,Republicans
+1165,Madison,22065,LA,10951,Louisiana,Swing_County
+1166,Morehouse,22067,LA,24874,Louisiana,Republicans
+1167,Natchitoches,22069,LA,38158,Louisiana,Republicans
+1168,Orleans,22071,LA,390144,Louisiana,Democrats
+1169,St. John the Baptist,22095,LA,42837,Louisiana,Democrats
+1170,St. Tammany,22103,LA,260419,Louisiana,Republicans
+1171,Plaquemines,22075,LA,23197,Louisiana,Republicans
+1172,Pointe Coupee,22077,LA,21730,Louisiana,Swing_County
+1173,Rapides,22079,LA,129648,Louisiana,Republicans
+1174,Richland,22083,LA,20122,Louisiana,Republicans
+1175,St. Bernard,22087,LA,47244,Louisiana,Republicans
+1176,St. Charles,22089,LA,53100,Louisiana,Republicans
+1177,St. Helena,22091,LA,10132,Louisiana,Democrats
+1178,St. Landry,22097,LA,82124,Louisiana,Swing_County
+1179,St. Martin,22099,LA,53431,Louisiana,Republicans
+1180,St. Mary,22101,LA,49348,Louisiana,Republicans
+1181,Tensas,22107,LA,4334,Louisiana,Swing_County
+1182,Terrebonne,22109,LA,110461,Louisiana,Republicans
+1183,Vermilion,22113,LA,59511,Louisiana,Republicans
+1184,West Baton Rouge,22121,LA,26465,Louisiana,Republicans
+1185,Neshoba,28099,MS,29118,Mississippi,Republicans
+1186,West Carroll,22123,LA,10830,Louisiana,Republicans
+1187,West Feliciana,22125,LA,15568,Louisiana,Republicans
+1188,Androscoggin,23001,ME,108277,Maine,Swing_County
+1189,Carroll,24013,MD,168447,Maryland,Republicans
+1190,Lenawee,26091,MI,98451,Michigan,Swing_County
+1191,Aroostook,23003,ME,67055,Maine,Swing_County
+1192,Cumberland,23005,ME,295003,Maine,Democrats
+1193,Sagadahoc,23023,ME,35856,Maine,Swing_County
+1194,Franklin,23007,ME,30199,Maine,Swing_County
+1195,Pope,27121,MN,11249,Minnesota,Swing_County
+1196,Waldo,23027,ME,39715,Maine,Swing_County
+1197,Hancock,23009,ME,54987,Maine,Democrats
+1198,Kennebec,23011,ME,122302,Maine,Swing_County
+1199,Wicomico,24045,MD,103609,Maryland,Republicans
+1200,Harford,24025,MD,255441,Maryland,Republicans
+1201,Knox,23013,ME,39772,Maine,Democrats
+1202,Lincoln,23015,ME,34634,Maine,Swing_County
+1203,Oxford,23017,ME,57975,Maine,Swing_County
+1204,Allegany,24001,MD,70416,Maryland,Republicans
+1205,Penobscot,23019,ME,152148,Maine,Swing_County
+1206,Piscataquis,23021,ME,16785,Maine,Republicans
+1207,Somerset,23025,ME,50484,Maine,Swing_County
+1208,Fillmore,31059,NE,5462,Nebraska,Republicans
+1209,Washington,23029,ME,31379,Maine,Swing_County
+1210,York,23031,ME,207641,Maine,Swing_County
+1211,Caroline,24011,MD,33406,Maryland,Republicans
+1212,Garrett,24023,MD,29014,Maryland,Republicans
+1213,Calhoun,26025,MI,134159,Michigan,Swing_County
+1214,Prince George's,24033,MD,909327,Maryland,Democrats
+1215,Frederick,24021,MD,259547,Maryland,Swing_County
+1216,Isabella,26073,MI,69872,Michigan,Swing_County
+1217,Somerset,24039,MD,25616,Maryland,Swing_County
+1218,Montgomery,24031,MD,1050688,Maryland,Democrats
+1219,Washington,24043,MD,151049,Maryland,Republicans
+1220,Worcester,24047,MD,52276,Maryland,Republicans
+1221,Baltimore,24510,MD,593490,Maryland,Democrats
+1222,Charles,24017,MD,163257,Maryland,Democrats
+1223,Cecil,24015,MD,102855,Maryland,Republicans
+1224,Dorchester,24019,MD,31929,Maryland,Republicans
+1225,Talbot,24041,MD,37181,Maryland,Republicans
+1226,Queen Anne's,24035,MD,50381,Maryland,Republicans
+1227,St. Mary's,24037,MD,113510,Maryland,Republicans
+1228,Anne Arundel,24003,MD,579234,Maryland,Swing_County
+1229,Baltimore,24005,MD,827370,Maryland,Democrats
+1230,Ogemaw,26129,MI,20997,Michigan,Swing_County
+1231,Calvert,24009,MD,92525,Maryland,Republicans
+1232,Kent,24029,MD,19422,Maryland,Swing_County
+1233,Nantucket,25019,MA,11399,Massachusetts,Democrats
+1234,Hampshire,25015,MA,160830,Massachusetts,Democrats
+1235,Barnstable,25001,MA,212990,Massachusetts,Democrats
+1236,Lapeer,26087,MI,87607,Michigan,Republicans
+1237,Berkshire,25003,MA,124944,Massachusetts,Democrats
+1238,Suffolk,25025,MA,803907,Massachusetts,Democrats
+1239,Bristol,25005,MA,565217,Massachusetts,Democrats
+1240,Dukes,25007,MA,17332,Massachusetts,Democrats
+1241,Essex,25009,MA,789034,Massachusetts,Democrats
+1242,Franklin,25011,MA,70180,Massachusetts,Democrats
+1243,Hampden,25013,MA,466372,Massachusetts,Democrats
+1244,Eaton,26045,MI,110268,Michigan,Swing_County
+1245,Washtenaw,26161,MI,367601,Michigan,Democrats
+1246,Jackson,26075,MI,158510,Michigan,Swing_County
+1247,Middlesex,25017,MA,1611699,Massachusetts,Democrats
+1248,Clinton,26037,MI,79595,Michigan,Swing_County
+1249,Norfolk,25021,MA,706775,Massachusetts,Democrats
+1250,Plymouth,25023,MA,521202,Massachusetts,Democrats
+1251,Ingham,26065,MI,292406,Michigan,Democrats
+1252,Iron,26071,MI,11066,Michigan,Swing_County
+1253,Lake,26085,MI,11853,Michigan,Swing_County
+1254,Newaygo,26123,MI,48980,Michigan,Republicans
+1255,Daviess,29061,MO,8278,Missouri,Republicans
+1256,Worcester,25027,MA,830622,Massachusetts,Democrats
+1257,Roscommon,26143,MI,24019,Michigan,Swing_County
+1258,Kalamazoo,26077,MI,265066,Michigan,Democrats
+1259,Kalkaska,26079,MI,18038,Michigan,Republicans
+1260,Oscoda,26135,MI,8241,Michigan,Republicans
+1261,Mecosta,26107,MI,43453,Michigan,Swing_County
+1262,Crawford,26039,MI,14029,Michigan,Swing_County
+1263,Missaukee,26113,MI,15118,Michigan,Republicans
+1264,Montmorency,26119,MI,9328,Michigan,Republicans
+1265,Wexford,26165,MI,33631,Michigan,Republicans
+1266,Shiawassee,26155,MI,68122,Michigan,Swing_County
+1267,St. Joseph,26149,MI,60964,Michigan,Republicans
+1268,Alpena,26007,MI,28405,Michigan,Swing_County
+1269,Gratiot,26057,MI,40711,Michigan,Swing_County
+1270,Montcalm,26117,MI,63888,Michigan,Swing_County
+1271,Cheboygan,26031,MI,25276,Michigan,Swing_County
+1272,Sanilac,26151,MI,41170,Michigan,Republicans
+1273,Ottawa,26139,MI,291830,Michigan,Republicans
+1274,Emmet,26047,MI,33415,Michigan,Republicans
+1275,Grand Traverse,26055,MI,93088,Michigan,Republicans
+1276,Kent,26081,MI,656955,Michigan,Swing_County
+1277,Ionia,26067,MI,64697,Michigan,Republicans
+1278,Livingston,26093,MI,191995,Michigan,Republicans
+1279,Tuscola,26157,MI,52245,Michigan,Swing_County
+1280,Gladwin,26051,MI,25449,Michigan,Swing_County
+1281,Otsego,26137,MI,24668,Michigan,Republicans
+1282,Saginaw,26145,MI,190539,Michigan,Swing_County
+1283,Genesee,26049,MI,405813,Michigan,Democrats
+1284,Delta,26041,MI,35784,Michigan,Swing_County
+1285,Le Sueur,27079,MN,28887,Minnesota,Republicans
+1286,Houghton,26061,MI,35684,Michigan,Republicans
+1287,Huron,26063,MI,30981,Michigan,Swing_County
+1288,Cass,26027,MI,51787,Michigan,Swing_County
+1289,Mason,26105,MI,29144,Michigan,Swing_County
+1290,Arenac,26011,MI,14883,Michigan,Swing_County
+1291,Dickinson,26043,MI,25239,Michigan,Republicans
+1292,Berrien,26021,MI,153401,Michigan,Swing_County
+1293,Hillsdale,26059,MI,45605,Michigan,Republicans
+1294,Chippewa,26033,MI,37349,Michigan,Swing_County
+1295,Yellow Medicine,27173,MN,9709,Minnesota,Swing_County
+1296,Martin,27091,MN,19683,Minnesota,Republicans
+1297,Gogebic,26053,MI,13975,Michigan,Swing_County
+1298,Luce,26095,MI,6229,Michigan,Republicans
+1299,St. Clair,26147,MI,159128,Michigan,Swing_County
+1300,Schoolcraft,26153,MI,8094,Michigan,Swing_County
+1301,Van Buren,26159,MI,75677,Michigan,Swing_County
+1302,Wayne,26163,MI,1749343,Michigan,Democrats
+1303,Alcona,26001,MI,10405,Michigan,Republicans
+1304,Alger,26003,MI,9108,Michigan,Swing_County
+1305,Allegan,26005,MI,118081,Michigan,Republicans
+1306,Antrim,26009,MI,23324,Michigan,Republicans
+1307,Baraga,26013,MI,8209,Michigan,Republicans
+1308,Barry,26015,MI,61550,Michigan,Republicans
+1309,Bay,26017,MI,103126,Michigan,Swing_County
+1310,Benzie,26019,MI,17766,Michigan,Swing_County
+1311,Charlevoix,26029,MI,26143,Michigan,Republicans
+1312,Clare,26035,MI,30950,Michigan,Swing_County
+1313,Iosco,26069,MI,25127,Michigan,Swing_County
+1314,Carlton,27017,MN,35871,Minnesota,Swing_County
+1315,Keweenaw,26083,MI,2116,Michigan,Republicans
+1316,Leelanau,26089,MI,21761,Michigan,Swing_County
+1317,Lyon,27083,MN,25474,Minnesota,Swing_County
+1318,Mackinac,26097,MI,10799,Michigan,Republicans
+1319,Macomb,26099,MI,873972,Michigan,Swing_County
+1320,Manistee,26101,MI,24558,Michigan,Swing_County
+1321,Marquette,26103,MI,66699,Michigan,Swing_County
+1322,Menominee,26109,MI,22780,Michigan,Swing_County
+1323,Midland,26111,MI,83156,Michigan,Republicans
+1324,Monroe,26115,MI,150500,Michigan,Swing_County
+1325,Muskegon,26121,MI,173566,Michigan,Swing_County
+1326,Oakland,26125,MI,1257584,Michigan,Swing_County
+1327,Oceana,26127,MI,26467,Michigan,Swing_County
+1328,Ontonagon,26131,MI,5720,Michigan,Swing_County
+1329,Osceola,26133,MI,23460,Michigan,Republicans
+1330,Sullivan,29211,MO,6089,Missouri,Republicans
+1331,Presque Isle,26141,MI,12592,Michigan,Swing_County
+1332,Douglas,27041,MN,38141,Minnesota,Republicans
+1333,Watonwan,27165,MN,10897,Minnesota,Swing_County
+1334,Murray,27101,MN,8194,Minnesota,Swing_County
+1335,Dodge,27039,MN,20934,Minnesota,Republicans
+1336,Steele,27147,MN,36649,Minnesota,Republicans
+1337,Stevens,27149,MN,9805,Minnesota,Swing_County
+1338,Lincoln,27081,MN,5639,Minnesota,Swing_County
+1339,Mahnomen,27087,MN,5527,Minnesota,Swing_County
+1340,Kanabec,27065,MN,16337,Minnesota,Republicans
+1341,Cottonwood,27033,MN,11196,Minnesota,Republicans
+1342,Kittson,27069,MN,4298,Minnesota,Swing_County
+1343,Wilkin,27167,MN,6207,Minnesota,Republicans
+1344,Clearwater,27029,MN,8818,Minnesota,Republicans
+1345,Big Stone,27011,MN,4991,Minnesota,Swing_County
+1346,Shelby,29205,MO,5930,Missouri,Republicans
+1347,Redwood,27127,MN,15170,Minnesota,Republicans
+1348,Sherburne,27141,MN,97238,Minnesota,Republicans
+1349,Clay,27027,MN,64222,Minnesota,Swing_County
+1350,Waseca,27161,MN,18612,Minnesota,Republicans
+1351,Chippewa,27023,MN,11800,Minnesota,Swing_County
+1352,Becker,27005,MN,34423,Minnesota,Republicans
+1353,Lac qui Parle,27073,MN,6623,Minnesota,Swing_County
+1354,Mille Lacs,27095,MN,26277,Minnesota,Republicans
+1355,Cass,27021,MN,29779,Minnesota,Republicans
+1356,Chisago,27025,MN,56579,Minnesota,Republicans
+1357,Hubbard,27057,MN,21491,Minnesota,Republicans
+1358,Carver,27019,MN,105089,Minnesota,Republicans
+1359,Blue Earth,27013,MN,67653,Minnesota,Swing_County
+1360,Brown,27015,MN,25008,Minnesota,Republicans
+1361,Crow Wing,27035,MN,65055,Minnesota,Republicans
+1362,Aitkin,27001,MN,15886,Minnesota,Swing_County
+1363,Todd,27153,MN,24664,Minnesota,Republicans
+1364,Jackson,27063,MN,9846,Minnesota,Republicans
+1365,Beltrami,27007,MN,47188,Minnesota,Swing_County
+1366,Benton,27009,MN,40889,Minnesota,Republicans
+1367,Anoka,27003,MN,356921,Minnesota,Republicans
+1368,Norman,27107,MN,6375,Minnesota,Swing_County
+1369,Pipestone,27117,MN,9126,Minnesota,Republicans
+1370,Ramsey,27123,MN,550321,Minnesota,Democrats
+1371,Marshall,27089,MN,9336,Minnesota,Swing_County
+1372,Isanti,27059,MN,40596,Minnesota,Republicans
+1373,Meeker,27093,MN,23222,Minnesota,Republicans
+1374,Hansford,48195,TX,5399,Texas,Republicans
+1375,Cook,27031,MN,5463,Minnesota,Democrats
+1376,Dakota,27037,MN,429021,Minnesota,Swing_County
+1377,Faribault,27043,MN,13653,Minnesota,Republicans
+1378,Fillmore,27045,MN,21067,Minnesota,Swing_County
+1379,Freeborn,27047,MN,30281,Minnesota,Swing_County
+1380,Goodhue,27049,MN,46340,Minnesota,Swing_County
+1381,McLeod,27085,MN,35893,Minnesota,Republicans
+1382,Nobles,27105,MN,21629,Minnesota,Swing_County
+1383,Morrison,27097,MN,33386,Minnesota,Republicans
+1384,Polk,27119,MN,31364,Minnesota,Swing_County
+1385,Covington,28031,MS,18636,Mississippi,Republicans
+1386,Mower,27099,MN,40062,Minnesota,Swing_County
+1387,Hennepin,27053,MN,1265843,Minnesota,Democrats
+1388,Houston,27055,MN,18600,Minnesota,Swing_County
+1389,Itasca,27061,MN,45130,Minnesota,Swing_County
+1390,Kandiyohi,27067,MN,43199,Minnesota,Republicans
+1391,Koochiching,27071,MN,12229,Minnesota,Swing_County
+1392,Lake,27075,MN,10641,Minnesota,Swing_County
+1393,Red Lake,27125,MN,4055,Minnesota,Swing_County
+1394,Lake of the Woods,27077,MN,3740,Minnesota,Republicans
+1395,Olmsted,27109,MN,158293,Minnesota,Swing_County
+1396,Otter Tail,27111,MN,58746,Minnesota,Republicans
+1397,Pennington,27113,MN,14119,Minnesota,Swing_County
+1398,Winona,27169,MN,50484,Minnesota,Swing_County
+1399,Wadena,27159,MN,13682,Minnesota,Republicans
+1400,Pine,27115,MN,29579,Minnesota,Swing_County
+1401,Renville,27129,MN,14548,Minnesota,Swing_County
+1402,Rice,27131,MN,66972,Minnesota,Swing_County
+1403,Rock,27133,MN,9315,Minnesota,Republicans
+1404,Roseau,27135,MN,15165,Minnesota,Republicans
+1405,St. Louis,27137,MN,199070,Minnesota,Democrats
+1406,Scott,27139,MN,149013,Minnesota,Republicans
+1407,Sibley,27143,MN,14865,Minnesota,Republicans
+1408,Stearns,27145,MN,161075,Minnesota,Republicans
+1409,Swift,27151,MN,9266,Minnesota,Swing_County
+1410,Traverse,27155,MN,3259,Minnesota,Swing_County
+1411,Wabasha,27157,MN,21627,Minnesota,Swing_County
+1412,Washington,27163,MN,262440,Minnesota,Swing_County
+1413,Wright,27171,MN,138377,Minnesota,Republicans
+1414,Kemper,28069,MS,9742,Mississippi,Democrats
+1415,Jones,28067,MS,68098,Mississippi,Republicans
+1416,Jefferson Davis,28065,MS,11128,Mississippi,Democrats
+1417,DeSoto,28033,MS,184945,Mississippi,Republicans
+1418,Lee,28081,MS,85436,Mississippi,Republicans
+1419,Stone,28131,MS,18336,Mississippi,Republicans
+1420,Pike,28113,MS,39288,Mississippi,Swing_County
+1421,Dade,29057,MO,7561,Missouri,Republicans
+1422,Copiah,28029,MS,28065,Mississippi,Swing_County
+1423,Leflore,28083,MS,28183,Mississippi,Democrats
+1424,Lincoln,28085,MS,34153,Mississippi,Republicans
+1425,Leake,28079,MS,22786,Mississippi,Republicans
+1426,Lowndes,28087,MS,58595,Mississippi,Swing_County
+1427,Lawrence,28077,MS,12586,Mississippi,Republicans
+1428,Forrest,28035,MS,74897,Mississippi,Republicans
+1429,Calhoun,28013,MS,14361,Mississippi,Republicans
+1430,Lafayette,28071,MS,54019,Mississippi,Republicans
+1431,Walthall,28147,MS,14286,Mississippi,Republicans
+1432,Pontotoc,28115,MS,32174,Mississippi,Republicans
+1433,Yazoo,28163,MS,29690,Mississippi,Swing_County
+1434,Bolivar,28011,MS,30628,Mississippi,Democrats
+1435,Amite,28005,MS,12297,Mississippi,Republicans
+1436,Noxubee,28103,MS,10417,Mississippi,Democrats
+1437,Webster,28155,MS,9689,Mississippi,Republicans
+1438,Adams,28001,MS,30693,Mississippi,Democrats
+1439,Alcorn,28003,MS,36953,Mississippi,Republicans
+1440,Attala,28007,MS,18174,Mississippi,Republicans
+1441,Benton,28009,MS,8259,Mississippi,Swing_County
+1442,Carroll,28015,MS,9947,Mississippi,Republicans
+1443,Chickasaw,28017,MS,17103,Mississippi,Swing_County
+1444,Choctaw,28019,MS,8210,Mississippi,Republicans
+1445,Claiborne,28021,MS,8988,Mississippi,Democrats
+1446,Clarke,28023,MS,15541,Mississippi,Republicans
+1447,Lamar,28073,MS,63343,Mississippi,Republicans
+1448,Wilkinson,28157,MS,8630,Mississippi,Democrats
+1449,Yalobusha,28161,MS,12108,Mississippi,Republicans
+1450,Winston,28159,MS,17955,Mississippi,Republicans
+1451,Quitman,28119,MS,6792,Mississippi,Democrats
+1452,Holmes,28051,MS,17010,Mississippi,Democrats
+1453,Humphreys,28053,MS,8064,Mississippi,Democrats
+1454,Marion,28091,MS,24573,Mississippi,Republicans
+1455,Clay,28025,MS,19316,Mississippi,Democrats
+1456,Coahoma,28027,MS,22124,Mississippi,Democrats
+1457,Franklin,28037,MS,7713,Mississippi,Republicans
+1458,George,28039,MS,24500,Mississippi,Republicans
+1459,Greene,28041,MS,13586,Mississippi,Republicans
+1460,Grenada,28043,MS,20758,Mississippi,Republicans
+1461,Hancock,28045,MS,47632,Mississippi,Republicans
+1462,Harrison,28047,MS,208080,Mississippi,Republicans
+1463,Hinds,28049,MS,231840,Mississippi,Democrats
+1464,Issaquena,28055,MS,1327,Mississippi,Democrats
+1465,Itawamba,28057,MS,23390,Mississippi,Republicans
+1466,Jackson,28059,MS,143617,Mississippi,Republicans
+1467,Jefferson,28063,MS,6990,Mississippi,Democrats
+1468,Lauderdale,28075,MS,74125,Mississippi,Republicans
+1469,Tishomingo,28141,MS,19383,Mississippi,Republicans
+1470,Tunica,28143,MS,9632,Mississippi,Democrats
+1471,Monroe,28095,MS,35252,Mississippi,Republicans
+1472,Madison,28089,MS,106272,Mississippi,Republicans
+1473,Smith,28129,MS,15916,Mississippi,Republicans
+1474,Marshall,28093,MS,35294,Mississippi,Democrats
+1475,Tate,28137,MS,28321,Mississippi,Republicans
+1476,Tippah,28139,MS,22015,Mississippi,Republicans
+1477,Dimmit,48127,TX,10124,Texas,Democrats
+1478,Oktibbeha,28105,MS,49587,Mississippi,Swing_County
+1479,Panola,28107,MS,34192,Mississippi,Swing_County
+1480,Pearl River,28109,MS,55535,Mississippi,Republicans
+1481,Perry,28111,MS,11973,Mississippi,Republicans
+1482,Prentiss,28117,MS,25126,Mississippi,Republicans
+1483,Union,28145,MS,28815,Mississippi,Republicans
+1484,Warren,28149,MS,45381,Mississippi,Swing_County
+1485,Washington,28151,MS,43909,Mississippi,Democrats
+1486,Wayne,28153,MS,20183,Mississippi,Republicans
+1487,Wright,29229,MO,18289,Missouri,Republicans
+1488,Barton,29011,MO,11754,Missouri,Republicans
+1489,Scotland,29199,MO,4902,Missouri,Republicans
+1490,Adair,29001,MO,25343,Missouri,Swing_County
+1491,Grundy,29079,MO,9850,Missouri,Republicans
+1492,Rankin,28121,MS,155271,Mississippi,Republicans
+1493,Scott,28123,MS,28124,Mississippi,Republicans
+1494,Sharkey,28125,MS,4321,Mississippi,Democrats
+1495,Simpson,28127,MS,26658,Mississippi,Republicans
+1496,Sunflower,28133,MS,25110,Mississippi,Democrats
+1497,Tallahatchie,28135,MS,13809,Mississippi,Democrats
+1498,Stone,29209,MO,31952,Missouri,Republicans
+1499,Gentry,29075,MO,6571,Missouri,Republicans
+1500,Randolph,29175,MO,24748,Missouri,Republicans
+1501,Clinton,29049,MO,20387,Missouri,Republicans
+1502,Macon,29121,MO,15117,Missouri,Republicans
+1503,DeKalb,29063,MO,12547,Missouri,Republicans
+1504,Madison,29123,MO,12088,Missouri,Republicans
+1505,Bollinger,29017,MO,12133,Missouri,Republicans
+1506,Cooper,29053,MO,17709,Missouri,Republicans
+1507,Ray,29177,MO,23018,Missouri,Republicans
+1508,Lawrence,29109,MO,38355,Missouri,Republicans
+1509,McDonald,29119,MO,22837,Missouri,Republicans
+1510,Henry,29083,MO,21824,Missouri,Republicans
+1511,Washington,29221,MO,24730,Missouri,Swing_County
+1512,Iron,29093,MO,10125,Missouri,Swing_County
+1513,Hickory,29085,MO,9544,Missouri,Republicans
+1514,Howard,31093,NE,6445,Nebraska,Republicans
+1515,Andrew,29003,MO,17712,Missouri,Republicans
+1516,Carroll,29033,MO,8679,Missouri,Republicans
+1517,Carter,29035,MO,5982,Missouri,Republicans
+1518,Cape Girardeau,29031,MO,78871,Missouri,Republicans
+1519,Cedar,29039,MO,14349,Missouri,Republicans
+1520,Clay,29047,MO,249948,Missouri,Swing_County
+1521,Linn,29115,MO,11920,Missouri,Republicans
+1522,Atchison,29005,MO,5143,Missouri,Republicans
+1523,Audrain,29007,MO,25388,Missouri,Republicans
+1524,Barry,29009,MO,35789,Missouri,Republicans
+1525,Bates,29013,MO,16172,Missouri,Republicans
+1526,Benton,29015,MO,19443,Missouri,Republicans
+1527,Boone,29019,MO,180463,Missouri,Swing_County
+1528,Buchanan,29021,MO,87364,Missouri,Swing_County
+1529,Butler,29023,MO,42478,Missouri,Republicans
+1530,Callaway,29027,MO,44743,Missouri,Republicans
+1531,Greene,29077,MO,293086,Missouri,Republicans
+1532,Gasconade,29073,MO,14706,Missouri,Republicans
+1533,Camden,29029,MO,46305,Missouri,Republicans
+1534,Cass,29037,MO,105780,Missouri,Republicans
+1535,Chariton,29041,MO,7426,Missouri,Republicans
+1536,Cole,29051,MO,76745,Missouri,Republicans
+1537,Crawford,29055,MO,23920,Missouri,Republicans
+1538,Dallas,29059,MO,16878,Missouri,Republicans
+1539,Dent,29065,MO,15573,Missouri,Republicans
+1540,Douglas,29067,MO,13185,Missouri,Republicans
+1541,Dunklin,29069,MO,29131,Missouri,Republicans
+1542,Franklin,29071,MO,103967,Missouri,Republicans
+1543,Harrison,29081,MO,8352,Missouri,Republicans
+1544,Moniteau,29135,MO,16132,Missouri,Republicans
+1545,Monroe,29137,MO,8644,Missouri,Republicans
+1546,Webster,29225,MO,39592,Missouri,Republicans
+1547,Holt,29087,MO,4403,Missouri,Republicans
+1548,Howard,29089,MO,10001,Missouri,Republicans
+1549,Howell,29091,MO,40117,Missouri,Republicans
+1550,Jackson,29095,MO,703011,Missouri,Swing_County
+1551,Jasper,29097,MO,121328,Missouri,Republicans
+1552,Ozark,29153,MO,9174,Missouri,Republicans
+1553,Hall,31079,NE,61353,Nebraska,Republicans
+1554,Osage,29151,MO,13615,Missouri,Republicans
+1555,Clark,29045,MO,6797,Missouri,Republicans
+1556,Jefferson,29099,MO,225081,Missouri,Swing_County
+1557,Johnson,29101,MO,54062,Missouri,Republicans
+1558,Knox,29103,MO,3959,Missouri,Republicans
+1559,Laclede,29105,MO,35723,Missouri,Republicans
+1560,Lafayette,29107,MO,32708,Missouri,Republicans
+1561,Red Willow,31145,NE,10724,Nebraska,Republicans
+1562,Lewis,29111,MO,9776,Missouri,Republicans
+1563,Lincoln,29113,MO,59013,Missouri,Republicans
+1564,Livingston,29117,MO,15227,Missouri,Republicans
+1565,Maries,29125,MO,8697,Missouri,Republicans
+1566,Marion,29127,MO,28530,Missouri,Republicans
+1567,Arthur,31005,NE,463,Nebraska,Republicans
+1568,Mercer,29129,MO,3617,Missouri,Republicans
+1569,Miller,29131,MO,25619,Missouri,Republicans
+1570,Worth,29227,MO,2013,Missouri,Republicans
+1571,Christian,29043,MO,88595,Missouri,Republicans
+1572,Mississippi,29133,MO,13180,Missouri,Republicans
+1573,Montgomery,29139,MO,11551,Missouri,Republicans
+1574,Morgan,29141,MO,20627,Missouri,Republicans
+1575,New Madrid,29143,MO,17076,Missouri,Republicans
+1576,Newton,29145,MO,58236,Missouri,Republicans
+1577,Nodaway,29147,MO,22092,Missouri,Republicans
+1578,Oregon,29149,MO,10529,Missouri,Republicans
+1579,Pemiscot,29155,MO,15805,Missouri,Swing_County
+1580,Perry,29157,MO,19136,Missouri,Republicans
+1581,Pettis,29159,MO,42339,Missouri,Republicans
+1582,Phelps,29161,MO,44573,Missouri,Republicans
+1583,Pike,29163,MO,18302,Missouri,Republicans
+1584,Shannon,29203,MO,8166,Missouri,Republicans
+1585,Chase,31029,NE,3924,Nebraska,Republicans
+1586,Platte,29165,MO,104418,Missouri,Republicans
+1587,Polk,29167,MO,32149,Missouri,Republicans
+1588,Pulaski,29169,MO,52607,Missouri,Republicans
+1589,Putnam,29171,MO,4696,Missouri,Republicans
+1590,Ralls,29173,MO,10309,Missouri,Republicans
+1591,Warren,29219,MO,35649,Missouri,Republicans
+1592,Wayne,29223,MO,12873,Missouri,Republicans
+1593,Reynolds,29179,MO,6270,Missouri,Republicans
+1594,Ripley,29181,MO,13288,Missouri,Republicans
+1595,St. Charles,29183,MO,402022,Missouri,Republicans
+1596,St. Clair,29185,MO,9397,Missouri,Republicans
+1597,Ste. Genevieve,29186,MO,17894,Missouri,Swing_County
+1598,St. Francois,29187,MO,67215,Missouri,Republicans
+1599,St. Louis,29189,MO,994205,Missouri,Democrats
+1600,Saline,29195,MO,22761,Missouri,Republicans
+1601,Schuyler,29197,MO,4660,Missouri,Republicans
+1602,Scott,29201,MO,38280,Missouri,Republicans
+1603,Stoddard,29207,MO,29025,Missouri,Republicans
+1604,Taney,29213,MO,55928,Missouri,Republicans
+1605,Texas,29215,MO,25398,Missouri,Republicans
+1606,Vernon,29217,MO,20563,Missouri,Republicans
+1607,St. Louis,29510,MO,300576,Missouri,Democrats
+1608,Powder River,30075,MT,1682,Montana,Republicans
+1609,Fallon,30025,MT,2846,Montana,Republicans
+1610,Cascade,30013,MT,81366,Montana,Swing_County
+1611,Chouteau,30015,MT,5635,Montana,Republicans
+1612,Carbon,30009,MT,10725,Montana,Republicans
+1613,Thayer,31169,NE,5003,Nebraska,Republicans
+1614,Beaverhead,30001,MT,9453,Montana,Republicans
+1615,Daniels,30019,MT,1690,Montana,Republicans
+1616,Big Horn,30003,MT,13319,Montana,Swing_County
+1617,Toole,30101,MT,4736,Montana,Republicans
+1618,Blaine,30005,MT,6681,Montana,Swing_County
+1619,Broadwater,30007,MT,6237,Montana,Republicans
+1620,Saline,31151,NE,14224,Nebraska,Swing_County
+1621,Carter,30011,MT,1252,Montana,Republicans
+1622,Custer,30017,MT,11402,Montana,Republicans
+1623,Dawson,30021,MT,8613,Montana,Republicans
+1624,Deer Lodge,30023,MT,9140,Montana,Swing_County
+1625,Wheatland,30107,MT,2126,Montana,Republicans
+1626,Wibaux,30109,MT,969,Montana,Republicans
+1627,Fergus,30027,MT,11050,Montana,Republicans
+1628,Sweet Grass,30097,MT,3737,Montana,Republicans
+1629,Sherman,31163,NE,3001,Nebraska,Republicans
+1630,Phillips,30071,MT,3954,Montana,Republicans
+1631,Glacier,30035,MT,13753,Montana,Democrats
+1632,Golden Valley,30037,MT,821,Montana,Republicans
+1633,Lewis and Clark,30049,MT,69432,Montana,Swing_County
+1634,Hill,30041,MT,16484,Montana,Swing_County
+1635,Lake,30047,MT,30458,Montana,Swing_County
+1636,Archer,48009,TX,8553,Texas,Republicans
+1637,Stanton,31167,NE,5920,Nebraska,Republicans
+1638,Lincoln,30053,MT,19980,Montana,Republicans
+1639,McCone,30055,MT,1664,Montana,Republicans
+1640,Flathead,30029,MT,103806,Montana,Republicans
+1641,Gallatin,30031,MT,114434,Montana,Swing_County
+1642,Garfield,30033,MT,1258,Montana,Republicans
+1643,Treasure,30103,MT,696,Montana,Republicans
+1644,Granite,30039,MT,3379,Montana,Republicans
+1645,Sheridan,30091,MT,3309,Montana,Swing_County
+1646,Jefferson,30043,MT,12221,Montana,Republicans
+1647,Judith Basin,30045,MT,2007,Montana,Republicans
+1648,Liberty,30051,MT,2337,Montana,Republicans
+1649,Madison,30057,MT,8600,Montana,Republicans
+1650,Meagher,30059,MT,1862,Montana,Republicans
+1651,Harlan,31083,NE,3380,Nebraska,Republicans
+1652,Colfax,31037,NE,10709,Nebraska,Republicans
+1653,Garfield,31071,NE,1969,Nebraska,Republicans
+1654,Mineral,30061,MT,4397,Montana,Republicans
+1655,Missoula,30063,MT,119600,Montana,Democrats
+1656,Musselshell,30065,MT,4633,Montana,Republicans
+1657,Park,30067,MT,16606,Montana,Swing_County
+1658,Petroleum,30069,MT,487,Montana,Republicans
+1659,Stillwater,30095,MT,9642,Montana,Republicans
+1660,Pondera,30073,MT,5911,Montana,Republicans
+1661,Powell,30077,MT,6890,Montana,Republicans
+1662,Prairie,30079,MT,1077,Montana,Republicans
+1663,Valley,30105,MT,7396,Montana,Swing_County
+1664,Yellowstone,30111,MT,161300,Montana,Republicans
+1665,Seward,31159,NE,17284,Nebraska,Republicans
+1666,Madison,31119,NE,35099,Nebraska,Republicans
+1667,Pierce,31139,NE,7148,Nebraska,Republicans
+1668,Ravalli,30081,MT,43806,Montana,Republicans
+1669,Richland,30083,MT,10803,Montana,Republicans
+1670,Roosevelt,30085,MT,11004,Montana,Swing_County
+1671,Rosebud,30087,MT,8937,Montana,Swing_County
+1672,Sanders,30089,MT,12113,Montana,Republicans
+1673,Silver Bow,30093,MT,34915,Montana,Democrats
+1674,Teton,30099,MT,6147,Montana,Republicans
+1675,Logan,31113,NE,748,Nebraska,Republicans
+1676,York,31185,NE,13679,Nebraska,Republicans
+1677,Johnson,31097,NE,5071,Nebraska,Republicans
+1678,Loup,31115,NE,664,Nebraska,Republicans
+1679,Clay,31035,NE,6203,Nebraska,Republicans
+1680,Thomas,31171,NE,722,Nebraska,Republicans
+1681,Hooker,31091,NE,682,Nebraska,Republicans
+1682,Cuming,31039,NE,8846,Nebraska,Republicans
+1683,Polk,31143,NE,5213,Nebraska,Republicans
+1684,Webster,31181,NE,3487,Nebraska,Republicans
+1685,Hitchcock,31087,NE,2762,Nebraska,Republicans
+1686,Deuel,31049,NE,1794,Nebraska,Republicans
+1687,Blaine,31009,NE,465,Nebraska,Republicans
+1688,Kimball,31105,NE,3632,Nebraska,Republicans
+1689,Perkins,31135,NE,2891,Nebraska,Republicans
+1690,Keya Paha,31103,NE,806,Nebraska,Republicans
+1691,Grant,31075,NE,623,Nebraska,Republicans
+1692,Greeley,31077,NE,2356,Nebraska,Republicans
+1693,Gage,31067,NE,21513,Nebraska,Republicans
+1694,Nuckolls,31129,NE,4148,Nebraska,Republicans
+1695,Adams,31001,NE,31363,Nebraska,Republicans
+1696,Keith,31101,NE,8034,Nebraska,Republicans
+1697,Douglas,31055,NE,571327,Nebraska,Swing_County
+1698,Dixon,31051,NE,5636,Nebraska,Republicans
+1699,Dodge,31053,NE,36565,Nebraska,Republicans
+1700,Garden,31069,NE,1837,Nebraska,Republicans
+1701,Gosper,31073,NE,1990,Nebraska,Republicans
+1702,Boyd,31015,NE,1919,Nebraska,Republicans
+1703,Box Butte,31013,NE,10783,Nebraska,Republicans
+1704,Dawes,31045,NE,8589,Nebraska,Republicans
+1705,Dundy,31057,NE,1693,Nebraska,Republicans
+1706,Knox,31107,NE,8332,Nebraska,Republicans
+1707,Lancaster,31109,NE,319090,Nebraska,Swing_County
+1708,Nemaha,31127,NE,6972,Nebraska,Republicans
+1709,Spink,46115,SD,6376,South Dakota,Republicans
+1710,Cheyenne,31033,NE,8910,Nebraska,Republicans
+1711,Cedar,31027,NE,8402,Nebraska,Republicans
+1712,Otoe,31131,NE,16012,Nebraska,Republicans
+1713,Burt,31021,NE,6459,Nebraska,Republicans
+1714,Hamilton,31081,NE,9324,Nebraska,Republicans
+1715,Boone,31011,NE,5192,Nebraska,Republicans
+1716,Dawson,31047,NE,23595,Nebraska,Republicans
+1717,Cass,31025,NE,26248,Nebraska,Republicans
+1718,Pawnee,31133,NE,2613,Nebraska,Republicans
+1719,Phelps,31137,NE,9034,Nebraska,Republicans
+1720,Holt,31089,NE,10067,Nebraska,Republicans
+1721,Butler,31023,NE,8016,Nebraska,Republicans
+1722,Hayes,31085,NE,922,Nebraska,Republicans
+1723,Nance,31125,NE,3519,Nebraska,Republicans
+1724,Cherry,31031,NE,5689,Nebraska,Republicans
+1725,Scotts Bluff,31157,NE,35618,Nebraska,Republicans
+1726,Brown,31017,NE,2955,Nebraska,Republicans
+1727,Merrick,31121,NE,7755,Nebraska,Republicans
+1728,Antelope,31003,NE,6298,Nebraska,Republicans
+1729,Banner,31007,NE,745,Nebraska,Republicans
+1730,Frontier,31063,NE,2627,Nebraska,Republicans
+1731,Lincoln,31111,NE,34914,Nebraska,Republicans
+1732,McPherson,31117,NE,494,Nebraska,Republicans
+1733,Kearney,31099,NE,6495,Nebraska,Republicans
+1734,Buffalo,31019,NE,49659,Nebraska,Republicans
+1735,Custer,31041,NE,10777,Nebraska,Republicans
+1736,Dakota,31043,NE,20026,Nebraska,Republicans
+1737,Franklin,31061,NE,2979,Nebraska,Republicans
+1738,Furnas,31065,NE,4676,Nebraska,Republicans
+1739,Morrill,31123,NE,4642,Nebraska,Republicans
+1740,Platte,31141,NE,33470,Nebraska,Republicans
+1741,Richardson,31147,NE,7865,Nebraska,Republicans
+1742,Rock,31149,NE,1357,Nebraska,Republicans
+1743,Sarpy,31153,NE,187196,Nebraska,Republicans
+1744,Saunders,31155,NE,21578,Nebraska,Republicans
+1745,Sheridan,31161,NE,5246,Nebraska,Republicans
+1746,Sioux,31165,NE,1166,Nebraska,Republicans
+1747,Thurston,31173,NE,7224,Nebraska,Swing_County
+1748,Valley,31175,NE,4158,Nebraska,Republicans
+1749,Washington,31177,NE,20729,Nebraska,Republicans
+1750,Wayne,31179,NE,9385,Nebraska,Republicans
+1751,Wheeler,31183,NE,783,Nebraska,Republicans
+1752,Storey,32029,NV,4123,Nevada,Republicans
+1753,Mineral,32021,NV,4505,Nevada,Swing_County
+1754,Brookings,46011,SD,35077,South Dakota,Swing_County
+1755,Churchill,32001,NV,24909,Nevada,Republicans
+1756,White Pine,32033,NV,9580,Nevada,Republicans
+1757,Carson City,32510,NV,55916,Nevada,Swing_County
+1758,Warren,34041,NJ,105267,New Jersey,Republicans
+1759,Clark,32003,NV,2266715,Nevada,Democrats
+1760,Douglas,32005,NV,48905,Nevada,Republicans
+1761,Cumberland,34011,NJ,149527,New Jersey,Democrats
+1762,Elko,32007,NV,52778,Nevada,Republicans
+1763,Esmeralda,32009,NV,873,Nevada,Republicans
+1764,Eureka,32011,NV,2029,Nevada,Republicans
+1765,Humboldt,32013,NV,16831,Nevada,Republicans
+1766,Lander,32015,NV,5532,Nevada,Republicans
+1767,Lincoln,32017,NV,5183,Nevada,Republicans
+1768,Lyon,32019,NV,57510,Nevada,Republicans
+1769,Nye,32023,NV,46523,Nevada,Republicans
+1770,Pershing,32027,NV,6725,Nevada,Republicans
+1771,Washoe,32031,NV,471519,Nevada,Swing_County
+1772,Belknap,33001,NH,61303,New Hampshire,Swing_County
+1773,Carroll,33003,NH,48910,New Hampshire,Swing_County
+1774,Cheshire,33005,NH,76085,New Hampshire,Democrats
+1775,Coos,33007,NH,31563,New Hampshire,Swing_County
+1776,Grafton,33009,NH,89886,New Hampshire,Democrats
+1777,McCook,46087,SD,5586,South Dakota,Republicans
+1778,Hillsborough,33011,NH,417025,New Hampshire,Swing_County
+1779,Merrimack,33013,NH,151391,New Hampshire,Swing_County
+1780,Rockingham,33015,NH,309769,New Hampshire,Swing_County
+1781,Strafford,33017,NH,130633,New Hampshire,Democrats
+1782,Sullivan,33019,NH,43146,New Hampshire,Swing_County
+1783,Camden,34007,NJ,506471,New Jersey,Democrats
+1784,Cape May,34009,NJ,92039,New Jersey,Republicans
+1785,Sussex,34037,NJ,140488,New Jersey,Republicans
+1786,Essex,34013,NJ,798975,New Jersey,Democrats
+1787,Gloucester,34015,NJ,291636,New Jersey,Swing_County
+1788,Union,34039,NJ,556341,New Jersey,Democrats
+1789,Atlantic,34001,NJ,263670,New Jersey,Democrats
+1790,Bergen,34003,NJ,932202,New Jersey,Democrats
+1791,Salem,34033,NJ,62385,New Jersey,Swing_County
+1792,Burlington,34005,NJ,445349,New Jersey,Democrats
+1793,Passaic,34031,NJ,501826,New Jersey,Democrats
+1794,Hudson,34017,NJ,672391,New Jersey,Democrats
+1795,Hunterdon,34019,NJ,124371,New Jersey,Republicans
+1796,Mercer,34021,NJ,367430,New Jersey,Democrats
+1797,Middlesex,34023,NJ,825062,New Jersey,Democrats
+1798,Monmouth,34025,NJ,618795,New Jersey,Republicans
+1799,Curry,35009,NM,48954,New Mexico,Republicans
+1800,Morris,34027,NJ,491845,New Jersey,Republicans
+1801,Ocean,34029,NJ,607186,New Jersey,Republicans
+1802,Eddy,38027,ND,2287,North Dakota,Swing_County
+1803,Somerset,34035,NJ,328934,New Jersey,Swing_County
+1804,Socorro,35053,NM,16637,New Mexico,Swing_County
+1805,Luna,35029,NM,23709,New Mexico,Swing_County
+1806,Lea,35025,NM,71070,New Mexico,Republicans
+1807,Cibola,35006,NM,26675,New Mexico,Swing_County
+1808,Bernalillo,35001,NM,679121,New Mexico,Democrats
+1809,Eddy,35015,NM,58460,New Mexico,Republicans
+1810,Chaves,35005,NM,64615,New Mexico,Republicans
+1811,Guadalupe,35019,NM,4300,New Mexico,Democrats
+1812,Los Alamos,35028,NM,19369,New Mexico,Swing_County
+1813,McKinley,35031,NM,71367,New Mexico,Democrats
+1814,Colfax,35007,NM,11941,New Mexico,Swing_County
+1815,Hidalgo,35023,NM,4198,New Mexico,Swing_County
+1816,Harding,35021,NM,625,New Mexico,Republicans
+1817,Catron,35003,NM,3527,New Mexico,Republicans
+1818,Santa Fe,35049,NM,150358,New Mexico,Democrats
+1819,De Baca,35011,NM,1748,New Mexico,Republicans
+1820,Doña Ana,35013,NM,218195,New Mexico,Democrats
+1821,Grant,35017,NM,26998,New Mexico,Swing_County
+1822,Lincoln,35027,NM,19572,New Mexico,Republicans
+1823,Mora,35033,NM,4521,New Mexico,Democrats
+1824,Otero,35035,NM,67490,New Mexico,Republicans
+1825,Quay,35037,NM,8253,New Mexico,Republicans
+1826,Rio Arriba,35039,NM,38921,New Mexico,Democrats
+1827,Roosevelt,35041,NM,18500,New Mexico,Republicans
+1828,Sandoval,35043,NM,146748,New Mexico,Swing_County
+1829,San Juan,35045,NM,123958,New Mexico,Republicans
+1830,San Miguel,35047,NM,27277,New Mexico,Democrats
+1831,Sierra,35051,NM,10791,New Mexico,Republicans
+1832,Taos,35055,NM,32723,New Mexico,Democrats
+1833,Torrance,35057,NM,15461,New Mexico,Republicans
+1834,Union,35059,NM,4059,New Mexico,Republicans
+1835,Hoke,37093,NC,55234,North Carolina,Democrats
+1836,Valencia,35061,NM,76688,New Mexico,Swing_County
+1837,Genesee,36037,NY,57280,New York,Republicans
+1838,Cortland,36023,NY,47581,New York,Swing_County
+1839,Chenango,36017,NY,47207,New York,Swing_County
+1840,Lewis,36049,NY,26296,New York,Swing_County
+1841,Orleans,36073,NY,40352,New York,Republicans
+1842,Wyoming,36121,NY,39859,New York,Republicans
+1843,Tompkins,36109,NY,102180,New York,Democrats
+1844,Cayuga,36011,NY,76576,New York,Swing_County
+1845,Sherman,48421,TX,3022,Texas,Republicans
+1846,Montgomery,36057,NY,49221,New York,Swing_County
+1847,Putnam,36079,NY,98320,New York,Swing_County
+1848,Seneca,36099,NY,34016,New York,Swing_County
+1849,Orange,36071,NY,384940,New York,Swing_County
+1850,Columbia,36021,NY,59461,New York,Swing_County
+1851,Onondaga,36067,NY,460528,New York,Democrats
+1852,Rockland,36087,NY,325789,New York,Swing_County
+1853,Delaware,36025,NY,44135,New York,Swing_County
+1854,New York,36061,NY,1628706,New York,Democrats
+1855,Yates,36123,NY,24913,New York,Swing_County
+1856,Niagara,36063,NY,209281,New York,Swing_County
+1857,Chemung,36015,NY,83456,New York,Swing_County
+1858,Oneida,36065,NY,228671,New York,Swing_County
+1859,Schleicher,48413,TX,2793,Texas,Republicans
+1860,Nassau,36059,NY,1356924,New York,Democrats
+1861,Ontario,36069,NY,109777,New York,Swing_County
+1862,Rensselaer,36083,NY,158714,New York,Swing_County
+1863,Albany,36001,NY,305506,New York,Democrats
+1864,Allegany,36003,NY,46091,New York,Republicans
+1865,Bronx,36005,NY,1418207,New York,Democrats
+1866,Broome,36007,NY,190488,New York,Swing_County
+1867,Cattaraugus,36009,NY,76117,New York,Swing_County
+1868,Chautauqua,36013,NY,126903,New York,Swing_County
+1869,Steele,38091,ND,1890,North Dakota,Swing_County
+1870,Clinton,36019,NY,80485,New York,Swing_County
+1871,Dutchess,36027,NY,294218,New York,Swing_County
+1872,Schuyler,36097,NY,17807,New York,Swing_County
+1873,Madison,36053,NY,70941,New York,Swing_County
+1874,Erie,36029,NY,918702,New York,Democrats
+1875,Tioga,36107,NY,48203,New York,Republicans
+1876,Queens,36081,NY,2253858,New York,Democrats
+1877,Richmond,36085,NY,476143,New York,Swing_County
+1878,St. Lawrence,36089,NY,107740,New York,Swing_County
+1879,Schoharie,36095,NY,30999,New York,Swing_County
+1880,Essex,36031,NY,36885,New York,Swing_County
+1881,Franklin,36033,NY,50022,New York,Swing_County
+1882,Fulton,36035,NY,53383,New York,Swing_County
+1883,Greene,36039,NY,47188,New York,Swing_County
+1884,Hamilton,36041,NY,4416,New York,Republicans
+1885,Herkimer,36043,NY,61319,New York,Swing_County
+1886,Jefferson,36045,NY,109834,New York,Swing_County
+1887,Kings,36047,NY,2559903,New York,Democrats
+1888,Lamb,48279,TX,12893,Texas,Republicans
+1889,Livingston,36051,NY,62914,New York,Swing_County
+1890,Schenectady,36093,NY,155299,New York,Democrats
+1891,Monroe,36055,NY,741770,New York,Swing_County
+1892,Oswego,36075,NY,117124,New York,Swing_County
+1893,Otsego,36077,NY,59493,New York,Swing_County
+1894,Saratoga,36091,NY,229863,New York,Swing_County
+1895,Steuben,36101,NY,95379,New York,Republicans
+1896,Suffolk,36103,NY,1476601,New York,Swing_County
+1897,Billings,38007,ND,928,North Dakota,Republicans
+1898,Sullivan,36105,NY,75432,New York,Swing_County
+1899,Ulster,36111,NY,177573,New York,Democrats
+1900,Warren,36113,NY,63944,New York,Swing_County
+1901,Washington,36115,NY,61204,New York,Swing_County
+1902,Wayne,36117,NY,89918,New York,Swing_County
+1903,Westchester,36119,NY,967506,New York,Democrats
+1904,Jackson,37099,NC,43938,North Carolina,Swing_County
+1905,Caswell,37033,NC,22604,North Carolina,Swing_County
+1906,Edgecombe,37065,NC,51472,North Carolina,Democrats
+1907,Clay,37043,NC,11231,North Carolina,Republicans
+1908,New Hanover,37129,NC,234473,North Carolina,Swing_County
+1909,Stark,38089,ND,31489,North Dakota,Republicans
+1910,Stokes,37169,NC,45591,North Carolina,Republicans
+1911,Davie,37059,NC,42846,North Carolina,Republicans
+1912,Alexander,37003,NC,37497,North Carolina,Republicans
+1913,Cleveland,37045,NC,97947,North Carolina,Republicans
+1914,Vance,37181,NC,44535,North Carolina,Democrats
+1915,Lee,37105,NC,61779,North Carolina,Republicans
+1916,Alleghany,37005,NC,11137,North Carolina,Republicans
+1917,Day,46037,SD,5424,South Dakota,Swing_County
+1918,Alamance,37001,NC,169509,North Carolina,Republicans
+1919,Avery,37011,NC,17557,North Carolina,Republicans
+1920,Bertie,37015,NC,18947,North Carolina,Democrats
+1921,Jones,37103,NC,9419,North Carolina,Republicans
+1922,Bladen,37017,NC,32722,North Carolina,Swing_County
+1923,Brunswick,37019,NC,142820,North Carolina,Republicans
+1924,Polk,37149,NC,20724,North Carolina,Republicans
+1925,Currituck,37053,NC,27763,North Carolina,Republicans
+1926,Stanly,37167,NC,62806,North Carolina,Republicans
+1927,Camden,37029,NC,10867,North Carolina,Republicans
+1928,Anson,37007,NC,24446,North Carolina,Democrats
+1929,Ashe,37009,NC,27203,North Carolina,Republicans
+1930,Beaufort,37013,NC,46994,North Carolina,Republicans
+1931,Craven,37049,NC,102139,North Carolina,Republicans
+1932,Northampton,37131,NC,19483,North Carolina,Democrats
+1933,Cumberland,37051,NC,335509,North Carolina,Swing_County
+1934,Dare,37055,NC,37009,North Carolina,Republicans
+1935,Macon,37113,NC,35858,North Carolina,Republicans
+1936,Buncombe,37021,NC,261191,North Carolina,Swing_County
+1937,Duplin,37061,NC,58741,North Carolina,Republicans
+1938,Burke,37023,NC,90485,North Carolina,Republicans
+1939,Cabarrus,37025,NC,216453,North Carolina,Republicans
+1940,Barnes,38003,ND,10415,North Dakota,Swing_County
+1941,Caldwell,37027,NC,82178,North Carolina,Republicans
+1942,Transylvania,37175,NC,34385,North Carolina,Republicans
+1943,Logan,38047,ND,1850,North Dakota,Republicans
+1944,Carteret,37031,NC,69473,North Carolina,Republicans
+1945,Franklin,37069,NC,69685,North Carolina,Swing_County
+1946,Catawba,37035,NC,159551,North Carolina,Republicans
+1947,Gaston,37071,NC,224529,North Carolina,Republicans
+1948,Chatham,37037,NC,74470,North Carolina,Swing_County
+1949,Cherokee,37039,NC,28612,North Carolina,Republicans
+1950,Chowan,37041,NC,13943,North Carolina,Republicans
+1951,Hutchinson,48233,TX,20938,Texas,Republicans
+1952,Columbus,37047,NC,55508,North Carolina,Republicans
+1953,Davidson,37057,NC,167609,North Carolina,Republicans
+1954,Durham,37063,NC,321488,North Carolina,Democrats
+1955,Aurora,46003,SD,2751,South Dakota,Republicans
+1956,Forsyth,37067,NC,382295,North Carolina,Swing_County
+1957,Gates,37073,NC,11562,North Carolina,Swing_County
+1958,Graham,37075,NC,8441,North Carolina,Republicans
+1959,Granville,37077,NC,60443,North Carolina,Swing_County
+1960,Greene,37079,NC,21069,North Carolina,Republicans
+1961,Guilford,37081,NC,537174,North Carolina,Democrats
+1962,Lincoln,37109,NC,86111,North Carolina,Republicans
+1963,Richmond,37153,NC,44829,North Carolina,Swing_County
+1964,Halifax,37083,NC,50010,North Carolina,Democrats
+1965,Harnett,37085,NC,135976,North Carolina,Republicans
+1966,Haywood,37087,NC,62317,North Carolina,Republicans
+1967,Henderson,37089,NC,117417,North Carolina,Republicans
+1968,Hertford,37091,NC,23677,North Carolina,Democrats
+1969,Scotland,37165,NC,34823,North Carolina,Democrats
+1970,Hyde,37095,NC,4937,North Carolina,Swing_County
+1971,Burke,38013,ND,2115,North Dakota,Republicans
+1972,Onslow,37133,NC,197938,North Carolina,Republicans
+1973,Moore,37125,NC,100880,North Carolina,Republicans
+1974,Montgomery,37123,NC,27173,North Carolina,Republicans
+1975,Orange,37135,NC,148476,North Carolina,Democrats
+1976,Pamlico,37137,NC,12726,North Carolina,Republicans
+1977,Iredell,37097,NC,181806,North Carolina,Republicans
+1978,Perquimans,37143,NC,13463,North Carolina,Republicans
+1979,Pender,37141,NC,63060,North Carolina,Republicans
+1980,Pitt,37147,NC,180742,North Carolina,Swing_County
+1981,Johnston,37101,NC,209339,North Carolina,Republicans
+1982,Lenoir,37107,NC,55949,North Carolina,Swing_County
+1983,McDowell,37111,NC,45756,North Carolina,Republicans
+1984,Surry,37171,NC,71783,North Carolina,Republicans
+1985,Madison,37115,NC,21755,North Carolina,Republicans
+1986,Martin,37117,NC,22440,North Carolina,Swing_County
+1987,Mecklenburg,37119,NC,1110356,North Carolina,Democrats
+1988,Mitchell,37121,NC,14964,North Carolina,Republicans
+1989,Nash,37127,NC,94298,North Carolina,Swing_County
+1990,Pasquotank,37139,NC,39824,North Carolina,Swing_County
+1991,Person,37145,NC,39490,North Carolina,Republicans
+1992,Warren,37185,NC,19731,North Carolina,Democrats
+1993,Randolph,37151,NC,143667,North Carolina,Republicans
+1994,Robeson,37155,NC,130625,North Carolina,Swing_County
+1995,Griggs,38039,ND,2231,North Dakota,Republicans
+1996,Rockingham,37157,NC,91010,North Carolina,Republicans
+1997,Rowan,37159,NC,142088,North Carolina,Republicans
+1998,Rutherford,37161,NC,67029,North Carolina,Republicans
+1999,Yancey,37199,NC,18069,North Carolina,Republicans
+2000,Sampson,37163,NC,63531,North Carolina,Republicans
+2001,Swain,37173,NC,14271,North Carolina,Republicans
+2002,Tyrrell,37177,NC,4016,North Carolina,Republicans
+2003,Union,37179,NC,239859,North Carolina,Republicans
+2004,Wake,37183,NC,1111761,North Carolina,Swing_County
+2005,Washington,37187,NC,11580,North Carolina,Democrats
+2006,Brown,39015,OH,43432,Ohio,Republicans
+2007,Watauga,37189,NC,56177,North Carolina,Swing_County
+2008,Wayne,37191,NC,123131,North Carolina,Republicans
+2009,Wilkes,37193,NC,68412,North Carolina,Republicans
+2010,Wilson,37195,NC,81801,North Carolina,Swing_County
+2011,Yadkin,37197,NC,37667,North Carolina,Republicans
+2012,Foster,38031,ND,3210,North Dakota,Republicans
+2013,Ransom,38073,ND,5218,North Dakota,Swing_County
+2014,Walsh,38099,ND,10641,North Dakota,Swing_County
+2015,Hettinger,38041,ND,2499,North Dakota,Republicans
+2016,Stutsman,38093,ND,20704,North Dakota,Republicans
+2017,Bowman,38011,ND,3024,North Dakota,Republicans
+2018,Sargent,38081,ND,3898,North Dakota,Swing_County
+2019,Kidder,38043,ND,2480,North Dakota,Republicans
+2020,Rolette,38079,ND,14176,North Dakota,Democrats
+2021,Dickey,38021,ND,4872,North Dakota,Republicans
+2022,McIntosh,38051,ND,2497,North Dakota,Republicans
+2023,Gray,48179,TX,21886,Texas,Republicans
+2024,Richland,38077,ND,16177,North Dakota,Republicans
+2025,LaMoure,38045,ND,4046,North Dakota,Republicans
+2026,Cavalier,38019,ND,3762,North Dakota,Republicans
+2027,McHenry,38049,ND,5745,North Dakota,Republicans
+2028,Pembina,38067,ND,6801,North Dakota,Republicans
+2029,Traill,38097,ND,8036,North Dakota,Swing_County
+2030,Benson,38005,ND,6832,North Dakota,Swing_County
+2031,Slope,38087,ND,750,North Dakota,Republicans
+2032,Adams,38001,ND,2216,North Dakota,Republicans
+2033,Towner,38095,ND,2189,North Dakota,Swing_County
+2034,Stephens,40137,OK,43143,Oklahoma,Republicans
+2035,Dunn,38025,ND,4424,North Dakota,Republicans
+2036,Grand Forks,38035,ND,69451,North Dakota,Swing_County
+2037,Bottineau,38009,ND,6282,North Dakota,Republicans
+2038,Burleigh,38015,ND,95626,North Dakota,Republicans
+2039,Cass,38017,ND,181923,North Dakota,Swing_County
+2040,Divide,38023,ND,2264,North Dakota,Republicans
+2041,Emmons,38029,ND,3241,North Dakota,Republicans
+2042,Golden Valley,38033,ND,1761,North Dakota,Republicans
+2043,Grant,38037,ND,2274,North Dakota,Swing_County
+2044,Wells,38103,ND,3834,North Dakota,Republicans
+2045,Williams,39171,OH,36692,Ohio,Republicans
+2046,Pike,39131,OH,27772,Ohio,Swing_County
+2047,McKenzie,38053,ND,15024,North Dakota,Republicans
+2048,Allen,39003,OH,102351,Ohio,Republicans
+2049,McLean,38055,ND,9450,North Dakota,Republicans
+2050,Mercer,38057,ND,8187,North Dakota,Republicans
+2051,Morton,38059,ND,31364,North Dakota,Republicans
+2052,Mountrail,38061,ND,10545,North Dakota,Swing_County
+2053,Nelson,38063,ND,2879,North Dakota,Swing_County
+2054,Oliver,38065,ND,1959,North Dakota,Republicans
+2055,Pierce,38069,ND,3975,North Dakota,Republicans
+2056,Motley,48345,TX,1200,Texas,Republicans
+2057,Ramsey,38071,ND,11519,North Dakota,Swing_County
+2058,Renville,38075,ND,2327,North Dakota,Republicans
+2059,Sheridan,38083,ND,1315,North Dakota,Republicans
+2060,Knox,39083,OH,62322,Ohio,Republicans
+2061,Sioux,38085,ND,4230,North Dakota,Democrats
+2062,Ward,38101,ND,67641,North Dakota,Republicans
+2063,Williams,38105,ND,37589,North Dakota,Republicans
+2064,Geauga,39055,OH,93649,Ohio,Republicans
+2065,Henry,39069,OH,27006,Ohio,Republicans
+2066,Coshocton,39031,OH,36600,Ohio,Republicans
+2067,Warren,39165,OH,234602,Ohio,Republicans
+2068,Clark,39023,OH,134083,Ohio,Swing_County
+2069,Logan,39091,OH,45672,Ohio,Republicans
+2070,Ross,39141,OH,76666,Ohio,Swing_County
+2071,Pickaway,39129,OH,58457,Ohio,Republicans
+2072,Defiance,39039,OH,38087,Ohio,Republicans
+2073,Preble,39135,OH,40882,Ohio,Republicans
+2074,Belmont,39013,OH,67006,Ohio,Swing_County
+2075,Adams,39001,OH,27698,Ohio,Republicans
+2076,Ashland,39005,OH,53484,Ohio,Republicans
+2077,Ashtabula,39007,OH,97241,Ohio,Swing_County
+2078,Athens,39009,OH,65327,Ohio,Democrats
+2079,Auglaize,39011,OH,45656,Ohio,Republicans
+2080,Butler,39017,OH,383134,Ohio,Republicans
+2081,Carroll,39019,OH,26914,Ohio,Republicans
+2082,Champaign,39021,OH,38885,Ohio,Republicans
+2083,Clermont,39025,OH,206428,Ohio,Republicans
+2084,Clinton,39027,OH,41968,Ohio,Republicans
+2085,Hardin,39065,OH,31365,Ohio,Republicans
+2086,Holmes,39075,OH,43960,Ohio,Republicans
+2087,Columbiana,39029,OH,101883,Ohio,Republicans
+2088,Crawford,39033,OH,41494,Ohio,Republicans
+2089,Jefferson,39081,OH,65325,Ohio,Swing_County
+2090,Lake,39085,OH,230149,Ohio,Swing_County
+2091,Jackson,39079,OH,32413,Ohio,Republicans
+2092,Noble,39121,OH,14424,Ohio,Republicans
+2093,Cuyahoga,39035,OH,1235072,Ohio,Democrats
+2094,Darke,39037,OH,51113,Ohio,Republicans
+2095,Delaware,39041,OH,209177,Ohio,Republicans
+2096,Erie,39043,OH,74266,Ohio,Swing_County
+2097,Fairfield,39045,OH,157574,Ohio,Republicans
+2098,Fayette,39047,OH,28525,Ohio,Republicans
+2099,Franklin,39049,OH,1316756,Ohio,Democrats
+2100,Fulton,39051,OH,42126,Ohio,Republicans
+2101,Madison,39097,OH,44731,Ohio,Republicans
+2102,Gallia,39053,OH,29898,Ohio,Republicans
+2103,Greene,39057,OH,168937,Ohio,Republicans
+2104,Guernsey,39059,OH,38875,Ohio,Republicans
+2105,Hamilton,39061,OH,817473,Ohio,Swing_County
+2106,Hancock,39063,OH,75783,Ohio,Republicans
+2107,Miami,39109,OH,106987,Ohio,Republicans
+2108,Harrison,39067,OH,15040,Ohio,Swing_County
+2109,Highland,39071,OH,43161,Ohio,Republicans
+2110,Hocking,39073,OH,28264,Ohio,Swing_County
+2111,King,48269,TX,272,Texas,Republicans
+2112,Huron,39077,OH,58266,Ohio,Republicans
+2113,Blaine,40011,OK,9429,Oklahoma,Republicans
+2114,Lawrence,39087,OH,59463,Ohio,Republicans
+2115,Licking,39089,OH,176862,Ohio,Republicans
+2116,Lorain,39093,OH,309833,Ohio,Swing_County
+2117,Lucas,39095,OH,428348,Ohio,Democrats
+2118,Mahoning,39099,OH,228683,Ohio,Swing_County
+2119,Marion,39101,OH,65093,Ohio,Republicans
+2120,Medina,39103,OH,179746,Ohio,Republicans
+2121,Meigs,39105,OH,22907,Ohio,Republicans
+2122,Mercer,39107,OH,41172,Ohio,Republicans
+2123,Monroe,39111,OH,13654,Ohio,Swing_County
+2124,Montgomery,39113,OH,531687,Ohio,Swing_County
+2125,Morgan,39115,OH,14508,Ohio,Republicans
+2126,Morrow,39117,OH,35328,Ohio,Republicans
+2127,Muskingum,39119,OH,86215,Ohio,Republicans
+2128,Ottawa,39123,OH,40525,Ohio,Swing_County
+2129,Paulding,39125,OH,18672,Ohio,Republicans
+2130,Wood,39173,OH,130817,Ohio,Swing_County
+2131,Perry,39127,OH,36134,Ohio,Republicans
+2132,Portage,39133,OH,162466,Ohio,Swing_County
+2133,Putnam,39137,OH,33861,Ohio,Republicans
+2134,Richland,39139,OH,121154,Ohio,Republicans
+2135,Sandusky,39143,OH,58518,Ohio,Swing_County
+2136,Scioto,39145,OH,75314,Ohio,Swing_County
+2137,Seneca,39147,OH,55178,Ohio,Republicans
+2138,Shelby,39149,OH,48590,Ohio,Republicans
+2139,Stark,39151,OH,370606,Ohio,Swing_County
+2140,Summit,39153,OH,541013,Ohio,Democrats
+2141,Trumbull,39155,OH,197974,Ohio,Swing_County
+2142,Tuscarawas,39157,OH,91987,Ohio,Swing_County
+2143,Union,39159,OH,58988,Ohio,Republicans
+2144,Van Wert,39161,OH,28275,Ohio,Republicans
+2145,Vinton,39163,OH,13085,Ohio,Republicans
+2146,Craig,40035,OK,14142,Oklahoma,Republicans
+2147,Washington,39167,OH,59911,Ohio,Republicans
+2148,Wayne,39169,OH,115710,Ohio,Republicans
+2149,Wyandot,39175,OH,21772,Ohio,Republicans
+2150,Washita,40149,OK,10916,Oklahoma,Republicans
+2151,Custer,40039,OK,29003,Oklahoma,Republicans
+2152,Garfield,40047,OK,61056,Oklahoma,Republicans
+2153,Nowata,40105,OK,10076,Oklahoma,Republicans
+2154,Grant,40053,OK,4333,Oklahoma,Republicans
+2155,Delaware,40041,OK,43009,Oklahoma,Republicans
+2156,Creek,40037,OK,71522,Oklahoma,Republicans
+2157,Dewey,40043,OK,4891,Oklahoma,Republicans
+2158,Cotton,40033,OK,5666,Oklahoma,Republicans
+2159,Ellis,40045,OK,3859,Oklahoma,Republicans
+2160,Beckham,40009,OK,21859,Oklahoma,Republicans
+2161,Cherokee,40021,OK,48657,Oklahoma,Republicans
+2162,Logan,40083,OK,48011,Oklahoma,Republicans
+2163,Mayes,40097,OK,41100,Oklahoma,Republicans
+2164,Coal,40029,OK,5495,Oklahoma,Republicans
+2165,Grady,40051,OK,55834,Oklahoma,Republicans
+2166,Adair,40001,OK,22194,Oklahoma,Republicans
+2167,Alfalfa,40003,OK,5702,Oklahoma,Republicans
+2168,Atoka,40005,OK,13758,Oklahoma,Republicans
+2169,Beaver,40007,OK,5311,Oklahoma,Republicans
+2170,Bryan,40013,OK,47995,Oklahoma,Republicans
+2171,Caddo,40015,OK,28762,Oklahoma,Republicans
+2172,Canadian,40017,OK,148306,Oklahoma,Republicans
+2173,Carter,40019,OK,48111,Oklahoma,Republicans
+2174,Choctaw,40023,OK,14672,Oklahoma,Republicans
+2175,Cimarron,40025,OK,2137,Oklahoma,Republicans
+2176,Cleveland,40027,OK,284014,Oklahoma,Republicans
+2177,Latimer,40077,OK,10073,Oklahoma,Republicans
+2178,Comanche,40031,OK,120749,Oklahoma,Republicans
+2179,Garvin,40049,OK,27711,Oklahoma,Republicans
+2180,Greer,40055,OK,5712,Oklahoma,Republicans
+2181,Harmon,40057,OK,2653,Oklahoma,Republicans
+2182,Harper,40059,OK,3688,Oklahoma,Republicans
+2183,Haskell,40061,OK,12627,Oklahoma,Republicans
+2184,Hughes,40063,OK,13279,Oklahoma,Republicans
+2185,Okmulgee,40111,OK,38465,Oklahoma,Republicans
+2186,Jackson,40065,OK,24530,Oklahoma,Republicans
+2187,Murray,40099,OK,14073,Oklahoma,Republicans
+2188,Texas,40139,OK,19983,Oklahoma,Republicans
+2189,Jefferson,40067,OK,6002,Oklahoma,Republicans
+2190,Johnston,40069,OK,11085,Oklahoma,Republicans
+2191,Oldham,48359,TX,2112,Texas,Republicans
+2192,Kay,40071,OK,43538,Oklahoma,Republicans
+2193,Kingfisher,40073,OK,15765,Oklahoma,Republicans
+2194,Kiowa,40075,OK,8708,Oklahoma,Republicans
+2195,Le Flore,40079,OK,49853,Oklahoma,Republicans
+2196,Lincoln,40081,OK,34877,Oklahoma,Republicans
+2197,Washington,40147,OK,51527,Oklahoma,Republicans
+2198,Love,40085,OK,10253,Oklahoma,Republicans
+2199,McClain,40087,OK,40474,Oklahoma,Republicans
+2200,McCurtain,40089,OK,32832,Oklahoma,Republicans
+2201,Pottawatomie,40125,OK,72592,Oklahoma,Republicans
+2202,McIntosh,40091,OK,19596,Oklahoma,Republicans
+2203,Major,40093,OK,7629,Oklahoma,Republicans
+2204,Marshall,40095,OK,16931,Oklahoma,Republicans
+2205,Muskogee,40101,OK,67997,Oklahoma,Republicans
+2206,Noble,40103,OK,11131,Oklahoma,Republicans
+2207,Okfuskee,40107,OK,11993,Oklahoma,Republicans
+2208,Oklahoma,40109,OK,797434,Oklahoma,Republicans
+2209,Osage,40113,OK,46963,Oklahoma,Republicans
+2210,Ottawa,40115,OK,31127,Oklahoma,Republicans
+2211,Mitchell,48335,TX,8545,Texas,Republicans
+2212,Pawnee,40117,OK,16376,Oklahoma,Republicans
+2213,Payne,40119,OK,81784,Oklahoma,Republicans
+2214,Pittsburg,40121,OK,43654,Oklahoma,Republicans
+2215,Pontotoc,40123,OK,38284,Oklahoma,Republicans
+2216,Pushmataha,40127,OK,11096,Oklahoma,Republicans
+2217,Roger Mills,40129,OK,3583,Oklahoma,Republicans
+2218,Rogers,40131,OK,92459,Oklahoma,Republicans
+2219,McMullen,48311,TX,743,Texas,Republicans
+2220,Seminole,40133,OK,24258,Oklahoma,Republicans
+2221,Sequoyah,40135,OK,41569,Oklahoma,Republicans
+2222,Tillman,40141,OK,7250,Oklahoma,Republicans
+2223,Tulsa,40143,OK,651552,Oklahoma,Republicans
+2224,Wagoner,40145,OK,81289,Oklahoma,Republicans
+2225,Woods,40151,OK,8793,Oklahoma,Republicans
+2226,Woodward,40153,OK,20211,Oklahoma,Republicans
+2227,Benton,41003,OR,93053,Oregon,Democrats
+2228,Hood River,41027,OR,23382,Oregon,Democrats
+2229,Wheeler,41069,OR,1332,Oregon,Republicans
+2230,Josephine,41033,OR,87487,Oregon,Republicans
+2231,Washington,41067,OR,601592,Oregon,Democrats
+2232,Baker,41001,OR,16124,Oregon,Republicans
+2233,Clackamas,41005,OR,418187,Oregon,Swing_County
+2234,Clatsop,41007,OR,40224,Oregon,Swing_County
+2235,Columbia,41009,OR,52354,Oregon,Swing_County
+2236,Yamhill,41071,OR,107100,Oregon,Swing_County
+2237,Coos,41011,OR,64487,Oregon,Swing_County
+2238,Crook,41013,OR,24404,Oregon,Republicans
+2239,Curry,41015,OR,22925,Oregon,Republicans
+2240,Deschutes,41017,OR,197692,Oregon,Swing_County
+2241,Linn,41043,OR,129749,Oregon,Republicans
+2242,Marion,41047,OR,347818,Oregon,Swing_County
+2243,Morrow,41049,OR,11603,Oregon,Republicans
+2244,Douglas,41019,OR,110980,Oregon,Republicans
+2245,Gilliam,41021,OR,1912,Oregon,Republicans
+2246,Grant,41023,OR,7199,Oregon,Republicans
+2247,Harney,41025,OR,7393,Oregon,Republicans
+2248,Jackson,41029,OR,220944,Oregon,Swing_County
+2249,Jefferson,41031,OR,24658,Oregon,Republicans
+2250,Klamath,41035,OR,68238,Oregon,Republicans
+2251,Beadle,46005,SD,18453,South Dakota,Republicans
+2252,Lake,41037,OR,7869,Oregon,Republicans
+2253,Umatilla,41059,OR,77950,Oregon,Republicans
+2254,Lane,41039,OR,382067,Oregon,Democrats
+2255,Lincoln,41041,OR,49962,Oregon,Swing_County
+2256,Malheur,41045,OR,30571,Oregon,Republicans
+2257,Multnomah,41051,OR,812855,Oregon,Democrats
+2258,Polk,41053,OR,86085,Oregon,Swing_County
+2259,Sherman,41055,OR,1780,Oregon,Republicans
+2260,Tillamook,41057,OR,27036,Oregon,Swing_County
+2261,Union,41061,OR,26835,Oregon,Republicans
+2262,Wallowa,41063,OR,7208,Oregon,Republicans
+2263,Wasco,41065,OR,26682,Oregon,Swing_County
+2264,Montour,42093,PA,18230,Pennsylvania,Republicans
+2265,Bradford,42015,PA,60323,Pennsylvania,Republicans
+2266,Beaver,42007,PA,163929,Pennsylvania,Swing_County
+2267,Venango,42121,PA,50668,Pennsylvania,Republicans
+2268,Mercer,42085,PA,109424,Pennsylvania,Swing_County
+2269,Montgomery,42091,PA,830915,Pennsylvania,Democrats
+2270,Lackawanna,42069,PA,209674,Pennsylvania,Democrats
+2271,Dauphin,42043,PA,278299,Pennsylvania,Swing_County
+2272,Elk,42047,PA,29910,Pennsylvania,Swing_County
+2273,Snyder,42109,PA,40372,Pennsylvania,Republicans
+2274,Carbon,42025,PA,64182,Pennsylvania,Swing_County
+2275,Adams,42001,PA,103009,Pennsylvania,Republicans
+2276,Butler,42019,PA,187853,Pennsylvania,Republicans
+2277,Juniata,42067,PA,24763,Pennsylvania,Republicans
+2278,Jefferson,42065,PA,43425,Pennsylvania,Republicans
+2279,Schuylkill,42107,PA,141359,Pennsylvania,Republicans
+2280,Forest,42053,PA,7247,Pennsylvania,Republicans
+2281,Clarion,42031,PA,38438,Pennsylvania,Republicans
+2282,Warren,42123,PA,39191,Pennsylvania,Republicans
+2283,Clearfield,42033,PA,79255,Pennsylvania,Republicans
+2284,Lycoming,42081,PA,113299,Pennsylvania,Republicans
+2285,Harding,46063,SD,1298,South Dakota,Republicans
+2286,Delaware,42045,PA,566747,Pennsylvania,Democrats
+2287,McKean,42083,PA,40625,Pennsylvania,Republicans
+2288,Centre,42027,PA,162385,Pennsylvania,Swing_County
+2289,Franklin,42055,PA,155027,Pennsylvania,Republicans
+2290,Blair,42013,PA,121829,Pennsylvania,Republicans
+2291,Lehigh,42077,PA,369318,Pennsylvania,Democrats
+2292,Luzerne,42079,PA,317417,Pennsylvania,Swing_County
+2293,Fulton,42057,PA,14530,Pennsylvania,Republicans
+2294,Allegheny,42003,PA,1216045,Pennsylvania,Democrats
+2295,Armstrong,42005,PA,64735,Pennsylvania,Republicans
+2296,Lawrence,42073,PA,85512,Pennsylvania,Republicans
+2297,Bedford,42009,PA,47888,Pennsylvania,Republicans
+2298,Berks,42011,PA,421164,Pennsylvania,Swing_County
+2299,Bucks,42017,PA,628270,Pennsylvania,Swing_County
+2300,Cambria,42021,PA,130192,Pennsylvania,Swing_County
+2301,Cameron,42023,PA,4447,Pennsylvania,Republicans
+2302,Chester,42029,PA,524989,Pennsylvania,Swing_County
+2303,Clinton,42035,PA,38632,Pennsylvania,Republicans
+2304,Columbia,42037,PA,64964,Pennsylvania,Republicans
+2305,Crawford,42039,PA,84629,Pennsylvania,Republicans
+2306,Wyoming,42131,PA,26794,Pennsylvania,Republicans
+2307,Cumberland,42041,PA,253370,Pennsylvania,Republicans
+2308,Mifflin,42087,PA,46138,Pennsylvania,Republicans
+2309,Erie,42049,PA,269728,Pennsylvania,Swing_County
+2310,Fayette,42051,PA,129274,Pennsylvania,Swing_County
+2311,Greene,42059,PA,36233,Pennsylvania,Swing_County
+2312,Haywood,47075,TN,17304,Tennessee,Democrats
+2313,Huntingdon,42061,PA,45144,Pennsylvania,Republicans
+2314,Indiana,42063,PA,84073,Pennsylvania,Republicans
+2315,Lancaster,42071,PA,545724,Pennsylvania,Republicans
+2316,Bristol,44001,RI,48479,Rhode Island,Democrats
+2317,Lebanon,42075,PA,141793,Pennsylvania,Republicans
+2318,Monroe,42089,PA,170271,Pennsylvania,Swing_County
+2319,Northampton,42095,PA,305285,Pennsylvania,Swing_County
+2320,Northumberland,42097,PA,90843,Pennsylvania,Republicans
+2321,Perry,42099,PA,46272,Pennsylvania,Republicans
+2322,Lancaster,45057,SC,98012,South Carolina,Republicans
+2323,Philadelphia,42101,PA,1584064,Pennsylvania,Democrats
+2324,Pike,42103,PA,55809,Pennsylvania,Republicans
+2325,Potter,42105,PA,16526,Pennsylvania,Republicans
+2326,Somerset,42111,PA,73447,Pennsylvania,Republicans
+2327,Sullivan,42113,PA,6066,Pennsylvania,Republicans
+2328,Susquehanna,42115,PA,40328,Pennsylvania,Republicans
+2329,Tioga,42117,PA,40591,Pennsylvania,Republicans
+2330,Union,42119,PA,44923,Pennsylvania,Republicans
+2331,Washington,42125,PA,206865,Pennsylvania,Swing_County
+2332,Wayne,42127,PA,51361,Pennsylvania,Republicans
+2333,Rockwall,48397,TX,104915,Texas,Republicans
+2334,Westmoreland,42129,PA,348899,Pennsylvania,Republicans
+2335,York,42133,PA,449058,Pennsylvania,Republicans
+2336,Kent,44003,RI,164292,Rhode Island,Swing_County
+2337,Newport,44005,RI,82082,Rhode Island,Democrats
+2338,Providence,44007,RI,638931,Rhode Island,Democrats
+2339,Washington,44009,RI,125577,Rhode Island,Democrats
+2340,Kershaw,45055,SC,66551,South Carolina,Republicans
+2341,Calhoun,45017,SC,14553,South Carolina,Swing_County
+2342,Saluda,45081,SC,20473,South Carolina,Republicans
+2343,Laurens,45059,SC,67493,South Carolina,Republicans
+2344,Lee,45061,SC,16828,South Carolina,Democrats
+2345,Marion,45067,SC,30657,South Carolina,Democrats
+2346,Marlboro,45069,SC,26118,South Carolina,Democrats
+2347,Newberry,45071,SC,38440,South Carolina,Republicans
+2348,Oconee,45073,SC,79546,South Carolina,Republicans
+2349,Orangeburg,45075,SC,86175,South Carolina,Democrats
+2350,Pickens,45077,SC,126884,South Carolina,Republicans
+2351,Richland,45079,SC,415759,South Carolina,Democrats
+2352,Grant,46051,SD,7052,South Dakota,Republicans
+2353,Spartanburg,45083,SC,319785,South Carolina,Republicans
+2354,Sumter,45085,SC,106721,South Carolina,Democrats
+2355,Union,45087,SC,27316,South Carolina,Republicans
+2356,Williamsburg,45089,SC,30368,South Carolina,Democrats
+2357,York,45091,SC,280979,South Carolina,Republicans
+2358,Cherokee,45021,SC,57300,South Carolina,Republicans
+2359,Chester,45023,SC,32244,South Carolina,Swing_County
+2360,Greenwood,45047,SC,70811,South Carolina,Republicans
+2361,Hampton,45049,SC,19222,South Carolina,Democrats
+2362,Chesterfield,45025,SC,45650,South Carolina,Republicans
+2363,McCormick,45065,SC,9463,South Carolina,Swing_County
+2364,Beaufort,45013,SC,192122,South Carolina,Republicans
+2365,Berkeley,45015,SC,227907,South Carolina,Republicans
+2366,Lexington,45063,SC,298750,South Carolina,Republicans
+2367,Abbeville,45001,SC,24527,South Carolina,Republicans
+2368,Aiken,45003,SC,170872,South Carolina,Republicans
+2369,Allendale,45005,SC,8688,South Carolina,Democrats
+2370,Anderson,45007,SC,202558,South Carolina,Republicans
+2371,Bamberg,45009,SC,14066,South Carolina,Democrats
+2372,Barnwell,45011,SC,20866,South Carolina,Swing_County
+2373,Horry,45051,SC,354081,South Carolina,Republicans
+2374,Jasper,45053,SC,30073,South Carolina,Democrats
+2375,Georgetown,45043,SC,62680,South Carolina,Republicans
+2376,Greenville,45045,SC,523542,South Carolina,Republicans
+2377,Hanson,46061,SD,3453,South Dakota,Republicans
+2378,Douglas,46043,SD,2921,South Dakota,Republicans
+2379,Charleston,45019,SC,411406,South Carolina,Swing_County
+2380,Clarendon,45027,SC,33745,South Carolina,Democrats
+2381,Lake,46079,SD,12797,South Dakota,Swing_County
+2382,Davison,46035,SD,19775,South Dakota,Republicans
+2383,Colleton,45029,SC,37677,South Carolina,Swing_County
+2384,Darlington,45031,SC,66618,South Carolina,Swing_County
+2385,Dillon,45033,SC,30479,South Carolina,Swing_County
+2386,Dorchester,45035,SC,162809,South Carolina,Republicans
+2387,Edgefield,45037,SC,27260,South Carolina,Republicans
+2388,Fairfield,45039,SC,22347,South Carolina,Democrats
+2389,Florence,45041,SC,138293,South Carolina,Swing_County
+2390,Moody,46101,SD,6576,South Dakota,Swing_County
+2391,Edmunds,46045,SD,3829,South Dakota,Republicans
+2392,Hughes,46065,SD,17526,South Dakota,Republicans
+2393,Bon Homme,46009,SD,6901,South Dakota,Republicans
+2394,Brown,46013,SD,38839,South Dakota,Swing_County
+2395,Brule,46015,SD,5297,South Dakota,Republicans
+2396,Buffalo,46017,SD,1962,South Dakota,Democrats
+2397,Todd,46121,SD,10177,South Dakota,Democrats
+2398,Campbell,46021,SD,1376,South Dakota,Republicans
+2399,Charles Mix,46023,SD,9292,South Dakota,Republicans
+2400,Clay,46027,SD,14070,South Dakota,Democrats
+2401,Codington,46029,SD,28009,South Dakota,Republicans
+2402,Corson,46031,SD,4086,South Dakota,Swing_County
+2403,Deuel,46039,SD,4351,South Dakota,Swing_County
+2404,Hamlin,46057,SD,6164,South Dakota,Republicans
+2405,Clark,46025,SD,3736,South Dakota,Republicans
+2406,Jones,46075,SD,903,South Dakota,Republicans
+2407,Dewey,46041,SD,5892,South Dakota,Democrats
+2408,Fall River,46047,SD,6713,South Dakota,Republicans
+2409,Faulk,46049,SD,2299,South Dakota,Republicans
+2410,Gregory,46053,SD,4185,South Dakota,Republicans
+2411,Haakon,46055,SD,1899,South Dakota,Republicans
+2412,Hand,46059,SD,3191,South Dakota,Republicans
+2413,Sanborn,46111,SD,2344,South Dakota,Republicans
+2414,Jerauld,46073,SD,2013,South Dakota,Swing_County
+2415,Custer,46033,SD,8972,South Dakota,Republicans
+2416,Lawrence,46081,SD,25844,South Dakota,Republicans
+2417,Marshall,46091,SD,4935,South Dakota,Swing_County
+2418,Meade,46093,SD,28332,South Dakota,Republicans
+2419,Lyman,46085,SD,3781,South Dakota,Republicans
+2420,Lincoln,46083,SD,61128,South Dakota,Republicans
+2421,Mellette,46095,SD,2061,South Dakota,Swing_County
+2422,Kingsbury,46077,SD,4939,South Dakota,Republicans
+2423,Oglala Lakota,46102,SD,14177,South Dakota,
+2424,Turner,46125,SD,8384,South Dakota,Republicans
+2425,McPherson,46089,SD,2379,South Dakota,Republicans
+2426,Hutchinson,46067,SD,7291,South Dakota,Republicans
+2427,Hyde,46069,SD,1301,South Dakota,Republicans
+2428,Stanley,46117,SD,3098,South Dakota,Republicans
+2429,Sully,46119,SD,1391,South Dakota,Republicans
+2430,Benton,47005,TN,16160,Tennessee,Swing_County
+2431,Union,46127,SD,15932,South Dakota,Republicans
+2432,Ziebach,46137,SD,2756,South Dakota,Swing_County
+2433,Minnehaha,46099,SD,193134,South Dakota,Swing_County
+2434,Tripp,46123,SD,5441,South Dakota,Republicans
+2435,Pennington,46103,SD,113775,South Dakota,Republicans
+2436,Perkins,46105,SD,2865,South Dakota,Republicans
+2437,Walworth,46129,SD,5435,South Dakota,Republicans
+2438,Yankton,46135,SD,22814,South Dakota,Republicans
+2439,Potter,46107,SD,2153,South Dakota,Republicans
+2440,Roberts,46109,SD,10394,South Dakota,Swing_County
+2441,Butte,46019,SD,10429,South Dakota,Republicans
+2442,Jackson,46071,SD,3344,South Dakota,Republicans
+2443,Hardeman,47069,TN,25050,Tennessee,Swing_County
+2444,Hardin,47071,TN,25652,Tennessee,Republicans
+2445,Jackson,47087,TN,11786,Tennessee,Swing_County
+2446,Jefferson,47089,TN,54495,Tennessee,Republicans
+2447,Perry,47135,TN,8076,Tennessee,Swing_County
+2448,Cannon,47015,TN,14678,Tennessee,Republicans
+2449,Maury,47119,TN,96387,Tennessee,Republicans
+2450,Smith,47159,TN,20157,Tennessee,Swing_County
+2451,Pickett,47137,TN,5048,Tennessee,Republicans
+2452,Bedford,47003,TN,49713,Tennessee,Republicans
+2453,Anderson,47001,TN,76978,Tennessee,Republicans
+2454,Bledsoe,47007,TN,15064,Tennessee,Republicans
+2455,Hawkins,47073,TN,56786,Tennessee,Republicans
+2456,Terry,48445,TX,12337,Texas,Republicans
+2457,Blount,47009,TN,133088,Tennessee,Republicans
+2458,Bradley,47011,TN,108110,Tennessee,Republicans
+2459,Henderson,47077,TN,28117,Tennessee,Republicans
+2460,Henry,47079,TN,32345,Tennessee,Republicans
+2461,Polk,47139,TN,16832,Tennessee,Republicans
+2462,Carroll,47017,TN,27767,Tennessee,Republicans
+2463,Campbell,47013,TN,39842,Tennessee,Republicans
+2464,Hickman,47081,TN,25178,Tennessee,Republicans
+2465,Houston,47083,TN,8201,Tennessee,Swing_County
+2466,Carter,47019,TN,56391,Tennessee,Republicans
+2467,Cheatham,47021,TN,40667,Tennessee,Republicans
+2468,Chester,47023,TN,17297,Tennessee,Republicans
+2469,Humphreys,47085,TN,18582,Tennessee,Swing_County
+2470,Hamblen,47063,TN,64934,Tennessee,Republicans
+2471,McNairy,47109,TN,25694,Tennessee,Republicans
+2472,Grundy,47061,TN,13427,Tennessee,Swing_County
+2473,Sutton,48435,TX,3776,Texas,Republicans
+2474,Loudon,47105,TN,54068,Tennessee,Republicans
+2475,Lewis,47101,TN,12268,Tennessee,Republicans
+2476,Claiborne,47025,TN,31959,Tennessee,Republicans
+2477,Fayette,47047,TN,41133,Tennessee,Republicans
+2478,Coffee,47031,TN,56520,Tennessee,Republicans
+2479,Overton,47133,TN,22241,Tennessee,Swing_County
+2480,Crockett,47033,TN,14230,Tennessee,Republicans
+2481,Clay,47027,TN,7615,Tennessee,Swing_County
+2482,Cumberland,47035,TN,60520,Tennessee,Republicans
+2483,Gibson,47053,TN,49133,Tennessee,Republicans
+2484,Morgan,47129,TN,21403,Tennessee,Republicans
+2485,Lawrence,47099,TN,44142,Tennessee,Republicans
+2486,Cocke,47029,TN,36004,Tennessee,Republicans
+2487,Davidson,47037,TN,694144,Tennessee,Democrats
+2488,Decatur,47039,TN,11663,Tennessee,Republicans
+2489,DeKalb,47041,TN,20490,Tennessee,Republicans
+2490,Dickson,47043,TN,53948,Tennessee,Republicans
+2491,Dyer,47045,TN,37159,Tennessee,Republicans
+2492,Giles,47055,TN,29464,Tennessee,Republicans
+2493,Grainger,47057,TN,23320,Tennessee,Republicans
+2494,Trousdale,47169,TN,11284,Tennessee,Swing_County
+2495,Greene,47059,TN,69069,Tennessee,Republicans
+2496,Hamilton,47065,TN,367804,Tennessee,Republicans
+2497,Hancock,47067,TN,6620,Tennessee,Republicans
+2498,Johnson,47091,TN,17788,Tennessee,Republicans
+2499,Knox,47093,TN,470313,Tennessee,Republicans
+2500,Lake,47095,TN,7016,Tennessee,Republicans
+2501,Lauderdale,47097,TN,25633,Tennessee,Swing_County
+2502,Nolan,48353,TX,14714,Texas,Republicans
+2503,Lincoln,47103,TN,34366,Tennessee,Republicans
+2504,Franklin,47051,TN,42208,Tennessee,Republicans
+2505,McMinn,47107,TN,53794,Tennessee,Republicans
+2506,Macon,47111,TN,24602,Tennessee,Republicans
+2507,Sumner,47165,TN,191283,Tennessee,Republicans
+2508,Tipton,47167,TN,61599,Tennessee,Republicans
+2509,Rutherford,47149,TN,332285,Tennessee,Republicans
+2510,Fentress,47049,TN,18523,Tennessee,Republicans
+2511,Madison,47113,TN,97984,Tennessee,Republicans
+2512,Marion,47115,TN,28907,Tennessee,Republicans
+2513,Marshall,47117,TN,34375,Tennessee,Republicans
+2514,Meigs,47121,TN,12422,Tennessee,Republicans
+2515,Monroe,47123,TN,46545,Tennessee,Republicans
+2516,Montgomery,47125,TN,208993,Tennessee,Republicans
+2517,Moore,47127,TN,6488,Tennessee,Republicans
+2518,Obion,47131,TN,30069,Tennessee,Republicans
+2519,Putnam,47141,TN,80245,Tennessee,Republicans
+2520,Rhea,47143,TN,33167,Tennessee,Republicans
+2521,Roane,47145,TN,53382,Tennessee,Republicans
+2522,Robertson,47147,TN,71813,Tennessee,Republicans
+2523,Weakley,47183,TN,33328,Tennessee,Republicans
+2524,Scott,47151,TN,22068,Tennessee,Republicans
+2525,Sequatchie,47153,TN,15026,Tennessee,Republicans
+2526,Dickens,48125,TX,2211,Texas,Republicans
+2527,Sevier,47155,TN,98250,Tennessee,Republicans
+2528,Shelby,47157,TN,937166,Tennessee,Democrats
+2529,Stewart,47161,TN,13715,Tennessee,Swing_County
+2530,Sullivan,47163,TN,158348,Tennessee,Republicans
+2531,Unicoi,47171,TN,17883,Tennessee,Republicans
+2532,Union,47173,TN,19972,Tennessee,Republicans
+2533,Van Buren,47175,TN,5872,Tennessee,Swing_County
+2534,Warren,47177,TN,41277,Tennessee,Republicans
+2535,Washington,47179,TN,129375,Tennessee,Republicans
+2536,Wayne,47181,TN,16673,Tennessee,Republicans
+2537,Frio,48163,TX,20306,Texas,Swing_County
+2538,White,47185,TN,27345,Tennessee,Republicans
+2539,Williamson,47187,TN,238412,Tennessee,Republicans
+2540,Wilson,47189,TN,144657,Tennessee,Republicans
+2541,Swisher,48437,TX,7397,Texas,Republicans
+2542,Zavala,48507,TX,11840,Texas,Democrats
+2543,Midland,48329,TX,176832,Texas,Republicans
+2544,Howard,48227,TX,36664,Texas,Republicans
+2545,Throckmorton,48447,TX,1501,Texas,Republicans
+2546,Haskell,48207,TX,5658,Texas,Republicans
+2547,Potter,48375,TX,117415,Texas,Republicans
+2548,Dallam,48111,TX,7287,Texas,Republicans
+2549,Lynn,48305,TX,5951,Texas,Republicans
+2550,Hockley,48219,TX,23021,Texas,Republicans
+2551,Yoakum,48501,TX,8713,Texas,Republicans
+2552,Hemphill,48211,TX,3819,Texas,Republicans
+2553,Randall,48381,TX,137713,Texas,Republicans
+2554,Upton,48461,TX,3657,Texas,Republicans
+2555,Crosby,48107,TX,5737,Texas,Republicans
+2556,Hale,48189,TX,33406,Texas,Republicans
+2557,Kent,48263,TX,762,Texas,Republicans
+2558,Falls,48145,TX,17297,Texas,Republicans
+2559,Roberts,48393,TX,854,Texas,Republicans
+2560,Morris,48343,TX,12388,Texas,Republicans
+2561,Hamilton,48193,TX,8461,Texas,Republicans
+2562,Hartley,48205,TX,5576,Texas,Republicans
+2563,Collingsworth,48087,TX,2920,Texas,Republicans
+2564,Limestone,48293,TX,23437,Texas,Republicans
+2565,Callahan,48059,TX,13943,Texas,Republicans
+2566,Concho,48095,TX,2726,Texas,Republicans
+2567,Reagan,48383,TX,3849,Texas,Republicans
+2568,Stephens,48429,TX,9366,Texas,Republicans
+2569,Briscoe,48045,TX,1546,Texas,Republicans
+2570,Young,48503,TX,18010,Texas,Republicans
+2571,Ector,48135,TX,166223,Texas,Republicans
+2572,Childress,48075,TX,7306,Texas,Republicans
+2573,Eastland,48133,TX,18360,Texas,Republicans
+2574,Martin,48317,TX,5771,Texas,Republicans
+2575,Gaines,48165,TX,21492,Texas,Republicans
+2576,Taylor,48441,TX,138034,Texas,Republicans
+2577,Irion,48235,TX,1536,Texas,Republicans
+2578,Duval,48131,TX,11157,Texas,Democrats
+2579,Floyd,48153,TX,5712,Texas,Republicans
+2580,Armstrong,48011,TX,1887,Texas,Republicans
+2581,Cottle,48101,TX,1398,Texas,Republicans
+2582,Cochran,48079,TX,2853,Texas,Republicans
+2583,Mason,48319,TX,4274,Texas,Republicans
+2584,Donley,48129,TX,3278,Texas,Republicans
+2585,Wheeler,48483,TX,5056,Texas,Republicans
+2586,Hall,48191,TX,2964,Texas,Republicans
+2587,Edwards,48137,TX,1932,Texas,Republicans
+2588,Karnes,48255,TX,15601,Texas,Republicans
+2589,Medina,48325,TX,51584,Texas,Republicans
+2590,Kimble,48267,TX,4337,Texas,Republicans
+2591,Runnels,48399,TX,10264,Texas,Republicans
+2592,Borden,48033,TX,654,Texas,Republicans
+2593,Ellis,48139,TX,184826,Texas,Republicans
+2594,La Salle,48283,TX,7520,Texas,Democrats
+2595,Jack,48237,TX,8935,Texas,Republicans
+2596,Lubbock,48303,TX,310569,Texas,Republicans
+2597,Erath,48143,TX,42698,Texas,Republicans
+2598,Baylor,48023,TX,3509,Texas,Republicans
+2599,McLennan,48309,TX,256623,Texas,Republicans
+2600,Coryell,48099,TX,75951,Texas,Republicans
+2601,Bandera,48019,TX,23112,Texas,Republicans
+2602,Lipscomb,48295,TX,3233,Texas,Republicans
+2603,Franklin,48159,TX,10725,Texas,Republicans
+2604,Trinity,48455,TX,14651,Texas,Republicans
+2605,Hunt,48231,TX,98594,Texas,Republicans
+2606,Johnson,48251,TX,175817,Texas,Republicans
+2607,Menard,48327,TX,2138,Texas,Republicans
+2608,Coleman,48083,TX,8175,Texas,Republicans
+2609,Rusk,55107,WI,14178,Wisconsin,Swing_County
+2610,Winkler,48495,TX,8010,Texas,Republicans
+2611,Bailey,48017,TX,7000,Texas,Republicans
+2612,Comanche,48093,TX,13635,Texas,Republicans
+2613,Stonewall,48433,TX,1350,Texas,Republicans
+2614,Glasscock,48173,TX,1409,Texas,Republicans
+2615,Atascosa,48013,TX,51153,Texas,Republicans
+2616,Blanco,48031,TX,11931,Texas,Republicans
+2617,Bee,48025,TX,32565,Texas,Republicans
+2618,Brooks,48047,TX,7093,Texas,Democrats
+2619,Jim Hogg,48247,TX,5200,Texas,Democrats
+2620,Kerr,48265,TX,52600,Texas,Republicans
+2621,Kendall,48259,TX,47431,Texas,Republicans
+2622,Sterling,48431,TX,1291,Texas,Republicans
+2623,Live Oak,48297,TX,12207,Texas,Republicans
+2624,Bell,48027,TX,362924,Texas,Republicans
+2625,Castro,48069,TX,7530,Texas,Republicans
+2626,Andrews,48003,TX,18705,Texas,Republicans
+2627,Crane,48103,TX,4797,Texas,Republicans
+2628,Bastrop,48021,TX,88723,Texas,Republicans
+2629,Titus,48449,TX,32750,Texas,Republicans
+2630,Bosque,48035,TX,18685,Texas,Republicans
+2631,Hardin,48199,TX,57602,Texas,Republicans
+2632,Henderson,48213,TX,82737,Texas,Republicans
+2633,Scurry,48415,TX,16703,Texas,Republicans
+2634,Leon,48289,TX,17404,Texas,Republicans
+2635,Anderson,48001,TX,57735,Texas,Republicans
+2636,Brown,48049,TX,37864,Texas,Republicans
+2637,Angelina,48005,TX,86715,Texas,Republicans
+2638,Lancaster,51103,VA,10603,Virginia,Republicans
+2639,Aransas,48007,TX,23510,Texas,Republicans
+2640,Austin,48015,TX,30032,Texas,Republicans
+2641,Fisher,48151,TX,3830,Texas,Republicans
+2642,Bexar,48029,TX,2003554,Texas,Swing_County
+2643,Jim Wells,48249,TX,40482,Texas,Democrats
+2644,Hays,48209,TX,230191,Texas,Swing_County
+2645,Bowie,48037,TX,93245,Texas,Republicans
+2646,Collin,48085,TX,1034730,Texas,Republicans
+2647,Brazoria,48039,TX,374264,Texas,Republicans
+2648,Brazos,48041,TX,229211,Texas,Republicans
+2649,Knox,48275,TX,3664,Texas,Republicans
+2650,Freestone,48161,TX,19717,Texas,Republicans
+2651,Colorado,48089,TX,21493,Texas,Republicans
+2652,Wood,48499,TX,45539,Texas,Republicans
+2653,Cooke,48097,TX,41257,Texas,Republicans
+2654,Gregg,48183,TX,123945,Texas,Republicans
+2655,Comal,48091,TX,156209,Texas,Republicans
+2656,Brewster,48043,TX,9203,Texas,Swing_County
+2657,Burleson,48051,TX,18443,Texas,Republicans
+2658,Burnet,48053,TX,48155,Texas,Republicans
+2659,Caldwell,48055,TX,43664,Texas,Republicans
+2660,DeWitt,48123,TX,20160,Texas,Republicans
+2661,Denton,48121,TX,887207,Texas,Republicans
+2662,Calhoun,48057,TX,21290,Texas,Republicans
+2663,Lamar,48277,TX,49859,Texas,Republicans
+2664,Cameron,48061,TX,423163,Texas,Swing_County
+2665,Camp,48063,TX,13094,Texas,Republicans
+2666,Carson,48065,TX,5926,Texas,Republicans
+2667,Cass,48067,TX,30026,Texas,Republicans
+2668,Chambers,48071,TX,43837,Texas,Republicans
+2669,Cherokee,48073,TX,52646,Texas,Republicans
+2670,Hardeman,48197,TX,3933,Texas,Republicans
+2671,Clay,48077,TX,10471,Texas,Republicans
+2672,Crockett,48105,TX,3464,Texas,Republicans
+2673,Culberson,48109,TX,2171,Texas,Swing_County
+2674,Walker,48471,TX,72971,Texas,Republicans
+2675,Dallas,48113,TX,2635516,Texas,Swing_County
+2676,Dawson,48115,TX,12728,Texas,Republicans
+2677,Deaf Smith,48117,TX,18546,Texas,Republicans
+2678,Delta,48119,TX,5331,Texas,Republicans
+2679,El Paso,48141,TX,839238,Texas,Democrats
+2680,Fannin,48147,TX,35514,Texas,Republicans
+2681,Fayette,48149,TX,25346,Texas,Republicans
+2682,Foard,48155,TX,1155,Texas,Republicans
+2683,Lampasas,48281,TX,21428,Texas,Republicans
+2684,Fort Bend,48157,TX,811688,Texas,Swing_County
+2685,Galveston,48167,TX,342139,Texas,Republicans
+2686,Garza,48169,TX,6229,Texas,Republicans
+2687,Gillespie,48171,TX,26988,Texas,Republicans
+2688,Goliad,48175,TX,7658,Texas,Republicans
+2689,Gonzales,48177,TX,20837,Texas,Republicans
+2690,Houston,48225,TX,22968,Texas,Republicans
+2691,Grayson,48181,TX,136212,Texas,Republicans
+2692,Grimes,48185,TX,28880,Texas,Republicans
+2693,Marion,48315,TX,9854,Texas,Republicans
+2694,Matagorda,48321,TX,36643,Texas,Republicans
+2695,Guadalupe,48187,TX,166847,Texas,Republicans
+2696,Ochiltree,48357,TX,9836,Texas,Republicans
+2697,Somervell,48425,TX,9128,Texas,Republicans
+2698,McCulloch,48307,TX,7984,Texas,Republicans
+2699,Jefferson,48245,TX,251565,Texas,Swing_County
+2700,Jones,48253,TX,20083,Texas,Republicans
+2701,Kleberg,48273,TX,30680,Texas,Swing_County
+2702,Harris,48201,TX,4713325,Texas,Swing_County
+2703,Shackelford,48417,TX,3265,Texas,Republicans
+2704,Roanoke,51770,VA,99143,Virginia,Democrats
+2705,Harrison,48203,TX,66553,Texas,Republicans
+2706,Kenedy,48261,TX,404,Texas,Swing_County
+2707,Hidalgo,48215,TX,868707,Texas,Democrats
+2708,Hill,48217,TX,36649,Texas,Republicans
+2709,Hood,48221,TX,61643,Texas,Republicans
+2710,Hopkins,48223,TX,37084,Texas,Republicans
+2711,Hudspeth,48229,TX,4886,Texas,Republicans
+2712,Jackson,48239,TX,14760,Texas,Republicans
+2713,Liberty,48291,TX,88219,Texas,Republicans
+2714,Madison,48313,TX,14284,Texas,Republicans
+2715,Jasper,48241,TX,35529,Texas,Republicans
+2716,Jeff Davis,48243,TX,2274,Texas,Republicans
+2717,Kaufman,48257,TX,136154,Texas,Republicans
+2718,Danville,51590,VA,40044,Virginia,Swing_County
+2719,Kinney,48271,TX,3667,Texas,Republicans
+2720,Lavaca,48285,TX,20154,Texas,Republicans
+2721,Lee,48287,TX,17239,Texas,Republicans
+2722,Llano,48299,TX,21795,Texas,Republicans
+2723,Loving,48301,TX,169,Texas,Republicans
+2724,Polk,48373,TX,51353,Texas,Republicans
+2725,Maverick,48323,TX,58722,Texas,Democrats
+2726,Milam,48331,TX,24823,Texas,Republicans
+2727,Mills,48333,TX,4873,Texas,Republicans
+2728,Montague,48337,TX,19818,Texas,Republicans
+2729,Montgomery,48339,TX,607391,Texas,Republicans
+2730,Moore,48341,TX,20940,Texas,Republicans
+2731,Nacogdoches,48347,TX,65204,Texas,Republicans
+2732,Navarro,48349,TX,50113,Texas,Republicans
+2733,Rusk,48401,TX,54406,Texas,Republicans
+2734,Newton,48351,TX,13595,Texas,Republicans
+2735,Nueces,48355,TX,362294,Texas,Swing_County
+2736,Uvalde,48463,TX,26741,Texas,Republicans
+2737,Orange,48361,TX,83396,Texas,Republicans
+2738,Palo Pinto,48363,TX,29189,Texas,Republicans
+2739,Panola,48365,TX,23194,Texas,Republicans
+2740,Parker,48367,TX,142878,Texas,Republicans
+2741,Parmer,48369,TX,9605,Texas,Republicans
+2742,Sabine,48403,TX,10542,Texas,Republicans
+2743,Pecos,48371,TX,15823,Texas,Republicans
+2744,Starr,48427,TX,64633,Texas,Democrats
+2745,Presidio,48377,TX,6704,Texas,Democrats
+2746,Rains,48379,TX,12514,Texas,Republicans
+2747,Real,48385,TX,3452,Texas,Republicans
+2748,Wichita,48485,TX,132230,Texas,Republicans
+2749,Red River,48387,TX,12023,Texas,Republicans
+2750,Reeves,48389,TX,15976,Texas,Swing_County
+2751,Refugio,48391,TX,6948,Texas,Republicans
+2752,Robertson,48395,TX,17074,Texas,Republicans
+2753,San Augustine,48405,TX,8237,Texas,Republicans
+2754,San Jacinto,48407,TX,28859,Texas,Republicans
+2755,San Patricio,48409,TX,66730,Texas,Republicans
+2756,San Saba,48411,TX,6055,Texas,Republicans
+2757,Shelby,48419,TX,25274,Texas,Republicans
+2758,Smith,48423,TX,232751,Texas,Republicans
+2759,Tarrant,48439,TX,2102515,Texas,Republicans
+2760,Willacy,48489,TX,21358,Texas,Democrats
+2761,Carbon,49007,UT,20463,Utah,Republicans
+2762,Terrell,48443,TX,776,Texas,Republicans
+2763,Tom Green,48451,TX,119200,Texas,Republicans
+2764,Travis,48453,TX,1273954,Texas,Democrats
+2765,Lexington,51678,VA,7446,Virginia,Democrats
+2766,Tyler,48457,TX,21672,Texas,Republicans
+2767,Upshur,48459,TX,41753,Texas,Republicans
+2768,Val Verde,48465,TX,49025,Texas,Swing_County
+2769,Van Zandt,48467,TX,56590,Texas,Republicans
+2770,Victoria,48469,TX,92084,Texas,Republicans
+2771,Waller,48473,TX,55246,Texas,Republicans
+2772,Ward,48475,TX,11998,Texas,Republicans
+2773,Washington,48477,TX,35882,Texas,Republicans
+2774,Winchester,51840,VA,28078,Virginia,Swing_County
+2775,Webb,48479,TX,276652,Texas,Democrats
+2776,Wharton,48481,TX,41556,Texas,Republicans
+2777,Wilbarger,48487,TX,12769,Texas,Republicans
+2778,Williamson,48491,TX,590551,Texas,Republicans
+2779,Wilson,48493,TX,51070,Texas,Republicans
+2780,Wise,48497,TX,69984,Texas,Republicans
+2781,Zapata,48505,TX,14179,Texas,Democrats
+2782,Coke,48081,TX,3387,Texas,Republicans
+2783,Harrisonburg,51660,VA,53016,Virginia,Swing_County
+2784,Sanpete,49039,UT,30939,Utah,Republicans
+2785,Piute,49031,UT,1479,Utah,Republicans
+2786,Salt Lake,49035,UT,1160437,Utah,Swing_County
+2787,Daggett,49009,UT,950,Utah,Republicans
+2788,Iron,49021,UT,54839,Utah,Republicans
+2789,Beaver,49001,UT,6710,Utah,Republicans
+2790,Box Elder,49003,UT,56046,Utah,Republicans
+2791,Cache,49005,UT,128289,Utah,Swing_County
+2792,Davis,49011,UT,355481,Utah,Swing_County
+2793,Duchesne,49013,UT,19938,Utah,Republicans
+2794,Emery,49015,UT,10012,Utah,Republicans
+2795,Garfield,49017,UT,5051,Utah,Republicans
+2796,Charlottesville,51540,VA,47266,Virginia,Democrats
+2797,Grand,49019,UT,9754,Utah,Swing_County
+2798,Juab,49023,UT,12017,Utah,Republicans
+2799,Kane,49025,UT,7886,Utah,Republicans
+2800,Millard,49027,UT,13188,Utah,Republicans
+2801,Morgan,49029,UT,12124,Utah,Republicans
+2802,Rich,49033,UT,2483,Utah,Republicans
+2803,Grand Isle,50013,VT,7235,Vermont,Democrats
+2804,Richmond,51760,VA,230436,Virginia,Democrats
+2805,San Juan,49037,UT,15308,Utah,Swing_County
+2806,Sevier,49041,UT,21620,Utah,Republicans
+2807,Summit,49043,UT,42145,Utah,Swing_County
+2808,Tooele,49045,UT,72259,Utah,Republicans
+2809,Uintah,49047,UT,35734,Utah,Republicans
+2810,Utah,49049,UT,636235,Utah,Republicans
+2811,Wasatch,49051,UT,34091,Utah,Republicans
+2812,Washington,49053,UT,177556,Utah,Republicans
+2813,Wayne,49055,UT,2711,Utah,Republicans
+2814,Weber,49057,UT,260213,Utah,Swing_County
+2815,Bennington,50003,VT,35470,Vermont,Democrats
+2816,Addison,50001,VT,36777,Vermont,Democrats
+2817,Norton,51720,VA,3981,Virginia,Swing_County
+2818,Caledonia,50005,VT,29993,Vermont,Swing_County
+2819,Lamoille,50015,VT,25362,Vermont,Democrats
+2820,Chittenden,50007,VT,163774,Vermont,Democrats
+2821,Brunswick,51025,VA,16231,Virginia,Democrats
+2822,Essex,50009,VT,6163,Vermont,Swing_County
+2823,Franklin,50011,VT,49402,Vermont,Swing_County
+2824,Orange,50017,VT,28892,Vermont,Democrats
+2825,Orleans,50019,VT,27037,Vermont,Swing_County
+2826,Rutland,50021,VT,58191,Vermont,Swing_County
+2827,Washington,50023,VT,58409,Vermont,Democrats
+2828,Windham,50025,VT,42222,Vermont,Democrats
+2829,Appomattox,51011,VA,15911,Virginia,Republicans
+2830,Windsor,50027,VT,55062,Vermont,Democrats
+2831,Fredericksburg,51630,VA,29036,Virginia,Democrats
+2832,Staunton,51790,VA,24932,Virginia,Swing_County
+2833,Fairfax,51600,VA,24019,Virginia,Democrats
+2834,Alexandria,51510,VA,159428,Virginia,Democrats
+2835,Manassas,51683,VA,41085,Virginia,Swing_County
+2836,Greene,51079,VA,19819,Virginia,Republicans
+2837,Manassas Park,51685,VA,17478,Virginia,Swing_County
+2838,Martinsville,51690,VA,12554,Virginia,Democrats
+2839,Cumberland,51049,VA,9932,Virginia,Republicans
+2840,Lunenburg,51111,VA,12196,Virginia,Republicans
+2841,Richmond,51159,VA,9023,Virginia,Republicans
+2842,Buena Vista,51530,VA,6478,Virginia,Republicans
+2843,Emporia,51595,VA,5346,Virginia,Democrats
+2844,Salem,51775,VA,25301,Virginia,Republicans
+2845,Lynchburg,51680,VA,82168,Virginia,Republicans
+2846,Dickenson,51051,VA,14318,Virginia,Swing_County
+2847,Arlington,51013,VA,236842,Virginia,Democrats
+2848,Sussex,51183,VA,11159,Virginia,Democrats
+2849,James City,51095,VA,76523,Virginia,Swing_County
+2850,Fluvanna,51065,VA,27270,Virginia,Republicans
+2851,Surry,51181,VA,6422,Virginia,Democrats
+2852,Hanover,51085,VA,107766,Virginia,Republicans
+2853,Prince Edward,51147,VA,22802,Virginia,Swing_County
+2854,Buchanan,51027,VA,21004,Virginia,Swing_County
+2855,Hopewell,51670,VA,22529,Virginia,Swing_County
+2856,Norfolk,51710,VA,242742,Virginia,Democrats
+2857,King George,51099,VA,26836,Virginia,Republicans
+2858,Floyd,51063,VA,15749,Virginia,Republicans
+2859,Carroll,51035,VA,29791,Virginia,Republicans
+2860,Gloucester,51073,VA,37348,Virginia,Republicans
+2861,Caroline,51033,VA,30725,Virginia,Swing_County
+2862,Botetourt,51023,VA,33419,Virginia,Republicans
+2863,Amelia,51007,VA,13145,Virginia,Republicans
+2864,Louisa,51109,VA,37591,Virginia,Republicans
+2865,Charlotte,51037,VA,11880,Virginia,Republicans
+2866,Covington,51580,VA,5538,Virginia,Swing_County
+2867,Grayson,51077,VA,15550,Virginia,Republicans
+2868,Poquoson,51735,VA,12271,Virginia,Republicans
+2869,Bath,51017,VA,4147,Virginia,Republicans
+2870,Accomack,51001,VA,32316,Virginia,Republicans
+2871,Albemarle,51003,VA,109330,Virginia,Democrats
+2872,Culpeper,51047,VA,52605,Virginia,Republicans
+2873,Clarke,51043,VA,14619,Virginia,Republicans
+2874,Pittsylvania,51143,VA,60354,Virginia,Republicans
+2875,Alleghany,51005,VA,14860,Virginia,Republicans
+2876,Amherst,51009,VA,31605,Virginia,Republicans
+2877,Lee,51105,VA,23423,Virginia,Republicans
+2878,Augusta,51015,VA,75558,Virginia,Republicans
+2879,Bedford,51019,VA,78997,Virginia,Republicans
+2880,Bland,51021,VA,6280,Virginia,Republicans
+2881,Buckingham,51029,VA,17148,Virginia,Swing_County
+2882,Campbell,51031,VA,54885,Virginia,Republicans
+2883,Goochland,51075,VA,23753,Virginia,Republicans
+2884,Charles City,51036,VA,6963,Virginia,Democrats
+2885,Halifax,51083,VA,33911,Virginia,Republicans
+2886,Henrico,51087,VA,330818,Virginia,Swing_County
+2887,Nottoway,51135,VA,15232,Virginia,Swing_County
+2888,Greensville,51081,VA,11336,Virginia,Democrats
+2889,Chesterfield,51041,VA,352802,Virginia,Swing_County
+2890,Craig,51045,VA,5131,Virginia,Republicans
+2891,Dinwiddie,51053,VA,28544,Virginia,Republicans
+2892,Essex,51057,VA,10953,Virginia,Swing_County
+2893,Isle of Wight,51093,VA,37109,Virginia,Republicans
+2894,King and Queen,51097,VA,7025,Virginia,Swing_County
+2895,Montgomery,51121,VA,98535,Virginia,Swing_County
+2896,Nelson,51125,VA,14930,Virginia,Swing_County
+2897,New Kent,51127,VA,23091,Virginia,Republicans
+2898,Hampton,51650,VA,134510,Virginia,Democrats
+2899,Fairfax,51059,VA,1147532,Virginia,Democrats
+2900,Franklin,51620,VA,7967,Virginia,Democrats
+2901,Madison,51113,VA,13261,Virginia,Republicans
+2902,Northumberland,51133,VA,12095,Virginia,Republicans
+2903,Fauquier,51061,VA,71222,Virginia,Republicans
+2904,Franklin,51067,VA,56042,Virginia,Republicans
+2905,Frederick,51069,VA,89313,Virginia,Republicans
+2906,Giles,51071,VA,16720,Virginia,Republicans
+2907,Falls Church,51610,VA,14617,Virginia,Democrats
+2908,Radford,51750,VA,18249,Virginia,Swing_County
+2909,Henry,51089,VA,50557,Virginia,Republicans
+2910,Highland,51091,VA,2190,Virginia,Republicans
+2911,King William,51101,VA,17148,Virginia,Republicans
+2912,Loudoun,51107,VA,413538,Virginia,Swing_County
+2913,Mathews,51115,VA,8834,Virginia,Republicans
+2914,Mecklenburg,51117,VA,30587,Virginia,Republicans
+2915,Middlesex,51119,VA,10582,Virginia,Republicans
+2916,Waynesboro,51820,VA,22630,Virginia,Republicans
+2917,Colonial Heights,51570,VA,17370,Virginia,Republicans
+2918,Smyth,51173,VA,30104,Virginia,Republicans
+2919,Scott,51169,VA,21566,Virginia,Republicans
+2920,Calumet,55015,WI,50089,Wisconsin,Swing_County
+2921,Northampton,51131,VA,11710,Virginia,Democrats
+2922,Orange,51137,VA,37051,Virginia,Republicans
+2923,Page,51139,VA,23902,Virginia,Republicans
+2924,Patrick,51141,VA,17608,Virginia,Republicans
+2925,Powhatan,51145,VA,29652,Virginia,Republicans
+2926,Prince George,51149,VA,38353,Virginia,Republicans
+2927,Prince William,51153,VA,470335,Virginia,Swing_County
+2928,Webster,54101,WV,8114,West Virginia,Swing_County
+2929,Pulaski,51155,VA,34027,Virginia,Republicans
+2930,Rappahannock,51157,VA,7370,Virginia,Republicans
+2931,Roanoke,51161,VA,94186,Virginia,Republicans
+2932,Rockbridge,51163,VA,22573,Virginia,Republicans
+2933,Chesapeake,51550,VA,244835,Virginia,Swing_County
+2934,Rockingham,51165,VA,81948,Virginia,Republicans
+2935,Russell,51167,VA,26586,Virginia,Republicans
+2936,Shenandoah,51171,VA,43616,Virginia,Republicans
+2937,Southampton,51175,VA,17631,Virginia,Republicans
+2938,Spotsylvania,51177,VA,136215,Virginia,Republicans
+2939,Stafford,51179,VA,152882,Virginia,Republicans
+2940,Taylor,54091,WV,16695,West Virginia,Republicans
+2941,Tazewell,51185,VA,40595,Virginia,Republicans
+2942,Warren,51187,VA,40164,Virginia,Republicans
+2943,Suffolk,51800,VA,92108,Virginia,Swing_County
+2944,Washington,51191,VA,53740,Virginia,Republicans
+2945,Westmoreland,51193,VA,18015,Virginia,Swing_County
+2946,Wise,51195,VA,37383,Virginia,Republicans
+2947,Wythe,51197,VA,28684,Virginia,Republicans
+2948,York,51199,VA,68280,Virginia,Republicans
+2949,Bristol,51520,VA,16762,Virginia,Republicans
+2950,Galax,51640,VA,6347,Virginia,Republicans
+2951,Newport News,51700,VA,179225,Virginia,Democrats
+2952,Petersburg,51730,VA,31346,Virginia,Democrats
+2953,Portsmouth,51740,VA,94398,Virginia,Democrats
+2954,Virginia Beach,51810,VA,449974,Virginia,Swing_County
+2955,Williamsburg,51830,VA,14954,Virginia,Democrats
+2956,San Juan,53055,WA,17582,Washington,Democrats
+2957,Adams,53001,WA,19983,Washington,Republicans
+2958,Spokane,53063,WA,522798,Washington,Swing_County
+2959,Kitsap,53035,WA,271473,Washington,Democrats
+2960,Asotin,53003,WA,22582,Washington,Republicans
+2961,Benton,53005,WA,204390,Washington,Republicans
+2962,Lincoln,53043,WA,10939,Washington,Republicans
+2963,Ferry,53019,WA,7627,Washington,Republicans
+2964,Chelan,53007,WA,77200,Washington,Republicans
+2965,Clallam,53009,WA,77331,Washington,Swing_County
+2966,Clark,53011,WA,488241,Washington,Swing_County
+2967,Columbia,53013,WA,3985,Washington,Republicans
+2968,Cowlitz,53015,WA,110593,Washington,Swing_County
+2969,Klickitat,53039,WA,22425,Washington,Swing_County
+2970,Douglas,53017,WA,43429,Washington,Republicans
+2971,Lewis,53041,WA,80707,Washington,Republicans
+2972,Franklin,53021,WA,95222,Washington,Republicans
+2973,Garfield,53023,WA,2225,Washington,Republicans
+2974,Grant,53025,WA,97733,Washington,Republicans
+2975,Grays Harbor,53027,WA,75061,Washington,Swing_County
+2976,Island,53029,WA,85141,Washington,Swing_County
+2977,Jefferson,53031,WA,32221,Washington,Democrats
+2978,King,53033,WA,2252782,Washington,Democrats
+2979,Kittitas,53037,WA,47935,Washington,Republicans
+2980,Mason,53045,WA,66768,Washington,Swing_County
+2981,Okanogan,53047,WA,42243,Washington,Republicans
+2982,Pacific,53049,WA,22471,Washington,Swing_County
+2983,Pend Oreille,53051,WA,13724,Washington,Republicans
+2984,Walla Walla,53071,WA,60760,Washington,Republicans
+2985,Pierce,53053,WA,904980,Washington,Swing_County
+2986,Skagit,53057,WA,129205,Washington,Swing_County
+2987,Skamania,53059,WA,12083,Washington,Swing_County
+2988,Snohomish,53061,WA,822083,Washington,Democrats
+2989,Stevens,53065,WA,45723,Washington,Republicans
+2990,Thurston,53067,WA,290536,Washington,Democrats
+2991,Wahkiakum,53069,WA,4488,Washington,Swing_County
+2992,Logan,54045,WV,32019,West Virginia,Swing_County
+2993,Whatcom,53073,WA,229247,Washington,Democrats
+2994,Whitman,53075,WA,50104,Washington,Swing_County
+2995,Yakima,53077,WA,250873,Washington,Republicans
+2996,Marion,54049,WV,56072,West Virginia,Swing_County
+2997,Pocahontas,54075,WV,8247,West Virginia,Republicans
+2998,Ohio,54069,WV,41411,West Virginia,Republicans
+2999,Clay,54015,WV,8508,West Virginia,Republicans
+3000,Pleasants,54073,WV,7460,West Virginia,Republicans
+3001,Gilmer,54021,WV,7823,West Virginia,Republicans
+3002,Calhoun,54013,WV,7109,West Virginia,Republicans
+3003,Monroe,55081,WI,46253,Wisconsin,Swing_County
+3004,Brooke,54009,WV,21939,West Virginia,Swing_County
+3005,Braxton,54007,WV,13957,West Virginia,Swing_County
+3006,Barbour,54001,WV,16441,West Virginia,Republicans
+3007,Putnam,54079,WV,56450,West Virginia,Republicans
+3008,Hancock,54029,WV,28810,West Virginia,Republicans
+3009,Tucker,54093,WV,6839,West Virginia,Republicans
+3010,Raleigh,54081,WV,73361,West Virginia,Republicans
+3011,Jackson,54035,WV,28576,West Virginia,Republicans
+3012,Doddridge,54017,WV,8448,West Virginia,Republicans
+3013,Fayette,54019,WV,42406,West Virginia,Swing_County
+3014,Pendleton,54071,WV,6969,West Virginia,Republicans
+3015,Lewis,54041,WV,15907,West Virginia,Republicans
+3016,Lincoln,54043,WV,20409,West Virginia,Swing_County
+3017,Cabell,54011,WV,91945,West Virginia,Republicans
+3018,Boone,54005,WV,21457,West Virginia,Swing_County
+3019,Hardy,54031,WV,13776,West Virginia,Republicans
+3020,Jefferson,54037,WV,57146,West Virginia,Swing_County
+3021,Summers,54089,WV,12573,West Virginia,Republicans
+3022,Harrison,54033,WV,67256,West Virginia,Republicans
+3023,Berkeley,54003,WV,119171,West Virginia,Republicans
+3024,Grant,54023,WV,11568,West Virginia,Republicans
+3025,Greenbrier,54025,WV,34662,West Virginia,Republicans
+3026,Hampshire,54027,WV,23175,West Virginia,Republicans
+3027,Nicholas,54067,WV,24496,West Virginia,Republicans
+3028,Kanawha,54039,WV,178124,West Virginia,Swing_County
+3029,McDowell,54047,WV,17624,West Virginia,Swing_County
+3030,Marshall,54051,WV,30531,West Virginia,Republicans
+3031,Mason,54053,WV,26516,West Virginia,Republicans
+3032,Mercer,54055,WV,58758,West Virginia,Republicans
+3033,Jefferson,55055,WI,84769,Wisconsin,Swing_County
+3034,Mineral,54057,WV,26868,West Virginia,Republicans
+3035,Mingo,54059,WV,23424,West Virginia,Swing_County
+3036,Monongalia,54061,WV,105612,West Virginia,Swing_County
+3037,Monroe,54063,WV,13275,West Virginia,Republicans
+3038,Morgan,54065,WV,17884,West Virginia,Republicans
+3039,Preston,54077,WV,33432,West Virginia,Republicans
+3040,Randolph,54083,WV,28695,West Virginia,Republicans
+3041,Ritchie,54085,WV,9554,West Virginia,Republicans
+3042,Roane,54087,WV,13688,West Virginia,Republicans
+3043,Tyler,54095,WV,8591,West Virginia,Republicans
+3044,Upshur,54097,WV,24176,West Virginia,Republicans
+3045,Wayne,54099,WV,39402,West Virginia,Republicans
+3046,Wetzel,54103,WV,15065,West Virginia,Republicans
+3047,Wirt,54105,WV,5821,West Virginia,Republicans
+3048,Wood,54107,WV,83518,West Virginia,Republicans
+3049,Wyoming,54109,WV,20394,West Virginia,Republicans
+3050,Waupaca,55135,WI,50990,Wisconsin,Swing_County
+3051,Waushara,55137,WI,24443,Wisconsin,Swing_County
+3052,Washburn,55129,WI,15720,Wisconsin,Swing_County
+3053,Racine,55101,WI,196311,Wisconsin,Swing_County
+3054,Price,55099,WI,13351,Wisconsin,Swing_County
+3055,Outagamie,55087,WI,187885,Wisconsin,Swing_County
+3056,Richland,55103,WI,17252,Wisconsin,Swing_County
+3057,Rock,55105,WI,163354,Wisconsin,Democrats
+3058,St. Croix,55109,WI,90687,Wisconsin,Republicans
+3059,Barron,55005,WI,45244,Wisconsin,Swing_County
+3060,Sawyer,55113,WI,16558,Wisconsin,Swing_County
+3061,Marquette,55077,WI,15574,Wisconsin,Swing_County
+3062,Lincoln,55069,WI,27593,Wisconsin,Swing_County
+3063,Portage,55097,WI,70772,Wisconsin,Swing_County
+3064,Taylor,55119,WI,20343,Wisconsin,Swing_County
+3065,Eau Claire,55035,WI,104646,Wisconsin,Swing_County
+3066,Oneida,55085,WI,35595,Wisconsin,Swing_County
+3067,Fond du Lac,55039,WI,103403,Wisconsin,Republicans
+3068,Marathon,55073,WI,135692,Wisconsin,Swing_County
+3069,Kenosha,55059,WI,169561,Wisconsin,Swing_County
+3070,Green Lake,55047,WI,18913,Wisconsin,Republicans
+3071,Chippewa,55017,WI,64658,Wisconsin,Swing_County
+3072,Iowa,55049,WI,23678,Wisconsin,Democrats
+3073,Washington,55131,WI,136034,Wisconsin,Republicans
+3074,Sheboygan,55117,WI,115340,Wisconsin,Swing_County
+3075,Adams,55001,WI,20220,Wisconsin,Swing_County
+3076,Florence,55037,WI,4295,Wisconsin,Republicans
+3077,Ashland,55003,WI,15562,Wisconsin,Democrats
+3078,Iron,55051,WI,5687,Wisconsin,Swing_County
+3079,Bayfield,55007,WI,15036,Wisconsin,Democrats
+3080,Brown,55009,WI,264542,Wisconsin,Swing_County
+3081,Sauk,55111,WI,64442,Wisconsin,Swing_County
+3082,Winnebago,55139,WI,171907,Wisconsin,Swing_County
+3083,Buffalo,55011,WI,13031,Wisconsin,Swing_County
+3084,Manitowoc,55071,WI,78981,Wisconsin,Swing_County
+3085,Burnett,55013,WI,15414,Wisconsin,Swing_County
+3086,Clark,55019,WI,34774,Wisconsin,Swing_County
+3087,Columbia,55021,WI,57532,Wisconsin,Swing_County
+3088,Crawford,55023,WI,16131,Wisconsin,Swing_County
+3089,Dane,55025,WI,546695,Wisconsin,Democrats
+3090,Dodge,55027,WI,87839,Wisconsin,Republicans
+3091,Milwaukee,55079,WI,945726,Wisconsin,Democrats
+3092,Door,55029,WI,27668,Wisconsin,Swing_County
+3093,Douglas,55031,WI,43150,Wisconsin,Democrats
+3094,Dunn,55033,WI,45368,Wisconsin,Swing_County
+3095,Forest,55041,WI,9004,Wisconsin,Swing_County
+3096,Grant,55043,WI,51439,Wisconsin,Swing_County
+3097,Green,55045,WI,36960,Wisconsin,Swing_County
+3098,Jackson,55053,WI,20643,Wisconsin,Swing_County
+3099,Juneau,55057,WI,26687,Wisconsin,Swing_County
+3100,Kewaunee,55061,WI,20434,Wisconsin,Swing_County
+3101,La Crosse,55063,WI,118016,Wisconsin,Democrats
+3102,Lafayette,55065,WI,16665,Wisconsin,Swing_County
+3103,Langlade,55067,WI,19189,Wisconsin,Swing_County
+3104,Marinette,55075,WI,40350,Wisconsin,Swing_County
+3105,Menominee,55078,WI,4556,Wisconsin,Democrats
+3106,Oconto,55083,WI,37930,Wisconsin,Swing_County
+3107,Ozaukee,55089,WI,89221,Wisconsin,Republicans
+3108,Pepin,55091,WI,7287,Wisconsin,Swing_County
+3109,Pierce,55093,WI,42754,Wisconsin,Swing_County
+3110,Polk,55095,WI,43783,Wisconsin,Swing_County
+3111,Shawano,55115,WI,40899,Wisconsin,Swing_County
+3112,Trempealeau,55121,WI,29649,Wisconsin,Swing_County
+3113,Vernon,55123,WI,30822,Wisconsin,Swing_County
+3114,Vilas,55125,WI,22195,Wisconsin,Republicans
+3115,Walworth,55127,WI,103868,Wisconsin,Republicans
+3116,Waukesha,55133,WI,404198,Wisconsin,Republicans
+3117,Wood,55141,WI,72999,Wisconsin,Swing_County
+3118,Platte,56031,WY,8393,Wyoming,Republicans
+3119,Crook,56011,WY,7584,Wyoming,Republicans
+3120,Campbell,56005,WY,46341,Wyoming,Republicans
+3121,Big Horn,56003,WY,11790,Wyoming,Republicans
+3122,Carbon,56007,WY,14800,Wyoming,Republicans
+3123,Converse,56009,WY,13822,Wyoming,Republicans
+3124,Uinta,56041,WY,20226,Wyoming,Republicans
+3125,Albany,56001,WY,38880,Wyoming,Swing_County
+3126,Washakie,56043,WY,7805,Wyoming,Republicans
+3127,Fremont,56013,WY,39261,Wyoming,Republicans
+3128,Goshen,56015,WY,13211,Wyoming,Republicans
+3129,Teton,56039,WY,23464,Wyoming,Democrats
+3130,Hot Springs,56017,WY,4413,Wyoming,Republicans
+3131,Johnson,56019,WY,8445,Wyoming,Republicans
+3132,Laramie,56021,WY,99500,Wyoming,Republicans
+3133,Weston,56045,WY,6927,Wyoming,Republicans
+3134,Lincoln,56023,WY,19830,Wyoming,Republicans
+3135,Natrona,56025,WY,79858,Wyoming,Republicans
+3136,Niobrara,56027,WY,2356,Wyoming,Republicans
+3137,Park,56029,WY,29194,Wyoming,Republicans
+3138,Sheridan,56033,WY,30485,Wyoming,Republicans
+3139,Sublette,56035,WY,9831,Wyoming,Republicans
+3140,Sweetwater,56037,WY,42343,Wyoming,Republicans
+3141,District of Columbia,11001,DC,705749,District of Columbia,Democrats
